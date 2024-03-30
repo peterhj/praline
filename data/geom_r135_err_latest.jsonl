@@ -1,0 +1,457 @@
+{"i":303,"result":"err","rem":0.0,"inc_val":" Suppose that the lines $FK$ and $GL$ are distinct and intersect at $X$.","val":" Suppose that the lines $FK$ and $GL$ are distinct and intersect at $X$."}
+{"i":568,"result":"err","rem":0.012048192771084376,"inc_val":" In an acute-angled triangle $ABC$, point $H$ is the foot of the altitude from $A$","val":" In an acute-angled triangle $ABC$, point $H$ is the foot of the altitude from $A$."}
+{"i":422,"result":"err","rem":0.013157894736842146,"inc_val":" Prove that the lines $AA_2$, $BB_2$, and $CC_2$ are concurrent on $\\Omega$","val":" Prove that the lines $AA_2$, $BB_2$, and $CC_2$ are concurrent on $\\Omega$."}
+{"i":266,"result":"err","rem":0.045454545454545414,"inc_val":" Let $\\Omega$ and $O$ be the circumcircle and the circumcentre of an acute-angled triangle $ABC$ with $AB","val":" Let $\\Omega$ and $O$ be the circumcircle and the circumcentre of an acute-angled triangle $ABC$ with $AB>BC$."}
+{"i":234,"result":"err","rem":0.061855670103092786,"inc_val":" Let $ABC$ be an acute-angled triangle with orthocenter $H$, and let $W$ be a point on side","val":" Let $ABC$ be an acute-angled triangle with orthocenter $H$, and let $W$ be a point on side $BC$."}
+{"i":168,"result":"err","rem":0.07246376811594202,"inc_val":" Define $O_2$, $O_3$, $O_4$ and $r_2$, $r_3$, $r_4$ in a similar","val":" Define $O_2$, $O_3$, $O_4$ and $r_2$, $r_3$, $r_4$ in a similar way."}
+{"i":390,"result":"err","rem":0.07777777777777772,"inc_val":" Let the diagonals $AC_1$ and $A_1C$ meet at $D$, and denote by $\\omega$ the circle","val":" Let the diagonals $AC_1$ and $A_1C$ meet at $D$, and denote by $\\omega$ the circle $ABC$."}
+{"i":3,"result":"err","rem":0.09090909090909094,"inc_val":" Let $ABCD$ be a trapezoid with parallel sides $AB","val":" Let $ABCD$ be a trapezoid with parallel sides $AB>CD$."}
+{"i":547,"result":"err","rem":0.09615384615384615,"inc_val":" Let $ABCDE$ be a convex pentagon such that $BC","val":" Let $ABCDE$ be a convex pentagon such that $BC=DE$."}
+{"i":507,"result":"err","rem":0.10204081632653061,"inc_val":" Let $ABCD$ be a parallelogram such that $AC","val":" Let $ABCD$ be a parallelogram such that $AC=BC$."}
+{"i":39,"result":"err","rem":0.10416666666666663,"inc_val":" Given an isosceles triangle $ABC$ with $AB","val":" Given an isosceles triangle $ABC$ with $AB=AC$."}
+{"i":225,"result":"err","rem":0.10666666666666669,"inc_val":" The circumcircles of the triangles $BFD$ and $CDE$ intersect at $P","val":" The circumcircles of the triangles $BFD$ and $CDE$ intersect at $P\\neq D$."}
+{"i":462,"result":"err","rem":0.11111111111111116,"inc_val":" The circumcircles of triangles $PCE$ and $PBF$ meet again at $Q","val":" The circumcircles of triangles $PCE$ and $PBF$ meet again at $Q\\neq P$."}
+{"i":469,"result":"err","rem":0.11176470588235299,"inc_val":" Let the perpendicular bisector of $PQ$ meet line segment $CQ$ at $E$, and let the circumcircles of triangles $ABC$ and $CPQ$ meet again at point $F$, ","val":" Let the perpendicular bisector of $PQ$ meet line segment $CQ$ at $E$, and let the circumcircles of triangles $ABC$ and $CPQ$ meet again at point $F$, different from $C$."}
+{"i":324,"result":"err","rem":0.1127819548872181,"inc_val":" Let $H$, $M$, and $F$ be the orthocenter of the triangle, the midpoint of $BC$, and the foot of the altitude from $A$","val":" Let $H$, $M$, and $F$ be the orthocenter of the triangle, the midpoint of $BC$, and the foot of the altitude from $A$, respectively."}
+{"i":526,"result":"err","rem":0.12121212121212122,"inc_val":" Prove that the lines $AC$, $DT$, and $BK$ intersect at on","val":" Prove that the lines $AC$, $DT$, and $BK$ intersect at one point."}
+{"i":101,"result":"err","rem":0.13157894736842102,"inc_val":" Let $ABC$ be a triangle with $AB","val":" Let $ABC$ be a triangle with $AB=AC$."}
+{"i":142,"result":"err","rem":0.13559322033898302,"inc_val":" Let the line $AI$ intersect $\\Gamma$ at a point $D","val":" Let the line $AI$ intersect $\\Gamma$ at a point $D\\neq A$."}
+{"i":344,"result":"err","rem":0.15957446808510634,"inc_val":" Suppose the circumcircle of triangle $AEF$ intersects $\\Gamma$ at a point $X$ ","val":" Suppose the circumcircle of triangle $AEF$ intersects $\\Gamma$ at a point $X$ other than $A$."}
+{"i":424,"result":"err","rem":0.16216216216216217,"inc_val":" A line $\\ell$ intersects the lines $AI$, $BI$, and $CI$ at points $D$, $E$, and $F$, respectively, distinct from the points","val":" A line $\\ell$ intersects the lines $AI$, $BI$, and $CI$ at points $D$, $E$, and $F$, respectively, distinct from the points $A$, $B$, $C$, and $I$."}
+{"i":97,"result":"err","rem":0.1636363636363637,"inc_val":" Let $ABCD$ be a convex quadrilateral with $AB","val":" Let $ABCD$ be a convex quadrilateral with $AB\\neq BC$."}
+{"i":562,"result":"err","rem":0.18181818181818177,"inc_val":" The circumcircles of triangles $AXY$ and $ABC$ intersect again","val":" The circumcircles of triangles $AXY$ and $ABC$ intersect again at $Z\\neq A$."}
+{"i":439,"result":"err","rem":0.19047619047619047,"inc_val":" Prove that line $AT$ is parallel ","val":" Prove that line $AT$ is parallel to $BC$."}
+{"i":38,"result":"err","rem":0.19298245614035092,"inc_val":" Prove that triangles $RQT$ and $RPS$ have the","val":" Prove that triangles $RQT$ and $RPS$ have the same area."}
+{"i":63,"result":"err","rem":0.19999999999999996,"inc_val":" Point $D$ is the foot of the altitude from ","val":" Point $D$ is the foot of the altitude from vertex $A$."}
+{"i":316,"result":"err","rem":0.2142857142857143,"inc_val":" Let $ABC$ be a triangle with $CA","val":" Let $ABC$ be a triangle with $CA\\neq CB$."}
+{"i":171,"result":"err","rem":0.2149532710280374,"inc_val":" Suppose that the circles with diameters $AB$ and $CD$ meet at points $E$ and $F$ in","val":" Suppose that the circles with diameters $AB$ and $CD$ meet at points $E$ and $F$ inside the quadrilateral."}
+{"i":391,"result":"err","rem":0.21875,"inc_val":" Let $\\omega$ intersect the circle $A_1BC_1$ again","val":" Let $\\omega$ intersect the circle $A_1BC_1$ again at $E\\neq B$."}
+{"i":4,"result":"err","rem":0.2315789473684211,"inc_val":" Points $K$ and $L$ lie on the line segments $AB$ and $CD$ respectively, ","val":" Points $K$ and $L$ lie on the line segments $AB$ and $CD$ respectively, so that $AK/KB=KL/LC$."}
+{"i":296,"result":"err","rem":0.23655913978494625,"inc_val":" Suppose that the line $AC$ intersects the circumcircle of the triangle","val":" Suppose that the line $AC$ intersects the circumcircle of the triangle $GCI$ at $C$ and $J$."}
+{"i":249,"result":"err","rem":0.24,"inc_val":" Let $ABC$ be a triangle with $\\angle ","val":" Let $ABC$ be a triangle with $\\angle B>\\angle C$."}
+{"i":102,"result":"err","rem":0.24468085106382975,"inc_val":" The angle bisectors of $A$ and $B$ meet the sides $BC$ and $AC$ in $D$","val":" The angle bisectors of $A$ and $B$ meet the sides $BC$ and $AC$ in $D$ and $E$, respectively."}
+{"i":326,"result":"err","rem":0.2471910112359551,"inc_val":" Prove that the circumcircles of the triangles $KQH$ and $KFM$ are ","val":" Prove that the circumcircles of the triangles $KQH$ and $KFM$ are tangent to each other."}
+{"i":113,"result":"err","rem":0.25,"inc_val":" Prove that $GR","val":" Prove that $GR=GS$."}
+{"i":133,"result":"err","rem":0.25,"inc_val":" Prove that $AP","val":" Prove that $AP=AQ$."}
+{"i":196,"result":"err","rem":0.25,"inc_val":" Prove that $DJ","val":" Prove that $DJ=DL$."}
+{"i":226,"result":"err","rem":0.25,"inc_val":" Prove that $OP","val":" Prove that $OP=OI$."}
+{"i":244,"result":"err","rem":0.25,"inc_val":" Prove that $KA","val":" Prove that $KA=KT$."}
+{"i":253,"result":"err","rem":0.25,"inc_val":" Prove that $QB","val":" Prove that $QB=QR$."}
+{"i":271,"result":"err","rem":0.25,"inc_val":" Prove that $BR","val":" Prove that $BR|AC$."}
+{"i":297,"result":"err","rem":0.25,"inc_val":" Prove that $IJ","val":" Prove that $IJ=AH$."}
+{"i":322,"result":"err","rem":0.25,"inc_val":" Prove that $CQ","val":" Prove that $CQ=CP$."}
+{"i":409,"result":"err","rem":0.25,"inc_val":" Prove that $DE","val":" Prove that $DE|FG$."}
+{"i":443,"result":"err","rem":0.25,"inc_val":" Prove that $MP","val":" Prove that $MP=NQ$."}
+{"i":475,"result":"err","rem":0.25,"inc_val":" Prove that $AQ","val":" Prove that $AQ=BQ$."}
+{"i":492,"result":"err","rem":0.25287356321839083,"inc_val":" Prove that the circumcircles of triangles $AID$ and $I_AEF$ are ","val":" Prove that the circumcircles of triangles $AID$ and $I_AEF$ are tangent to each other."}
+{"i":479,"result":"err","rem":0.2588235294117647,"inc_val":" Prove that the circumcircles of triangles $BEK$ and $DFL$ are ","val":" Prove that the circumcircles of triangles $BEK$ and $DFL$ are tangent to each other."}
+{"i":532,"result":"err","rem":0.28,"inc_val":" Assume that $BD_1","val":" Assume that $BD_1|DB_1$."}
+{"i":150,"result":"err","rem":0.2857142857142857,"inc_val":" Prove that the incenter of triangle $ABC$ lies in","val":" Prove that the incenter of triangle $ABC$ lies inside triangle $XYZ$."}
+{"i":278,"result":"err","rem":0.29166666666666663,"inc_val":" Let $ABCD$ be a convex quadrilateral with $\\angle ","val":" Let $ABCD$ be a convex quadrilateral with $\\angle B=\\angle D=90^\\circ$."}
+{"i":327,"result":"err","rem":0.3157894736842105,"inc_val":" Let $ABC$ be a convex quadrilateral, and let $P$, $Q$, $R$, and $S$ be points on the sides","val":" Let $ABC$ be a convex quadrilateral, and let $P$, $Q$, $R$, and $S$ be points on the sides $AB$, $BC$, $CD$, and $DA$, respectively."}
+{"i":357,"result":"err","rem":0.3157894736842105,"inc_val":" Let $ABCD$ be a convex quadrilateral with $\\angle A","val":" Let $ABCD$ be a convex quadrilateral with $\\angle ABC=\\angle ADC<90^\\circ$."}
+{"i":241,"result":"err","rem":0.31690140845070425,"inc_val":" The circumcircles of the triangles $AMT$ and $ANT$ intersect the perpendicular bisectors of $AC$","val":" The circumcircles of the triangles $AMT$ and $ANT$ intersect the perpendicular bisectors of $AC$ and $AB$ at points $X$ and $Y$ respectively;"}
+{"i":383,"result":"err","rem":0.31707317073170727,"inc_val":" Prove that the circumcenter of triangle $PQH$ lies on a","val":" Prove that the circumcenter of triangle $PQH$ lies on a median of triangle $ABC$."}
+{"i":49,"result":"err","rem":0.31999999999999995,"inc_val":" Suppose that $EF","val":" Suppose that $EF=EG=EC$."}
+{"i":552,"result":"err","rem":0.3203125,"inc_val":" In the acute-angled triangle $ABC$, the point $F$ is the foot of the altitude from $A$","val":" In the acute-angled triangle $ABC$, the point $F$ is the foot of the altitude from $A$, and $P$ is a point on the segment $AF$."}
+{"i":208,"result":"err","rem":0.3362068965517241,"inc_val":" Let $G$ be the point such that $ECGD$ is a parallelogram, and let $H$ be the","val":" Let $G$ be the point such that $ECGD$ is a parallelogram, and let $H$ be the image of $E$ under reflection in $AD$."}
+{"i":206,"result":"err","rem":0.3375,"inc_val":" Let $ABCD$ be a cyclic quadrilateral whose diagonals","val":" Let $ABCD$ be a cyclic quadrilateral whose diagonals $AC$ and $BD$ meet at $E$."}
+{"i":192,"result":"err","rem":0.33766233766233766,"inc_val":" Suppose that the circumcircle of triangle $ACE$ is","val":" Suppose that the circumcircle of triangle $ACE$ is concentric with $\\omega$."}
+{"i":491,"result":"err","rem":0.3382352941176471,"inc_val":" The line $AD$ meets $BI_A$ and $CI_A$ at $E$","val":" The line $AD$ meets $BI_A$ and $CI_A$ at $E$ and $F$, respectively."}
+{"i":485,"result":"err","rem":0.3384615384615385,"inc_val":" Let $ABCD$ be a cyclic quadrilateral with ","val":" Let $ABCD$ be a cyclic quadrilateral with no two sides parallel."}
+{"i":281,"result":"err","rem":0.3466666666666667,"inc_val":" Prove that the circumcircle of triangle $SHT$ is","val":" Prove that the circumcircle of triangle $SHT$ is tangent to the line $BD$."}
+{"i":320,"result":"err","rem":0.3484848484848485,"inc_val":" The line $H'I'$ meets $CD$ and $FG$ at $Q$","val":" The line $H'I'$ meets $CD$ and $FG$ at $Q$ and $M$, respectively."}
+{"i":230,"result":"err","rem":0.34905660377358494,"inc_val":" Let $ABC$ be a triangle with circumcircle $\\omega$ and $\\ell$ a line","val":" Let $ABC$ be a triangle with circumcircle $\\omega$ and $\\ell$ a line without common points with $\\omega$."}
+{"i":67,"result":"err","rem":0.3548387096774194,"inc_val":" Point $P$ lies on side $AB$ of a convex","val":" Point $P$ lies on side $AB$ of a convex quadrilateral $ABCD$."}
+{"i":40,"result":"err","rem":0.3555555555555555,"inc_val":" The midpoint of side $BC$ is","val":" The midpoint of side $BC$ is denoted by $M$."}
+{"i":442,"result":"err","rem":0.3564356435643564,"inc_val":" Let line $MN$ meet circles $\\omega_B$ and $\\omega_C$ again at $P","val":" Let line $MN$ meet circles $\\omega_B$ and $\\omega_C$ again at $P\\neq M$ and $Q\\neq N$, respectively."}
+{"i":542,"result":"err","rem":0.36220472440944884,"inc_val":" Let $\\omega$ be the circumcircle of a triangle $ABC$, and let $\\Omega_A$ be its ","val":" Let $\\omega$ be the circumcircle of a triangle $ABC$, and let $\\Omega_A$ be its excircle which is tangent to the segment $BC$."}
+{"i":335,"result":"err","rem":0.3666666666666667,"inc_val":" In a convex pentagon $ABCDE$, let $F$ be a point on $AC$","val":" In a convex pentagon $ABCDE$, let $F$ be a point on $AC$ such that $\\angle FBC=90^\\circ$."}
+{"i":456,"result":"err","rem":0.36708860759493667,"inc_val":" Let the incircle meet $BC$, $CA$, and $AB$ at $D$","val":" Let the incircle meet $BC$, $CA$, and $AB$ at $D$, $E$, and $F$, respectively."}
+{"i":121,"result":"err","rem":0.3707865168539326,"inc_val":" Denote the midpoints of segments $O_1H_1$ and $O_2H_2$ ","val":" Denote the midpoints of segments $O_1H_1$ and $O_2H_2$ by $E_1$ and $E_2$, respectively."}
+{"i":384,"result":"err","rem":0.3709677419354839,"inc_val":" In triangle $ABC$, let $\\omega$ be the","val":" In triangle $ABC$, let $\\omega$ be the excircle opposite $A$."}
+{"i":98,"result":"err","rem":0.375,"inc_val":" Denote by $\\omega_1$ and $\\omega_2$ the incircles","val":" Denote by $\\omega_1$ and $\\omega_2$ the incircles of triangles $ABC$ and $ADC$."}
+{"i":440,"result":"err","rem":0.37579617834394907,"inc_val":" Let $ABC$ be an acute-angled triangle and let $D$, $E$, and $F$ be the feet of altitudes from $A$","val":" Let $ABC$ be an acute-angled triangle and let $D$, $E$, and $F$ be the feet of altitudes from $A$, $B$, and $C$ to sides $BC$, $CA$, and $AB$, respectively."}
+{"i":360,"result":"err","rem":0.37662337662337664,"inc_val":" Segments $BM$ and $DM$ intersect $\\omega$ again","val":" Segments $BM$ and $DM$ intersect $\\omega$ again at $X$ and $Y$ respectively."}
+{"i":432,"result":"err","rem":0.37962962962962965,"inc_val":" Denote the circumcentres of the triangles $AOP$, $BOP$, and $COP$ ","val":" Denote the circumcentres of the triangles $AOP$, $BOP$, and $COP$ by $O_A$, $O_B$, and $O_C$, respectively."}
+{"i":356,"result":"err","rem":0.379746835443038,"inc_val":" Prove that the circumcentre of triangle $XSY$ is","val":" Prove that the circumcentre of triangle $XSY$ is equidistant from $P$ and $M$."}
+{"i":471,"result":"err","rem":0.38235294117647056,"inc_val":" Prove that $\\angle A","val":" Prove that $\\angle ACB=90^\\circ$."}
+{"i":388,"result":"err","rem":0.3846153846153846,"inc_val":" Prove that the circle $MPQ$ is ","val":" Prove that the circle $MPQ$ is tangent to $\\omega$."}
+{"i":104,"result":"err","rem":0.38888888888888884,"inc_val":" Suppose that $\\angle ","val":" Suppose that $\\angle BEK=45^\\circ$."}
+{"i":264,"result":"err","rem":0.38961038961038963,"inc_val":" The points $K$, $L$, and $M$ lie on the segments $BC$, $CA$, and $AB$ respectively, such that","val":" The points $K$, $L$, and $M$ lie on the segments $BC$, $CA$, and $AB$ respectively, such that the lines $AK$, $BL$, and $CM$ intersect in a common point."}
+{"i":174,"result":"err","rem":0.39370078740157477,"inc_val":" Prove that the midpoint of the segment $EF$ lies on the line through the two","val":" Prove that the midpoint of the segment $EF$ lies on the line through the two intersection points of $\\omega_E$ and $\\omega_F$."}
+{"i":170,"result":"err","rem":0.3950617283950617,"inc_val":" Let $ABCD$ be a convex quadrilateral whose sides","val":" Let $ABCD$ be a convex quadrilateral whose sides $AD$ and $BC$ are not parallel."}
+{"i":362,"result":"err","rem":0.4,"inc_val":" Prove that $PQ","val":" Prove that $PQ\\perp AC$."}
+{"i":546,"result":"err","rem":0.4,"inc_val":" Prove that $AR","val":" Prove that $AR\\perp BC$."}
+{"i":527,"result":"err","rem":0.4024390243902439,"inc_val":" Let $ABCD$ be a cyclic quadrilateral whose sides","val":" Let $ABCD$ be a cyclic quadrilateral whose sides have pairwise different lengths."}
+{"i":336,"result":"err","rem":0.4054054054054054,"inc_val":" Suppose triangles $ABF$, $ACD$, and $ADE$ are similar isosceles triangles with $\\angle ","val":" Suppose triangles $ABF$, $ACD$, and $ADE$ are similar isosceles triangles with $\\angle FAB=\\angle FBA=\\angle DAC=\\angle DCA=\\angle EAD=\\angle EDA$."}
+{"i":400,"result":"err","rem":0.4117647058823529,"inc_val":" Prove that $\\angle ","val":" Prove that $\\angle XIY=90^\\circ$."}
+{"i":351,"result":"err","rem":0.41414141414141414,"inc_val":" The line $BI$ meets $AC$ at $D$, and the line through $D$","val":" The line $BI$ meets $AC$ at $D$, and the line through $D$ perpendicular to $AC$ meets $AI$ at $E$."}
+{"i":83,"result":"err","rem":0.41666666666666663,"inc_val":" Let $ABCD$ be a convex quadrilateral and let $P$ and $Q$ be points in $ABCD$","val":" Let $ABCD$ be a convex quadrilateral and let $P$ and $Q$ be points in $ABCD$ such that $PQDA$ and $QPBC$ are cyclic quadrilaterals."}
+{"i":549,"result":"err","rem":0.42771084337349397,"inc_val":" Let lines $CD$ and $CT$ intersect line $AB$ at points $P$ and $Q$, respectively, and let lines","val":" Let lines $CD$ and $CT$ intersect line $AB$ at points $P$ and $Q$, respectively, and let lines $CD$ and $DT$ intersect line $AE$ at points $R$ and $S$, respectively."}
+{"i":15,"result":"err","rem":0.4320987654320988,"inc_val":" Suppose that the lines $A_1B_1$ and $AB$ are ","val":" Suppose that the lines $A_1B_1$ and $AB$ are perpendicular and intersect at $D$."}
+{"i":227,"result":"err","rem":0.4342105263157895,"inc_val":" Let $ABCD$ be a convex quadrilateral with ","val":" Let $ABCD$ be a convex quadrilateral with non-parallel sides $BC$ and $AD$."}
+{"i":242,"result":"err","rem":0.4363636363636364,"inc_val":" assume that $X$ and $Y$ lie in","val":" assume that $X$ and $Y$ lie inside the triangle $ABC$."}
+{"i":495,"result":"err","rem":0.4369747899159664,"inc_val":" Denote by $\\omega_A$, $\\omega_B$, and $\\omega_C$ the circumcircles","val":" Denote by $\\omega_A$, $\\omega_B$, and $\\omega_C$ the circumcircles of triangles $ADP$, $BEP$, and $CFP$, respectively."}
+{"i":46,"result":"err","rem":0.4444444444444444,"inc_val":" Prove that $\\angle ","val":" Prove that $\\angle BQP=\\angle DAQ$."}
+{"i":86,"result":"err","rem":0.4461538461538461,"inc_val":" In an acute triangle $ABC$ segments","val":" In an acute triangle $ABC$ segments $BE$ and $CF$ are altitudes."}
+{"i":135,"result":"err","rem":0.44999999999999996,"inc_val":" Lines $AP$, $BP$, $CP$, meet the circumcircle of $ABC$","val":" Lines $AP$, $BP$, $CP$, meet the circumcircle of $ABC$ again at points $K$, $L$, $M$, respectively."}
+{"i":233,"result":"err","rem":0.45390070921985815,"inc_val":" Prove that the circumcircles of the triangles $AXP$, $BYP$, and $CZP$ have a","val":" Prove that the circumcircles of the triangles $AXP$, $BYP$, and $CZP$ have a common point different from $P$ or are mutually tangent at $P$."}
+{"i":408,"result":"err","rem":0.4586466165413534,"inc_val":" The perpendicular bisectors of the segments $BD$ and $CE$ intersect the","val":" The perpendicular bisectors of the segments $BD$ and $CE$ intersect the small arcs $AB$ and $AC$ at points $F$ and $G$ respectively."}
+{"i":188,"result":"err","rem":0.4606741573033708,"inc_val":" The line $BD$ intersects the circle through $A$","val":" The line $BD$ intersects the circle through $A$, $E$, and $B$ in two points $B$ and $F$."}
+{"i":64,"result":"err","rem":0.46153846153846156,"inc_val":" Point $K$ lies on line $AD$ such that $AK","val":" Point $K$ lies on line $AD$ such that $AK=2R$, and $D$ separates $A$ and $K$."}
+{"i":108,"result":"err","rem":0.46341463414634143,"inc_val":" The circle $k$ passes through the midpoints","val":" The circle $k$ passes through the midpoints of the segments $BP$, $CQ$, and $PQ$."}
+{"i":522,"result":"err","rem":0.467741935483871,"inc_val":" Let $ABCD$ be a quadrilateral in","val":" Let $ABCD$ be a quadrilateral inscribed in a circle $\\Omega$."}
+{"i":551,"result":"err","rem":0.46808510638297873,"inc_val":" Prove that the points $P","val":" Prove that the points $P,S,Q,R$ are concyclic."}
+{"i":493,"result":"err","rem":0.472972972972973,"inc_val":" Let $P$ be a point on the circumcircle","val":" Let $P$ be a point on the circumcircle of an acute-angled triangle $ABC$."}
+{"i":164,"result":"err","rem":0.47619047619047616,"inc_val":" Suppose also that the circumcenter $O$ of the triangle","val":" Suppose also that the circumcenter $O$ of the triangle $ABC$ lies on the shorter arc $B'C'$ of $\\omega$."}
+{"i":214,"result":"err","rem":0.47619047619047616,"inc_val":" Let $ABC$ be a triangle with $AB","val":" Let $ABC$ be a triangle with $AB\\neq AC$ and circumcenter $O$."}
+{"i":414,"result":"err","rem":0.47619047619047616,"inc_val":" A circle $\\omega$ of ","val":" A circle $\\omega$ of radius $1$ is given."}
+{"i":448,"result":"err","rem":0.47619047619047616,"inc_val":" Let $P$ be a point in","val":" Let $P$ be a point inside triangle $ABC$."}
+{"i":397,"result":"err","rem":0.47887323943661975,"inc_val":" A convex quadrilateral $ABCD$ has an","val":" A convex quadrilateral $ABCD$ has an inscribed circle with center $I$."}
+{"i":330,"result":"err","rem":0.48351648351648346,"inc_val":" Prove that the lines $AC$, $PQ$, and $RS$ are ","val":" Prove that the lines $AC$, $PQ$, and $RS$ are either concurrent or parallel to each other."}
+{"i":573,"result":"err","rem":0.48453608247422686,"inc_val":" Let $\\Omega$ be the circumcircle of the triangle ","val":" Let $\\Omega$ be the circumcircle of the triangle determined by the lines $AA'$, $BB'$ and $CC'$."}
+{"i":31,"result":"err","rem":0.48484848484848486,"inc_val":" The circumcircles of triangles $AB_1C_1$, $BC_1A_1$, $CA_1B_1$ intersect the circumcircle of triangle","val":" The circumcircles of triangles $AB_1C_1$, $BC_1A_1$, $CA_1B_1$ intersect the circumcircle of triangle $ABC$ again at points $A_2$, $B_2$, $C_2$ respectively ($A_2\\neq A$, $B_2\\neq B$, $C_2\\neq C$)."}
+{"i":146,"result":"err","rem":0.4946236559139785,"inc_val":" Let $ABCDE$ be a convex pentagon such that $BC","val":" Let $ABCDE$ be a convex pentagon such that $BC|AE$, $AB=BC+AE$, and $\\angle ABC=\\angle CDE$."}
+{"i":457,"result":"err","rem":0.49557522123893805,"inc_val":" Let line $EF$ intersect the circumcircle of the triangle","val":" Let line $EF$ intersect the circumcircle of the triangle at $P$ and $Q$, such that $F$ lies between $E$ and $P$."}
+{"i":29,"result":"err","rem":0.5,"inc_val":" Prove that $AB","val":" Prove that $AB+CD\\geq BC+AD$."}
+{"i":50,"result":"err","rem":0.5,"inc_val":" Prove that $\\ell$ is the","val":" Prove that $\\ell$ is the bisector of angle $DAB$."}
+{"i":355,"result":"err","rem":0.5054945054945055,"inc_val":" Let $P$ be the foot of the altitude from $A$","val":" Let $P$ be the foot of the altitude from $A$ to $BC$, and let $M$ be the midpoint of $BC$."}
+{"i":452,"result":"err","rem":0.5058823529411764,"inc_val":" Let $ABCDE$ be a convex pentagon with $CD","val":" Let $ABCDE$ be a convex pentagon with $CD=DE$ and $\\angle EDC\\neq 2\\cdot\\angle ADB$."}
+{"i":295,"result":"err","rem":0.5074626865671642,"inc_val":" Let $I$ be the point on the line","val":" Let $I$ be the point on the line $GH$ such that $AC$ bisects $HI$."}
+{"i":411,"result":"err","rem":0.5074626865671642,"inc_val":" Let $P$ be a point such that $PB","val":" Let $P$ be a point such that $PB<PC$ and $PA$ is parallel to $BC$."}
+{"i":162,"result":"err","rem":0.5076923076923077,"inc_val":" Let $\\omega$ be a circle whose ","val":" Let $\\omega$ be a circle whose center $L$ lies on the side $BC$."}
+{"i":425,"result":"err","rem":0.515625,"inc_val":" The perpendicular bisectors $x$, $y$, and $z$ of the segments","val":" The perpendicular bisectors $x$, $y$, and $z$ of the segments $AD$, $BE$, and $CF$, respectively determine a triangle $\\Theta$."}
+{"i":5,"result":"err","rem":0.5193798449612403,"inc_val":" Suppose that there are points $P$ and $Q$ on the line segment","val":" Suppose that there are points $P$ and $Q$ on the line segment $KL$ satisfying $\\angle APB=\\angle BC$ and $\\angle CQD=\\angle AB$."}
+{"i":128,"result":"err","rem":0.52,"inc_val":" Denote by $I_1$, $I_2$, and $I_3$ the incenters","val":" Denote by $I_1$, $I_2$, and $I_3$ the incenters of triangles $ABM$, $MNC$, and $NDA$, respectively."}
+{"i":166,"result":"err","rem":0.52,"inc_val":" Let $A_1A_2A_3A_4$ be a","val":" Let $A_1A_2A_3A_4$ be a non-cyclic quadrilateral."}
+{"i":427,"result":"err","rem":0.523076923076923,"inc_val":" A convex quadrilateral $ABCD$ ","val":" A convex quadrilateral $ABCD$ satisfies $AB\\cdot CD=BC\\cdot DA$."}
+{"i":279,"result":"err","rem":0.5245901639344263,"inc_val":" Point $H$ is the foot of the","val":" Point $H$ is the foot of the perpendicular from $A$ to $BD$."}
+{"i":134,"result":"err","rem":0.5263157894736843,"inc_val":" Point $P$ lies in","val":" Point $P$ lies inside triangle $ABC$."}
+{"i":381,"result":"err","rem":0.5319148936170213,"inc_val":" Line $OA$ intersects the altitudes of $ABC$","val":" Line $OA$ intersects the altitudes of $ABC$ through $B$ and $C$ at $P$ and $Q$, respectively."}
+{"i":407,"result":"err","rem":0.5333333333333333,"inc_val":" Let $D$ and $E$ be points on the segments","val":" Let $D$ and $E$ be points on the segments $AB$ and $AC$, respectively, such that $AD=AE$."}
+{"i":177,"result":"err","rem":0.5360824742268041,"inc_val":" Let $D$ be the foot of the altitude from $A$","val":" Let $D$ be the foot of the altitude from $A$, and let $G$ be the centroid of the triangle $ABC$."}
+{"i":267,"result":"err","rem":0.536231884057971,"inc_val":" The angle bisector of $\\angle A","val":" The angle bisector of $\\angle ABC$ intersects $\\Omega$ at $M\\neq B$."}
+{"i":84,"result":"err","rem":0.5396825396825398,"inc_val":" Suppose that there exists a point $E$ on the line segment","val":" Suppose that there exists a point $E$ on the line segment $PQ$ such that $\\angle PAE=\\angle QDE$ and $\\angle PBE=\\angle QCE$."}
+{"i":193,"result":"err","rem":0.5423728813559322,"inc_val":" Let $J$ be the foot of the","val":" Let $J$ be the foot of the perpendicular from $B$ to $CD$."}
+{"i":195,"result":"err","rem":0.5423728813559322,"inc_val":" Let $L$ be the foot of the","val":" Let $L$ be the foot of the perpendicular from $K$ to $DE$."}
+{"i":429,"result":"err","rem":0.5434782608695652,"inc_val":" Prove that $\\angle A","val":" Prove that $\\angle AXB+\\angle CXD=180^\\circ$."}
+{"i":511,"result":"err","rem":0.5476190476190477,"inc_val":" Let $ABCD$ be a convex quadrilateral ","val":" Let $ABCD$ be a convex quadrilateral circumscribed around a circle with centre $I$."}
+{"i":350,"result":"err","rem":0.547945205479452,"inc_val":" Let $ABC$ be a triangle with $AB","val":" Let $ABC$ be a triangle with $AB=AC\\neq BC$ and let $I$ be its incentre."}
+{"i":323,"result":"err","rem":0.5512820512820513,"inc_val":" Let $ABC$ be an acute triangle $AB","val":" Let $ABC$ be an acute triangle $AB>AC$, and let $\\Gamma$ be its circumcircle."}
+{"i":7,"result":"err","rem":0.5517241379310345,"inc_val":" Let $ABCDE$ be a convex pentagon such that $\\angle ","val":" Let $ABCDE$ be a convex pentagon such that $\\angle BAC=\\angle CAD=\\angle DA$ and $\\angle ABC=\\angle ACD=\\angle AD$."}
+{"i":470,"result":"err","rem":0.5555555555555556,"inc_val":" Suppose that $P","val":" Suppose that $P,E,F$ are collinear."}
+{"i":476,"result":"err","rem":0.5555555555555556,"inc_val":" Let $ABCD$ be a convex quadrilateral with $\\angle A","val":" Let $ABCD$ be a convex quadrilateral with $\\angle ABC>90^\\circ$, $\\angle CDA>90^\\circ$, and $\\angle DBA=\\angle BCD$."}
+{"i":186,"result":"err","rem":0.56,"inc_val":" Let $ABC$ be a triangle with $AB","val":" Let $ABC$ be a triangle with $AB=AC$, and let $D$ be the midpoint of $AC$."}
+{"i":410,"result":"err","rem":0.56,"inc_val":" Let $ABC$ be a triangle with $AB","val":" Let $ABC$ be a triangle with $AB=AC$, and let $M$ be the midpoint of $BC$."}
+{"i":372,"result":"err","rem":0.5688073394495412,"inc_val":" Let $ABCDE$ be a convex pentagon such that $AB","val":" Let $ABCDE$ be a convex pentagon such that $AB=BC=CD$, $\\angle EAB=\\angle BCD$, and $\\angle EDC=\\angle CBA$."}
+{"i":325,"result":"err","rem":0.5740740740740741,"inc_val":" Let $Q$ and $K$ be the two points on $\\Gamma$","val":" Let $Q$ and $K$ be the two points on $\\Gamma$ that satisfy $\\angle AQH=90^\\circ$ and $\\angle QKH=90^\\circ$."}
+{"i":458,"result":"err","rem":0.574468085106383,"inc_val":" Prove that $\\angle ","val":" Prove that $\\angle DPA+\\angle AQD=\\angle QIP$."}
+{"i":89,"result":"err","rem":0.5769230769230769,"inc_val":" Let $k$ and $n$ be in","val":" Let $k$ and $n$ be integers with $0\\leq k\\leq n-2$."}
+{"i":434,"result":"err","rem":0.5775862068965517,"inc_val":" Prove that the circumcircle of the triangle form","val":" Prove that the circumcircle of the triangle formed by $\\ell_A$, $\\ell_B$, and $\\ell_C$ is tangent to the line $OP$."}
+{"i":92,"result":"err","rem":0.5806451612903225,"inc_val":" Let $O$ be a point in the","val":" Let $O$ be a point in the plane not lying on any line of $L$."}
+{"i":451,"result":"err","rem":0.584070796460177,"inc_val":" Prove that the points $A_2$, $B_2$, and $C_2$ ","val":" Prove that the points $A_2$, $B_2$, and $C_2$ cannot all lie strictly inside the circumcircle of triangle $ABC$."}
+{"i":16,"result":"err","rem":0.5909090909090908,"inc_val":" Let $E$ be the foot of the","val":" Let $E$ be the foot of the perpendicular from $C_1$ to line $DJ$."}
+{"i":489,"result":"err","rem":0.5922330097087378,"inc_val":" Let $I$ and $I_A$ be the incenter and the","val":" Let $I$ and $I_A$ be the incenter and the $A$-excenter of an acute-angled triangle $ABC$ with $AB<AC$."}
+{"i":467,"result":"err","rem":0.5925925925925926,"inc_val":" Let $ABC$ be an isosceles triangle with $BC","val":" Let $ABC$ be an isosceles triangle with $BC=CA$, and let $D$ be a point inside side $AB$ such that $AD<DB$."}
+{"i":374,"result":"err","rem":0.5945945945945945,"inc_val":" Let $R$ and $S$ be distinct points on circle","val":" Let $R$ and $S$ be distinct points on circle $\\Omega$, and let $t$ denote the tangent line to $\\Omega$ at $R$."}
+{"i":119,"result":"err","rem":0.5950413223140496,"inc_val":" Let the sides $AD$ and $BC$ of the quadrilateral","val":" Let the sides $AD$ and $BC$ of the quadrilateral $ABCD$ (such that $AB$ is not parallel to $CD$) intersect at point $P$."}
+{"i":235,"result":"err","rem":0.6075949367088608,"inc_val":" Denote by $M$ and $N$ the feet","val":" Denote by $M$ and $N$ the feet of the altitudes from $B$ and $C$ respectively."}
+{"i":499,"result":"err","rem":0.6138613861386139,"inc_val":" Two circles $\\omega_B$ and $\\omega_C$ ","val":" Two circles $\\omega_B$ and $\\omega_C$ passing through $B$ and $C$, respectively, are tangent at $I$."}
+{"i":201,"result":"err","rem":0.6144578313253012,"inc_val":" In the triangle $ABC$ the point","val":" In the triangle $ABC$ the point $J$ is the center of the excircle opposite to $A$."}
+{"i":305,"result":"err","rem":0.62,"inc_val":" Let $ABC$ be a triangle with $\\angle ","val":" Let $ABC$ be a triangle with $\\angle C=90^\\circ$, and let $H$ be the foot of the altitude from $C$."}
+{"i":309,"result":"err","rem":0.62,"inc_val":" A line through $P$","val":" A line through $P$ is tangent to $\\omega$ at $Q$."}
+{"i":419,"result":"err","rem":0.6236559139784946,"inc_val":" Let $A_1$, $B_1$, and $C_1$ be the","val":" Let $A_1$, $B_1$, and $C_1$ be the reflections of $T$ in $BC$, $CA$, and $AB$, respectively."}
+{"i":572,"result":"err","rem":0.6238532110091743,"inc_val":" Let $ABC$ and $A'B'C'$ be two triangles ","val":" Let $ABC$ and $A'B'C'$ be two triangles having the same circumcircle $\\omega$, and the same orthocentre $H$."}
+{"i":560,"result":"err","rem":0.624,"inc_val":" Let $ABC$ be an acute-angled triangle with $AC","val":" Let $ABC$ be an acute-angled triangle with $AC>AB$, let $O$ be its circumcentre, and let $D$ be a point on the segment $BC$."}
+{"i":163,"result":"err","rem":0.6285714285714286,"inc_val":" Suppose that $\\omega$ is ","val":" Suppose that $\\omega$ is tangent to $AB$ at $B'$ and to $AC$ at $C'$."}
+{"i":221,"result":"err","rem":0.6326530612244898,"inc_val":" Denote by $M$ the","val":" Denote by $M$ the intersection of $AL$ and $BK$."}
+{"i":99,"result":"err","rem":0.6328125,"inc_val":" Suppose that there exists a circle $\\omega$ in","val":" Suppose that there exists a circle $\\omega$ inscribed in angle $ABC$, tangent to the extensions of line segments $AD$ and $CD$."}
+{"i":42,"result":"err","rem":0.6344086021505376,"inc_val":" Let $T$ be the point in the angle","val":" Let $T$ be the point in the angle domain $BMA$, for which $\\angle TMX=90^\\circ$ and $TX=BX$."}
+{"i":219,"result":"err","rem":0.6346153846153846,"inc_val":" Let $ABC$ be a triangle with $\\angle ","val":" Let $ABC$ be a triangle with $\\angle BCA=90^\\circ$, and let $C_0$ be the foot of the altitude from $C$."}
+{"i":298,"result":"err","rem":0.6351351351351351,"inc_val":" Let $ABC$ be a triangle in","val":" Let $ABC$ be a triangle inscribed into a circle $\\Omega$ with center $O$."}
+{"i":575,"result":"err","rem":0.6395348837209303,"inc_val":" Let $AA'BCC'B'$ be a convex cyclic hexagon such that $AC$ is ","val":" Let $AA'BCC'B'$ be a convex cyclic hexagon such that $AC$ is tangent to the incircle of the triangle $A'B'C'$, and $A'C'$ is tangent to the incircle of the triangle $ABC$."}
+{"i":224,"result":"err","rem":0.641025641025641,"inc_val":" The points $D$, $E$, and $F$ on the sides","val":" The points $D$, $E$, and $F$ on the sides $BC$, $CA$, and $AB$ respectively are such that $BD+BF=CA$ and $CD+CE=AB$."}
+{"i":364,"result":"err","rem":0.6415094339622642,"inc_val":" Define points $I_B","val":" Define points $I_B,I'_B$ and line $l_B$ analogously."}
+{"i":126,"result":"err","rem":0.6444444444444444,"inc_val":" Let $ABCD$ be a","val":" Let $ABCD$ be a circumscribed quadrilateral."}
+{"i":178,"result":"err","rem":0.6454545454545455,"inc_val":" Let $\\omega$ be a circle through $B_0$","val":" Let $\\omega$ be a circle through $B_0$ and $C_0$ that is tangent to the circle $\\Omega$ at a point $X\\neq A$."}
+{"i":107,"result":"err","rem":0.6470588235294117,"inc_val":" The points $P$ and $Q$ are in","val":" The points $P$ and $Q$ are interior points of the sides $CA$ and $AB$, respectively."}
+{"i":251,"result":"err","rem":0.6506024096385542,"inc_val":" Suppose that there exists an","val":" Suppose that there exists an interior point $D$ of segment $BQ$ for which $PD=PB$."}
+{"i":137,"result":"err","rem":0.6511627906976745,"inc_val":" Prove that $SC","val":" Prove that $SC=SP$ if and only if $MK=ML$."}
+{"i":385,"result":"err","rem":0.6542056074766356,"inc_val":" Let $D$, $E$, and $F$ be the points ","val":" Let $D$, $E$, and $F$ be the points where $\\omega$ is tangent to lines $BC$, $CA$, and $AB$, respectively."}
+{"i":130,"result":"err","rem":0.6551724137931034,"inc_val":" Let $ABC$ be an acute triangle with $D$","val":" Let $ABC$ be an acute triangle with $D$, $E$, $F$ the feet of the altitudes lying on $BC$, $CA$, $AB$ respectively."}
+{"i":319,"result":"err","rem":0.6551724137931034,"inc_val":" The points $H'$ and $I'$ are ","val":" The points $H'$ and $I'$ are symmetric to $H$ and $I$ about $F$ and $G$, respectively."}
+{"i":342,"result":"err","rem":0.6567164179104478,"inc_val":" Denote by $D$ the foot","val":" Denote by $D$ the foot of the perpendicular from $I$ to side $BC$."}
+{"i":191,"result":"err","rem":0.6568627450980392,"inc_val":" Let $ABCDEF$ be a convex hexagon a","val":" Let $ABCDEF$ be a convex hexagon all of whose sides are tangent to a circle $\\omega$ with center $O$."}
+{"i":282,"result":"err","rem":0.6590909090909092,"inc_val":" Let $ABC$ be a","val":" Let $ABC$ be a fixed acute-angled triangle."}
+{"i":418,"result":"err","rem":0.6595744680851063,"inc_val":" A point $T$ is ","val":" A point $T$ is chosen inside a triangle $ABC$."}
+{"i":43,"result":"err","rem":0.6610169491525424,"inc_val":" Prove that $\\angle ","val":" Prove that $\\angle MTB-\\angle CTM$ does not depend on $X$."}
+{"i":389,"result":"err","rem":0.6645569620253164,"inc_val":" Let $ABCC_1B_1A_1$ be a convex hexagon such that $AB","val":" Let $ABCC_1B_1A_1$ be a convex hexagon such that $AB=BC$, and suppose that the line segments $AA_1$, $BB_1$, and $CC_1$ have the same perpendicular bisector."}
+{"i":198,"result":"err","rem":0.6666666666666667,"inc_val":" Let $t$ be a","val":" Let $t$ be a tangent line to $\\omega$."}
+{"i":254,"result":"err","rem":0.6666666666666667,"inc_val":" Let $ABCDEF$ be a convex hexagon with $AB","val":" Let $ABCDEF$ be a convex hexagon with $AB=DE$, $BC=EF$, $CD=FA$, and $\\angle A-\\angle D=\\angle C-\\angle F=\\angle E-\\angle B$."}
+{"i":433,"result":"err","rem":0.6691729323308271,"inc_val":" The lines $\\ell_A$, $\\ell_B$, and $\\ell_C$ ","val":" The lines $\\ell_A$, $\\ell_B$, and $\\ell_C$ perpendicular to $BC$, $CA$, and $AB$ pass through $O_A$, $O_B$, and $O_C$, respectively."}
+{"i":454,"result":"err","rem":0.6692913385826771,"inc_val":" Prove that $P$ lies on the diagonal $CE$ ","val":" Prove that $P$ lies on the diagonal $CE$ if and only if $\\text{area}(BCD)+\\text{area}(ADE)=\\text{area}(ABD)+\\text{area}(ABP)$."}
+{"i":20,"result":"err","rem":0.6724137931034483,"inc_val":" Let $AB$ be the diameter of $\\omega$ ","val":" Let $AB$ be the diameter of $\\omega$ perpendicular to $t$, so that $A$, $E$, and $O_1$ are on the same side of $t$."}
+{"i":127,"result":"err","rem":0.6739130434782609,"inc_val":" Let $g$ be a line through $A$","val":" Let $g$ be a line through $A$ which meets the segment $BC$ in $M$ and the line $CD$ in $N$."}
+{"i":543,"result":"err","rem":0.676056338028169,"inc_val":" Let $X$ and $Y$ be the","val":" Let $X$ and $Y$ be the intersection points of $\\omega$ and $\\Omega_A$."}
+{"i":557,"result":"err","rem":0.6774193548387097,"inc_val":" Assume that the points $Q$, $A$, $B$, $P$ are collinear in ","val":" Assume that the points $Q$, $A$, $B$, $P$ are collinear in this order, in such a way that the line $AC$ is tangent to the circle $ADQ$, and the line $BD$ is tangent to the circle $BCP$."}
+{"i":117,"result":"err","rem":0.6811594202898551,"inc_val":" Let $P$ be a polygon ","val":" Let $P$ be a polygon that is convex and symmetric to some point $O$."}
+{"i":482,"result":"err","rem":0.6818181818181819,"inc_val":" Let $O$ be an","val":" Let $O$ be an arbitrary point in the plane."}
+{"i":444,"result":"err","rem":0.6820512820512821,"inc_val":" In triangle $ABC$, let $A_1$ and $B_1$ be two points on sides","val":" In triangle $ABC$, let $A_1$ and $B_1$ be two points on sides $BC$ and $AC$, and let $P$ and $Q$ be two points on segments $AA_1$ and $BB_1$, respectively, so that line $PQ$ is parallel to $AB$."}
+{"i":375,"result":"err","rem":0.6842105263157895,"inc_val":" Point $R'$ is the","val":" Point $R'$ is the reflection of $R$ with respect to $S$."}
+{"i":477,"result":"err","rem":0.6867469879518072,"inc_val":" Denote by $E$ and $F$ the","val":" Denote by $E$ and $F$ the reflections of $A$ in lines $BC$ and $CD$, respectively."}
+{"i":270,"result":"err","rem":0.6896551724137931,"inc_val":" The point $R$ is ","val":" The point $R$ is chosen on the line $PQ$ so that $BR=MR$."}
+{"i":269,"result":"err","rem":0.6972477064220184,"inc_val":" The angle bisectors of $\\angle A","val":" The angle bisectors of $\\angle AOB$ and $\\angle BOC$ intersect $\\Gamma$ at points $P$ and $Q$, respectively."}
+{"i":210,"result":"err","rem":0.6984126984126984,"inc_val":" In an acute triangle $ABC$ the points","val":" In an acute triangle $ABC$ the points $D$, $E$, and $F$ are the feet of the altitudes through $A$, $B$, and $C$ respectively."}
+{"i":236,"result":"err","rem":0.7007874015748031,"inc_val":" Denote by $\\omega_1$ the circumcircle","val":" Denote by $\\omega_1$ the circumcircle of $BWN$, and let $X$ be the point on $\\omega_1$ which is diametrically opposite to $W$."}
+{"i":441,"result":"err","rem":0.7041420118343196,"inc_val":" Denote by $\\omega_B$ and $\\omega_C$ the incircles","val":" Denote by $\\omega_B$ and $\\omega_C$ the incircles of triangles $BDF$ and $CDE$, and let these circles be tangent to segments $DF$ and $DE$ at $M$ and $N$, respectively."}
+{"i":483,"result":"err","rem":0.7068965517241379,"inc_val":" Prove that $OP_1","val":" Prove that $OP_1+OP_2+\\ldots+OP_n\\ge R_6+R_7+\\ldots+R_n$."}
+{"i":453,"result":"err","rem":0.7070707070707071,"inc_val":" Suppose that a point $P$ is ","val":" Suppose that a point $P$ is located in the interior of the pentagon such that $AP=AE$ and $BP=BC$."}
+{"i":460,"result":"err","rem":0.7083333333333333,"inc_val":" The line through $D$","val":" The line through $D$ perpendicular to $EF$ meets $\\omega$ again at $R$."}
+{"i":11,"result":"err","rem":0.7093023255813953,"inc_val":" The incircle of $ABC$ is","val":" The incircle of $ABC$ is tangent to $AB$ and $AC$ at points $K$ and $L$ respectively."}
+{"i":91,"result":"err","rem":0.7096774193548387,"inc_val":" Denote by $I$ the","val":" Denote by $I$ the set of intersection points of lines in $L$."}
+{"i":361,"result":"err","rem":0.7096774193548387,"inc_val":" Denote by $Q$ the","val":" Denote by $Q$ the intersection points of lines $XE$ and $YF$."}
+{"i":496,"result":"err","rem":0.7096774193548387,"inc_val":" Denote by $\\omega$ the circumcircle","val":" Denote by $\\omega$ the circumcircle of the triangle formed by the perpendicular bisectors of segments $AD$, $BE$, and $CF$."}
+{"i":61,"result":"err","rem":0.7103448275862069,"inc_val":" Given an acute triangle $ABC$ with angles","val":" Given an acute triangle $ABC$ with angles $\\alpha$, $\\beta$, and $\\gamma$ at vertices $A$, $B$, and $C$, respectively, such that $\\beta>\\gamma$."}
+{"i":539,"result":"err","rem":0.7142857142857143,"inc_val":" A point $X$ is ","val":" A point $X$ is chosen on the line $AC$ so that $CX=BX$."}
+{"i":468,"result":"err","rem":0.7155172413793103,"inc_val":" Let $P$ and $Q$ be two points in","val":" Let $P$ and $Q$ be two points inside sides $BC$ and $CA$, respectively, such that $\\angle DPB=\\angle DQA=90^\\circ$."}
+{"i":74,"result":"err","rem":0.7164179104477613,"inc_val":" The circle $\\omega","val":" The circle $\\omega_a$ intersects the line $BC$ at $A_1$ and $A_2$;"}
+{"i":365,"result":"err","rem":0.7222222222222222,"inc_val":" Let $P$ be the","val":" Let $P$ be the intersection point of $l_A$ and $l_B$."}
+{"i":231,"result":"err","rem":0.7228915662650602,"inc_val":" Denote by $P$ the foot","val":" Denote by $P$ the foot of the perpendicular from the center of $\\omega$ to $\\ell$."}
+{"i":143,"result":"err","rem":0.7235772357723578,"inc_val":" Let $F$ and $E$ be points on side","val":" Let $F$ and $E$ be points on side $BC$ and arc $BDC$ respectively such that $\\angle BAF=\\angle CAE<\\frac{1}{2}\\angle BAC$."}
+{"i":261,"result":"err","rem":0.7254901960784313,"inc_val":" The points $M$ and $N$ are ","val":" The points $M$ and $N$ are taken on the rays $AP$ and $AQ$ respectively, so that $AP=PM$ and $AQ=QN$."}
+{"i":138,"result":"err","rem":0.7272727272727273,"inc_val":" Let $A_1A_2","val":" Let $A_1A_2\\ldots A_n$ be a convex polygon."}
+{"i":52,"result":"err","rem":0.7346938775510203,"inc_val":" Let $P$ be a","val":" Let $P$ be a variable point on the circumcircle."}
+{"i":287,"result":"err","rem":0.74,"inc_val":" Prove that $","val":" Prove that $\\frac{E_1E_2}{AB}=\\frac{F_1F_2}{AC}$."}
+{"i":307,"result":"err","rem":0.7413793103448276,"inc_val":" Let $P$ be the","val":" Let $P$ be the intersection point of lines $BD$ and $CH$."}
+{"i":459,"result":"err","rem":0.7449664429530201,"inc_val":" The incircle $\\omega$ of acute-angled","val":" The incircle $\\omega$ of acute-angled scalene triangle $ABC$ has centre $I$ and meets sides $BC$, $CA$, and $AB$ at $D$, $E$, and $F$, respectively."}
+{"i":156,"result":"err","rem":0.746031746031746,"inc_val":" Let $h_1$, $h_2$, and $h_3$ be ","val":" Let $h_1$, $h_2$, and $h_3$ be three rays starting at $B$, lying in the same half-plane, $h_2$ being between $h_1$ and $h_3$."}
+{"i":204,"result":"err","rem":0.7462686567164178,"inc_val":" Let $S$ be the point of intersect","val":" Let $S$ be the point of intersection of the lines $AF$ and $BC$, and let $T$ be the point of intersection of the lines $AG$ and $BC$."}
+{"i":486,"result":"err","rem":0.7466666666666666,"inc_val":" Let $K$, $L$, $M$, and $N$ be points ","val":" Let $K$, $L$, $M$, and $N$ be points lying on sides $AB$, $BC$, $CD$, and $DA$, respectively, such that $KLMN$ is a rhombus with $KL|AC$ and $LM|BD$."}
+{"i":473,"result":"err","rem":0.7482014388489209,"inc_val":" Suppose that $P$ is a point in the","val":" Suppose that $P$ is a point in the interior of $ABCD$ such that $\\angle PAD:\\angle PBA:\\angle DPA=1:2:3=\\angle CBP:\\angle BAP:\\angle BPC$."}
+{"i":66,"result":"err","rem":0.75,"inc_val":" Prove that ","val":" Prove that if $IE=IF$ then $\\beta\\leq 3\\gamma$."}
+{"i":286,"result":"err","rem":0.75,"inc_val":" Suppose that the","val":" Suppose that the pairs $(E_1,F_1)$ and $(E_2,F_2)$ are interesting."}
+{"i":553,"result":"err","rem":0.75,"inc_val":" The lines through $P$","val":" The lines through $P$ parallel to $AC$ and $AB$ meet $BC$ at $D$ and $E$, respectively."}
+{"i":187,"result":"err","rem":0.752,"inc_val":" The angle bisector of $\\angle ","val":" The angle bisector of $\\angle BAC$ intersects the circle through $D$, $B$, and $C$ in a point $E$ inside the triangle $ABC$."}
+{"i":55,"result":"err","rem":0.7540983606557377,"inc_val":" Prove that the","val":" Prove that the area of this triangle does not depend on $P$."}
+{"i":338,"result":"err","rem":0.7543859649122807,"inc_val":" Point $X$ is ","val":" Point $X$ is chosen such that $AMXE$ is a parallelogram."}
+{"i":574,"result":"err","rem":0.7560975609756098,"inc_val":" Prove that $H$, the","val":" Prove that $H$, the centre of $\\omega$, and the centre of $\\Omega$ are collinear."}
+{"i":111,"result":"err","rem":0.7578947368421053,"inc_val":" The incircle of $ABC$ ","val":" The incircle of $ABC$ touches the sides $AB$ and $AC$ at the points $Z$ and $Y$, respectively."}
+{"i":393,"result":"err","rem":0.7586206896551724,"inc_val":" Let $n","val":" Let $n\\geq 3$ be an integer."}
+{"i":377,"result":"err","rem":0.76,"inc_val":" Denote by $A$ the","val":" Denote by $A$ the common point of $\\Gamma$ and $t$ that is closest to $R$."}
+{"i":28,"result":"err","rem":0.7608695652173914,"inc_val":" Suppose that $\\angle ","val":" Suppose that $\\angle PAB+\\angle PDC\\leq 90^\\circ$ and $\\angle PBA+\\angle PCD\\leq 90^\\circ$."}
+{"i":248,"result":"err","rem":0.7636363636363637,"inc_val":" Prove that $","val":" Prove that $\\varphi\\leq\\max\\{\\angle BAC,\\angle ABC\\}$."}
+{"i":412,"result":"err","rem":0.7636363636363637,"inc_val":" Let $X$ and $Y$ be points on the lines","val":" Let $X$ and $Y$ be points on the lines $PB$ and $PC$, respectively, so that $B$ lies on the segment $PX$, $C$ lies on the segment $PY$, and $\\angle PXM=\\angle PYM$."}
+{"i":369,"result":"err","rem":0.7638190954773869,"inc_val":" Let $A_1$, $B_1$, and $C_1$ be points on sides","val":" Let $A_1$, $B_1$, and $C_1$ be points on sides $BC$, $CA$, and $AB$ of an acute triangle $ABC$, respectively, such that $AA_1$, $BB_1$, and $CC_1$ are the internal angle bisectors of triangle $ABC$."}
+{"i":36,"result":"err","rem":0.7640449438202247,"inc_val":" In triangle $ABC$, the angle bisector at ","val":" In triangle $ABC$, the angle bisector at vertex $C$ intersects the circumcircle and the perpendicular bisectors of sides $BC$ and $CA$ at points $R$, $P$, and $Q$, respectively."}
+{"i":19,"result":"err","rem":0.7647058823529411,"inc_val":" Line $t$ is the","val":" Line $t$ is the common tangent of $\\omega_1$ and $\\omega_2$ at $D$."}
+{"i":25,"result":"err","rem":0.7647058823529411,"inc_val":" Prove that the lines $p","val":" Prove that the lines $p_a,p_b,p_c$ form a triangle similar to $ABC$ and find the ratio of similitude."}
+{"i":94,"result":"err","rem":0.7681159420289855,"inc_val":" Prove that $I$ ","val":" Prove that $I$ contains at least $\\frac{1}{2}(k+1)(k+2)$ red points."}
+{"i":240,"result":"err","rem":0.7692307692307692,"inc_val":" Denote by $M$ and $N$ the midpoints","val":" Denote by $M$ and $N$ the midpoints of the sides $AB$ and $AC$ respectively, and denote by $T$ the midpoint of the arc $BC$ of $\\omega$ not containing $A$."}
+{"i":500,"result":"err","rem":0.7735849056603774,"inc_val":" Let $\\omega_B$ meet the","val":" Let $\\omega_B$ meet the shorter arc $AB$ of $\\Gamma$ and segment $AB$ again at $P$ and $M$, respectively."}
+{"i":508,"result":"err","rem":0.7746478873239436,"inc_val":" A point $P$ is ","val":" A point $P$ is chosen on the extension of the segment $AB$ beyond $B$."}
+{"i":69,"result":"err","rem":0.7758620689655172,"inc_val":" Suppose that $\\omega$ is ","val":" Suppose that $\\omega$ is tangent to the incircles of triangles $APD$ and $BPC$ at points $K$ and $L$, respectively."}
+{"i":18,"result":"err","rem":0.776536312849162,"inc_val":" Circles $\\omega_1$ and $\\omega_2$ with ","val":" Circles $\\omega_1$ and $\\omega_2$ with centres $O_1$ and $O_2$ are externally tangent at point $D$ and internally tangent to a circle $\\omega$ at points $E$ and $F$ respectively."}
+{"i":494,"result":"err","rem":0.7769230769230769,"inc_val":" Let $D$, $E$, and $F$ be the","val":" Let $D$, $E$, and $F$ be the reflections of $P$ in the midlines of triangle $ABC$ parallel to $BC$, $CA$, and $AB$, respectively."}
+{"i":184,"result":"err","rem":0.7792207792207793,"inc_val":" Suppose that the","val":" Suppose that the tangents to $\\omega$ at $A$ and at $B$ meet at a point $K$."}
+{"i":181,"result":"err","rem":0.7830188679245282,"inc_val":" Let $D$ and $E$ be the","val":" Let $D$ and $E$ be the second intersection points of $\\omega$ with the lines $AI$ and $BI$, respectively."}
+{"i":81,"result":"err","rem":0.7837837837837838,"inc_val":" assume ","val":" assume it does not lie on line $AB$."}
+{"i":343,"result":"err","rem":0.7857142857142857,"inc_val":" The line through $I$","val":" The line through $I$ perpendicular to $AI$ meets sides $AB$ and $AC$ at $F$ and $E$ respectively."}
+{"i":306,"result":"err","rem":0.7866666666666666,"inc_val":" A point $D$ is ","val":" A point $D$ is chosen inside the triangle $CBH$ so that $CH$ bisects $AD$."}
+{"i":79,"result":"err","rem":0.7876106194690266,"inc_val":" Denote by $I$ the point","val":" Denote by $I$ the point of intersection of $CD$ and $EF$, and by $J$ the point of intersection of $AB$ and $EF$."}
+{"i":216,"result":"err","rem":0.7887323943661972,"inc_val":" Let $E$ be the","val":" Let $E$ be the reflection of $D$ with respect to the midpoint of $BC$."}
+{"i":544,"result":"err","rem":0.7889908256880733,"inc_val":" Let $P$ and $Q$ be the","val":" Let $P$ and $Q$ be the projections of $A$ onto the tangent lines to $\\Omega_A$ at $X$ and $Y$, respectively."}
+{"i":524,"result":"err","rem":0.7922077922077921,"inc_val":" A point $T$ is ","val":" A point $T$ is chosen inside the triangle $ABC$ so that $TE|CD$ and $TF|AD$."}
+{"i":299,"result":"err","rem":0.7931034482758621,"inc_val":" A circle $\\Gamma$ with ","val":" A circle $\\Gamma$ with center $A$ meets the side $BC$ at points $D$ and $E$ such that $D$ lies between $B$ and $E$."}
+{"i":14,"result":"err","rem":0.793939393939394,"inc_val":" In triangle $ABC$, let $J$ be the","val":" In triangle $ABC$, let $J$ be the centre of the excircle tangent to side $BC$ at $A_1$ and to the extensions of sides $AC$ and $AB$ at $B_1$ and $C_1$ respectively."}
+{"i":277,"result":"err","rem":0.796875,"inc_val":" Prove that a","val":" Prove that as $P$ varies, the point $Q$ lies on a fixed circle."}
+{"i":308,"result":"err","rem":0.8,"inc_val":" Let $\\omega$ be the","val":" Let $\\omega$ be the semicircle with diameter $BD$ that meets the segment $CB$ at an interior point."}
+{"i":537,"result":"err","rem":0.8,"inc_val":" A point $E$ is ","val":" A point $E$ is constructed on the segment $AC$ so that $\\angle ADE=\\angle DCB$."}
+{"i":550,"result":"err","rem":0.8018018018018018,"inc_val":" Assume that points $P","val":" Assume that points $P,B,A,Q$ and $R,E,A,S$ respectively, are collinear and occur on their lines in this order."}
+{"i":571,"result":"err","rem":0.8028169014084507,"inc_val":" Prove that, a","val":" Prove that, as $P$ varies, the line $PQ$ passes through a fixed point."}
+{"i":78,"result":"err","rem":0.8072916666666666,"inc_val":" Given trapezoid $ABCD$ with parallel","val":" Given trapezoid $ABCD$ with parallel sides $AB$ and $CD$, assume that there exist points $E$ on line $BC$ outside segment $BC$, and $F$ inside segment $AD$, such that $\\angle DAE=\\angle CBF$."}
+{"i":260,"result":"err","rem":0.8082191780821918,"inc_val":" The points $P$ and $Q$ are ","val":" The points $P$ and $Q$ are chosen on the side $BC$ of an acute-angled triangle $ABC$ so that $\\angle PAB=\\angle ACB$ and $\\angle QAC=\\angle CBA$."}
+{"i":217,"result":"err","rem":0.808695652173913,"inc_val":" The lines through $D$","val":" The lines through $D$ and $E$ perpendicular to $BC$ intersect the lines $AO$ and $AD$ at $X$ and $Y$ respectively."}
+{"i":194,"result":"err","rem":0.8089887640449438,"inc_val":" Suppose that the","val":" Suppose that the perpendicular from $B$ to $DF$ intersects the line $EO$ at a point $K$."}
+{"i":1,"result":"err","rem":0.81,"inc_val":" A point $P$ in the","val":" A point $P$ in the interior of the triangle satisfies $\\angle PBA+\\angle PCA=\\angle PBC+\\angle PC$."}
+{"i":354,"result":"err","rem":0.813953488372093,"inc_val":" A circle $\\omega$ with ","val":" A circle $\\omega$ with centre $S$ passes through $A$ and $D$, and it intersects sides $AB$ and $AC$ at $X$ and $Y$ respectively."}
+{"i":563,"result":"err","rem":0.8153846153846154,"inc_val":" Prove that ","val":" Prove that if $OW=OD$, then $DZ$ is tangent to the circle $AXY$."}
+{"i":436,"result":"err","rem":0.8157894736842105,"inc_val":" Circle $\\Gamma$ passes through $A$","val":" Circle $\\Gamma$ passes through $A$, meets segments $AB$ and $AC$ again at points $D$ and $E$ respectively, and intersects segment $BC$ at $F$ and $G$ such that $F$ lies between $B$ and $G$."}
+{"i":185,"result":"err","rem":0.8192771084337349,"inc_val":" Prove that the","val":" Prove that the three lines $AE$, $BD$, and $KP$ are either parallel or concurrent."}
+{"i":109,"result":"err","rem":0.8208955223880597,"inc_val":" Prove that ","val":" Prove that if the line $PQ$ is tangent to circle $k$ then $OP=OQ$."}
+{"i":530,"result":"err","rem":0.8229166666666666,"inc_val":" Let $O_B$ be the","val":" Let $O_B$ be the centre of the circle which passes through $B$ and is tangent to $AC$ at $D_1$."}
+{"i":352,"result":"err","rem":0.8235294117647058,"inc_val":" Prove that the","val":" Prove that the reflection of $I$ in $AC$ lies on the circumcircle of triangle $BDE$."}
+{"i":561,"result":"err","rem":0.8235294117647058,"inc_val":" The line through $D$","val":" The line through $D$ perpendicular to $BC$ intersects the lines $AO$, $AC$ and $AB$ at $W$, $X$ and $Y$, respectively."}
+{"i":250,"result":"err","rem":0.8260869565217391,"inc_val":" Let $P$ and $Q$ be two ","val":" Let $P$ and $Q$ be two different points on line $AC$ such that $\\angle PBA=\\angle QBA=\\angle ACB$ and $A$ is located between $P$ and $C$."}
+{"i":75,"result":"err","rem":0.8297872340425532,"inc_val":" $\\omega","val":" $\\omega_b$ intersects $CA$ at $B_1$ and $B_2$;"}
+{"i":76,"result":"err","rem":0.8297872340425532,"inc_val":" $\\omega","val":" $\\omega_c$ intersects $AB$ at $C_1$ and $C_2$."}
+{"i":312,"result":"err","rem":0.8303571428571428,"inc_val":" A circle $\\omega$ ","val":" A circle $\\omega$ passing through $B$ and $M$ meets the sides $AB$ and $BC$ again at $P$ and $Q$, respectively."}
+{"i":48,"result":"err","rem":0.83206106870229,"inc_val":" Let $\\ell$ be a line ","val":" Let $\\ell$ be a line passing through $A$, and let $\\ell$ intersect segment $DC$ and line $BC$ at points $F$ and $G$, respectively."}
+{"i":82,"result":"err","rem":0.8348623853211009,"inc_val":" Prove that $I$ be","val":" Prove that $I$ belongs to the circumcircle of $ABK$ if and only if $K$ belongs to the circumcircle of $CDJ$."}
+{"i":100,"result":"err","rem":0.8369565217391304,"inc_val":" Prove that the","val":" Prove that the common external tangents of $\\omega_1$ and $\\omega_2$ intersect on $\\omega$."}
+{"i":58,"result":"err","rem":0.8375,"inc_val":" Consider the","val":" Consider the areas of triangles $AA_1D_1$, $BB_1A_1$, $CC_1B_1$, and $DD_1C_1$;"}
+{"i":577,"result":"err","rem":0.8378378378378378,"inc_val":" Prove that ","val":" Prove that if $XBYB'$ is a convex quadrilateral, then it has an incircle."}
+{"i":353,"result":"err","rem":0.8392857142857143,"inc_val":" Let $D$ be the foot of the","val":" Let $D$ be the foot of the perpendicular from $A$ to the Euler line (the line passing through the circumcentre and the orthocentre) of an acute scalene triangle $ABC$."}
+{"i":363,"result":"err","rem":0.842391304347826,"inc_val":" Let $I$ be the incentre of a","val":" Let $I$ be the incentre of a non-equilateral triangle $ABC$, $I_A$ be the $A$-excentre, $I'_A$ be the reflection of $I_A$ in $BC$, and $l_A$ be the reflection of line $AI'_A$ in $AI$."}
+{"i":566,"result":"err","rem":0.8436018957345972,"inc_val":" Suppose that the line through $X","val":" Suppose that the line through $X_i$ perpendicular to $BC$, the line through $Y_i$ perpendicular to $CA$, and finally the line through $Z_i$ perpendicular to $AB$, determine a non-degenerate triangle $\\Delta_i$."}
+{"i":329,"result":"err","rem":0.8478260869565217,"inc_val":" Suppose that ","val":" Suppose that each of the quadrilaterals $APOS$, $BQOP$, $CROQ$, and $DSOR$ has an incircle."}
+{"i":276,"result":"err","rem":0.8484848484848485,"inc_val":" Let $Q$ be the","val":" Let $Q$ be the second point of intersection of the circumcircles of the triangles $AMP$ and $BMC$."}
+{"i":536,"result":"err","rem":0.8490566037735849,"inc_val":" A point $D$ is ","val":" A point $D$ is chosen inside an acute-angled triangle $ABC$ with $AB>AC$ so that $\\angle BAD=\\angle DAC$."}
+{"i":318,"result":"err","rem":0.8515625,"inc_val":" A circle $\\Gamma$ ","val":" A circle $\\Gamma$ passing through $C$ and tangent to $AB$ at $D$ meets the segments $AF$ and $BG$ at $H$ and $I$, respectively."}
+{"i":428,"result":"err","rem":0.8518518518518519,"inc_val":" A point $X$ is ","val":" A point $X$ is chosen inside the quadrilateral so that $\\angle XAB=\\angle XCD$ and $\\angle XBC=\\angle XDA$."}
+{"i":466,"result":"err","rem":0.8529411764705882,"inc_val":" Prove that the","val":" Prove that there is a unique point $P$ such that $f(\\ell)=P$ for any line $\\ell$ passing through $P$."}
+{"i":373,"result":"err","rem":0.854368932038835,"inc_val":" Prove that the","val":" Prove that the perpendicular line from $E$ to $BC$ and the line segments $AC$ and $BD$ are concurrent."}
+{"i":59,"result":"err","rem":0.8557692307692308,"inc_val":" let $S$ be the","val":" let $S$ be the sum of the two smallest ones, and let $S_1$ be the area of quadrilateral $A_1B_1C_1D_1$."}
+{"i":41,"result":"err","rem":0.8571428571428572,"inc_val":" Let $X$ be a","val":" Let $X$ be a variable point on the shorter arc $MA$ of the circumcircle of triangle $ABM$."}
+{"i":395,"result":"err","rem":0.8571428571428572,"inc_val":" Prove that the","val":" Prove that the vertices of $\\mathcal A$ that lie inside $\\mathcal B$ or on its boundary are consecutive."}
+{"i":515,"result":"err","rem":0.8584905660377359,"inc_val":" Prove that the","val":" Prove that the perimeters of the (possibly self-intersecting) quadrilaterals $ADTX$ and $CDYZ$ are equal."}
+{"i":280,"result":"err","rem":0.8585858585858586,"inc_val":" The points $S$ and $T$ are ","val":" The points $S$ and $T$ are chosen on the sides $AB$ and $AD$, respectively, in such a way that $H$ lies inside triangle $SCT$ and $\\angle SHC-\\angle BSC=90^\\circ$, $\\angle THC-\\angle DTC=90^\\circ$."}
+{"i":112,"result":"err","rem":0.8607594936708861,"inc_val":" Let $G$ be the point ","val":" Let $G$ be the point where the lines $BY$ and $CZ$ meet, and let $R$ and $S$ be points such that the two quadrilaterals $BCYR$ and $BCSZ$ are parallelograms."}
+{"i":228,"result":"err","rem":0.8620689655172413,"inc_val":" Assume that the","val":" Assume that there is a point $E$ on the side $BC$ such that the quadrilaterals $ABED$ and $AECD$ are circumscribed."}
+{"i":252,"result":"err","rem":0.8620689655172413,"inc_val":" Let the","val":" Let the ray $AD$ intersect the circle $ABC$ at $R\\neq A$."}
+{"i":333,"result":"err","rem":0.8653846153846154,"inc_val":" Prove that an","val":" Prove that any two different Thaiangulations of a convex polygon $\\Pi$ differ by exactly two triangles."}
+{"i":273,"result":"err","rem":0.8658536585365854,"inc_val":" Consider a","val":" Consider a fixed circle $\\Gamma$ with three fixed points $A$, $B$, and $C$ on it."}
+{"i":45,"result":"err","rem":0.8666666666666667,"inc_val":" Point $Q$ lies be","val":" Point $Q$ lies between the parallel lines $BC$ and $AD$ such that $\\angle AQD=\\angle CQB$, and line $CD$ separates points $P$ and $Q$."}
+{"i":431,"result":"err","rem":0.8666666666666667,"inc_val":" Let $P$ be an","val":" Let $P$ be an arbitrary point on $\\Omega$, distinct from $A$, $B$, $C$, and their antipodes in $\\Omega$."}
+{"i":10,"result":"err","rem":0.8677685950413223,"inc_val":" A point $D$ is ","val":" A point $D$ is chosen on the side $AC$ of a triangle $ABC$ with $\\angle C<\\angle A<90^\\circ$ in such a way that $BD=BA$."}
+{"i":30,"result":"err","rem":0.8681318681318682,"inc_val":" Points $A_1","val":" Points $A_1,B_1,C_1$ are chosen on the sides $BC,CA,AB$ of a triangle $ABC$, respectively."}
+{"i":51,"result":"err","rem":0.8717948717948718,"inc_val":" Let $ABC$ be a","val":" Let $ABC$ be a fixed triangle, and let $A_1$, $B_1$, $C_1$ be the midpoints of sides $BC$, $CA$, $AB$, respectively."}
+{"i":22,"result":"err","rem":0.8721461187214612,"inc_val":" In a triangle $ABC$, let $M","val":" In a triangle $ABC$, let $M_a,M_b,M_c$ be respectively the midpoints of the sides $BC,CA,AB$ and $T_a,T_b,T_c$ be the midpoints of the arcs $BC,CA,AB$ of the circumcircle of $ABC$, not containing the opposite vertices."}
+{"i":183,"result":"err","rem":0.8728813559322034,"inc_val":" Let $P$ be the","val":" Let $P$ be the intersection point of the line through $F$ parallel to $AD$ and the line through $G$ parallel to $BE$."}
+{"i":122,"result":"err","rem":0.88,"inc_val":" Prove that the","val":" Prove that the perpendicular from $E_1$ on $CD$, the perpendicular from $E_2$ on $AB$, and the line $H_1H_2$ are concurrent."}
+{"i":60,"result":"err","rem":0.8823529411764706,"inc_val":" The","val":" Then we always have $kS_1\\geq S$."}
+{"i":548,"result":"err","rem":0.8842105263157894,"inc_val":" Assume the","val":" Assume there is a point $T$ inside $ABCDE$ with $TB=TD$, $TC=TE$, and $\\angle TBA=\\angle AET$."}
+{"i":169,"result":"err","rem":0.8879310344827587,"inc_val":" Prove that $","val":" Prove that $\\frac{1}{O_1A_1^2-r_1^2}+\\frac{1}{O_2A_2^2-r_2^2}+\\frac{1}{O_3A_3^2-r_3^2}+\\frac{1}{O_4A_4^2-r_4^2}=0$."}
+{"i":93,"result":"err","rem":0.8888888888888888,"inc_val":" A point $X","val":" A point $X\\in I$ is colored red if the open line segment $OX$ intersects at most $k$ lines in $L$."}
+{"i":247,"result":"err","rem":0.8888888888888888,"inc_val":" Let $","val":" Let $\\varphi$ be the non-obtuse angle of the rhombus."}
+{"i":525,"result":"err","rem":0.890625,"inc_val":" Let $K","val":" Let $K\\neq D$ be a point on the segment $DF$ such that $TD=TK$."}
+{"i":172,"result":"err","rem":0.8928571428571429,"inc_val":" Let $\\omega","val":" Let $\\omega_E$ be the circle through the feet of the perpendiculars from $E$ to the lines $AB$, $BC$, and $CD$."}
+{"i":173,"result":"err","rem":0.8928571428571429,"inc_val":" Let $\\omega","val":" Let $\\omega_F$ be the circle through the feet of the perpendiculars from $F$ to the lines $CD$, $DA$, and $AB$."}
+{"i":292,"result":"err","rem":0.8928571428571429,"inc_val":" Prove that ","val":" Prove that if the points $I$, $X$, and $Y$ are collinear, then the points $I$, $W$, and $Z$ are also collinear."}
+{"i":376,"result":"err","rem":0.8940397350993378,"inc_val":" A point $I$ is ","val":" A point $I$ is chosen on the smaller arc $RS$ of $\\Omega$ so that the circumcircle $\\Gamma$ of triangle $ISR'$ intersects $t$ at two different points."}
+{"i":232,"result":"err","rem":0.8941176470588236,"inc_val":" The side","val":" The side-lines $BC,CA,AB$ intersect $\\ell$ at the points $X,Y,Z$ different from $P$."}
+{"i":488,"result":"err","rem":0.8979591836734694,"inc_val":" Prove that the","val":" Prove that the internal common tangents to $\\omega_1$ and $\\omega_3$ and the internal common tangents to $\\omega_2$ and $\\omega_4$ are concurrent."}
+{"i":32,"result":"err","rem":0.9,"inc_val":" Points $A_3","val":" Points $A_3,B_3,C_3$ are symmetric to $A_1,B_1,C_1$ with respect to the midpoints of the sides $BC,CA,AB$ respectively."}
+{"i":346,"result":"err","rem":0.9,"inc_val":" Let $B","val":" Let $B=(-1,0)$ and $C=(1,0)$ be fixed points on the coordinate plane."}
+{"i":559,"result":"err","rem":0.9013157894736842,"inc_val":" Prove that the","val":" Prove that the following three lines are concurrent: line $CD$, the tangent of circle $ANQ$ at point $A$, and the tangent to circle $BMP$ at point $B$."}
+{"i":148,"result":"err","rem":0.9014084507042254,"inc_val":" Given ","val":" Given that $\\angle DMO=90^\\circ$, prove that $2\\angle BDA=\\angle CDE$."}
+{"i":229,"result":"err","rem":0.9032258064516129,"inc_val":" Prove that the","val":" Prove that there is a point $F$ on the side $AD$ such that the quadrilaterals $ABCF$ and $BCDF$ are circumscribed if and only if $AB$ is parallel to $CD$."}
+{"i":399,"result":"err","rem":0.9050279329608939,"inc_val":" Suppose that the","val":" Suppose that the common external tangents of the circles $AI_bI_d$ and $CI_bI_d$ meet at $X$, and the common external tangents of the circles $BI_aI_c$ and $DI_aI_c$ meet at $Y$."}
+{"i":90,"result":"err","rem":0.905982905982906,"inc_val":" Consider a","val":" Consider a set $L$ of $n$ lines in the plane such that no two of them are parallel and no three have a common point."}
+{"i":237,"result":"err","rem":0.9071428571428571,"inc_val":" Analogously,","val":" Analogously, denote by $\\omega_2$ the circumcircle of $CWM$, and let $Y$ be the point on $\\omega_2$ which is diametrically opposite to $W$."}
+{"i":87,"result":"err","rem":0.9097222222222222,"inc_val":" Two circles ","val":" Two circles passing through the points $A$ and $F$ are tangent to the line $BC$ at the points $P$ and $Q$ so that $B$ lies between $C$ and $Q$."}
+{"i":554,"result":"err","rem":0.9107142857142857,"inc_val":" Points $X","val":" Points $X\\neq A$ and $Y\\neq A$ lie on the circles $ABD$ and $ACE$, respectively, such that $DA=DX$ and $EA=EY$."}
+{"i":290,"result":"err","rem":0.9113924050632911,"inc_val":" Let the line ","val":" Let the line passing through $U$ and parallel to $AI$ intersect $AV$ at $X$, and let the line passing through $V$ and parallel to $AI$ intersect $AB$ at $Y$."}
+{"i":538,"result":"err","rem":0.9120879120879121,"inc_val":" Similar","val":" Similarly, a point $F$ is constructed on the segment $AB$ so that $\\angle ADF=\\angle DBC$."}
+{"i":95,"result":"err","rem":0.9130434782608696,"inc_val":" The","val":" There is given a convex quadrilateral $ABCD$."}
+{"i":569,"result":"err","rem":0.9150326797385621,"inc_val":" Let $P$ be a","val":" Let $P$ be a moving point such that the bisectors $k$ and $\\ell$ of angles $PBC$ and $PCB$, respectively, intersect each other on the line segment $AH$."}
+{"i":283,"result":"err","rem":0.9152542372881356,"inc_val":" Consider ","val":" Consider some points $E$ and $F$ lying on the sides $AC$ and $AB$, respectively, and let $M$ be the midpoint of $EF$."}
+{"i":47,"result":"err","rem":0.9159663865546218,"inc_val":" Consider ","val":" Consider five points $A$, $B$, $C$, $D$, $E$ such that $ABCD$ is a parallelogram and $BCED$ is a cyclic quadrilateral."}
+{"i":152,"result":"err","rem":0.9166666666666666,"inc_val":" Prove that ","val":" Prove that if the incenter of triangle $ABC$ lies outside triangle $XYZ$, then one of the angles of triangle $ABC$ is greater than $120^\\circ$."}
+{"i":446,"result":"err","rem":0.9166666666666666,"inc_val":" Similar","val":" Similarly, on ray $QA_1$, beyond $A_1$, let $Q_1$ be a point so that $\\angle CQ_1Q=\\angle CBA$."}
+{"i":73,"result":"err","rem":0.9186991869918699,"inc_val":" Consider ","val":" Consider three circles passing through $H$: $\\omega_a$ around $A_0$, $\\omega_b$ around $B_0$, and $\\omega_c$ around $C_0$."}
+{"i":289,"result":"err","rem":0.9190751445086706,"inc_val":" Let the line ","val":" Let the line passing through $I$ and perpendicular to $CI$ intersect the segment $BC$ and the arc $BC$ (not containing $A$) of $\\Omega$ at points $U$ and $V$, respectively."}
+{"i":265,"result":"err","rem":0.92,"inc_val":" Prove that ","val":" Prove that it is possible to choose two of the triangles $ALM$, $BMK$, and $CKL$ whose inradii sum up to at least the inradius of the triangle $ABC$."}
+{"i":256,"result":"err","rem":0.9207920792079208,"inc_val":" Let the","val":" Let the excircle of the triangle $ABC$ lying opposite to $A$ touch its side $BC$ at the point $A_1$."}
+{"i":465,"result":"err","rem":0.9222222222222223,"inc_val":" Suppose that ","val":" Suppose that for any point $X$, and for any three lines $\\ell_1$, $\\ell_2$, $\\ell_3$ passing through $X$, the points $f(\\ell_1)$, $f(\\ell_2)$, $f(\\ell_3)$ and $X$ lie on a circle."}
+{"i":139,"result":"err","rem":0.9230769230769231,"inc_val":" Point $P$ in","val":" Point $P$ inside this polygon is chosen so that its projections $P_1$, \\ldots, $P_n$ onto lines $A_1A_2$, \\ldots, $A_nA_1$ respectively lie on the sides of the polygon."}
+{"i":523,"result":"err","rem":0.9238095238095239,"inc_val":" Let the","val":" Let the tangent to $\\Omega$ at $D$ intersect the rays $BA$ and $BC$ at points $E$ and $F$, respectively."}
+{"i":215,"result":"err","rem":0.9245283018867925,"inc_val":" The","val":" The bisector of $\\angle BAC$ intersects $BC$ at $D$."}
+{"i":531,"result":"err","rem":0.9252336448598131,"inc_val":" Similar","val":" Similarly, let $O_D$ be the centre of the circle which passes through $D$ and is tangent to $AC$ at $B_1$."}
+{"i":140,"result":"err","rem":0.9298245614035088,"inc_val":" Prove that ","val":" Prove that for arbitrary points $X_1$, \\ldots, $X_n$ on sides $A_1A_2$, \\ldots, $A_nA_1$ respectively, $\\max\\{\\frac{X_1X_2}{P_1P_2},\\ldots,\\frac{X_nX_1}{P_nP_1}\\}\\geq 1$."}
+{"i":501,"result":"err","rem":0.9316239316239316,"inc_val":" Similar","val":" Similarly, let $\\omega_C$ meet the shorter arc $AC$ of $\\Gamma$ and segment $AC$ again at $Q$ and $N$, respectively."}
+{"i":118,"result":"err","rem":0.9322033898305084,"inc_val":" Prove that ","val":" Prove that for some parallelogram $R$ satisfying $P\\subset R$ we have $\\frac{|R|}{|P|}\\leq\\sqrt{2}$ where $|R|$ and $|P|$ denote the area of the sets $R$ and $P$, respectively."}
+{"i":158,"result":"err","rem":0.9322916666666666,"inc_val":" Denote by $V","val":" Denote by $V_{ij}V_{kj}V_{k\\ell}V_{i\\ell}$ the \\emph{curved quadrilateral}, whose sides are the segments $V_{ij}V_{i\\ell}$, $V_{kj}V_{k\\ell}$ and arcs $V_{ij}V_{kj}$ and $V_{i\\ell}V_{k\\ell}$."}
+{"i":520,"result":"err","rem":0.9330143540669856,"inc_val":" Assume that $","val":" Assume that $\\mathcal F$ is a set of polygons such that all vertices of polygons in $\\mathcal F$ lie in $\\mathcal S$, and each point in $\\mathcal S$ is a vertex of exactly one of the polygons in $\\mathcal F$."}
+{"i":394,"result":"err","rem":0.9333333333333333,"inc_val":" Two ","val":" Two regular $n$-gons $\\mathcal A$ and $\\mathcal B$ are given in the plane."}
+{"i":517,"result":"err","rem":0.9351851851851852,"inc_val":" Assume that $","val":" Assume that $\\mathcal F$ is a set consisting of $n^2$ quadrilaterals such that all their vertices lie in $\\mathcal S$, and each point in $\\mathcal S$ is a vertex of exactly one of the quadrilaterals in $\\mathcal F$."}
+{"i":96,"result":"err","rem":0.9353448275862069,"inc_val":" Prove that the","val":" Prove that there exists a point $P$ inside the quadrilateral such that $\\angle PAB+\\angle PDC=\\angle PBC+\\angle PAD=\\angle PCD+\\angle PBA=\\angle PDA+\\angle PCB=90^\\circ$ if and only if the diagonals $AC$ and $BD$ are perpendicular."}
+{"i":136,"result":"err","rem":0.9365079365079365,"inc_val":" The","val":" The tangent to the circumcircle at $C$ meets line $AB$ at $S$."}
+{"i":27,"result":"err","rem":0.9390243902439024,"inc_val":" A circle ","val":" A circle passing through the points $A$ and $D$ and a circle passing through the points $B$ and $C$ are externally tangent at a point $P$ inside the quadrilateral."}
+{"i":398,"result":"err","rem":0.9391304347826087,"inc_val":" Let $I","val":" Let $I_a$, $I_b$, $I_c$, and $I_d$ be the incenters of the triangles $DAB$, $ABC$, $BCD$, and $CDA$, respectively."}
+{"i":199,"result":"err","rem":0.9401709401709402,"inc_val":" Let $t","val":" Let $t_a$, $t_b$, and $t_c$ be the lines obtained by reflecting $t$ in the lines $BC$, $CA$, and $AB$, respectively."}
+{"i":182,"result":"err","rem":0.9402985074626866,"inc_val":" The","val":" The chord $DE$ meets $AC$ at a point $F$, and $BC$ at a point $G$."}
+{"i":516,"result":"err","rem":0.9409090909090909,"inc_val":" Let $n$ be a","val":" Let $n$ be a fixed positive integer, and let $\\mathcal S$ be the set of points $(x,y)$ on the Cartesian plane such that both coordinates $x$ and $y$ are nonnegative integers smaller than $2n$ (thus $|\\mathcal S|=4n^2$)."}
+{"i":519,"result":"err","rem":0.9409090909090909,"inc_val":" Let $n$ be a","val":" Let $n$ be a fixed positive integer, and let $\\mathcal S$ be the set of points $(x,y)$ on the Cartesian plane such that both coordinates $x$ and $y$ are nonnegative integers smaller than $2n$ (thus $|\\mathcal S|=4n^2$)."}
+{"i":480,"result":"err","rem":0.9411764705882353,"inc_val":" In the","val":" In the plane, there are $n\\ge 6$ pairwise disjoint disks $D_1,D_2,\\ldots,D_n$ with radii $R_1\\ge R_2\\ge\\ldots\\ge R_n$."}
+{"i":349,"result":"err","rem":0.9431818181818182,"inc_val":" Prove that the","val":" Prove that there exist two distinct nice subsets $S$ and $S'$ of the set $\\{(x,y):x\\geq 0,y\\geq 0\\}$ such that if $A\\in S$ and $A'\\in S'$ are the unique choices of points in (ii), then the product $BA\\cdot BA'$ is constant independent of the triangle $P_1P_2P_3$."}
+{"i":160,"result":"err","rem":0.9459459459459459,"inc_val":" Prove that ","val":" Prove that if the curved quadrilaterals $V_{11}V_{21}V_{22}V_{12}$, $V_{12}V_{22}V_{23}V_{13}$, $V_{21}V_{31}V_{32}V_{22}$ are circumscribed, then the curved quadrilateral $V_{22}V_{32}V_{33}V_{23}$ is circumscribed, too."}
+{"i":207,"result":"err","rem":0.9459459459459459,"inc_val":" The","val":" The extensions of the sides $AD$ and $BC$ beyond $A$ and $B$ meet at $F$."}
+{"i":504,"result":"err","rem":0.9466192170818505,"inc_val":" Prove that the","val":" Prove that there exists a positive constant $c$ such that the following statement is true: Assume that $n$ is an integer with $n\\ge 2$, and let $\\mathcal S$ be a set of $n$ points in the plane such that the distance between any two distinct points in $\\mathcal S$ is at least $1$."}
+{"i":222,"result":"err","rem":0.9473684210526316,"inc_val":" ","val":" Show that $MK=ML$."}
+{"i":445,"result":"err","rem":0.9529411764705882,"inc_val":" On ","val":" On ray $PB_1$, beyond $B_1$, let $P_1$ be a point so that $\\angle PP_1C=\\angle BAC$."}
+{"i":514,"result":"err","rem":0.9540229885057472,"inc_val":" The","val":" The extensions of $AD$ and $CD$ beyond $D$ meet $\\omega$ at $Y$ and $T$, respectively."}
+{"i":437,"result":"err","rem":0.956989247311828,"inc_val":" The","val":" The tangent to circle $BDF$ at $F$ and the tangent to circle $CEG$ at $G$ meet at point $T$."}
+{"i":513,"result":"err","rem":0.9578947368421052,"inc_val":" The","val":" The extensions of $BA$ and $BC$ beyond $A$ and $C$ meet $\\omega$ at $X$ and $Z$, respectively."}
+{"i":474,"result":"err","rem":0.9583333333333334,"inc_val":" The","val":" The internal bisectors of angles $ADP$ and $PCB$ meet at a point $Q$ inside the triangle $ABP$."}
+{"i":24,"result":"err","rem":0.9595375722543352,"inc_val":" Let $p","val":" Let $p_i$ be the common external tangent to $\\omega_j,\\omega_k$ ($\\{i,j,k\\}=\\{a,b,c\\}$) such that $\\omega_i$ lies on the opposite side of $p_i$ than $\\omega_j,\\omega_k$ do."}
+{"i":274,"result":"err","rem":0.96,"inc_val":" A","val":" Also, let us fix a real number $\\lambda\\in(0,1)$."}
+{"i":131,"result":"err","rem":0.961038961038961,"inc_val":" On","val":" One of the intersection points of the line $EF$ and the circumcircle is $P$."}
+{"i":464,"result":"err","rem":0.9612903225806452,"inc_val":" Let $","val":" Let $\\mathcal L$ be the set of all lines in the plane and let $f$ be a function that assigns to each line $\\ell\\in\\mathcal L$ a point $f(\\ell)$ on $\\ell$."}
+{"i":529,"result":"err","rem":0.9622641509433962,"inc_val":" The","val":" The internal angle bisectors of $\\angle ABC$ and $\\angle ADC$ meet $AC$ at $B_1$ and $D_1$, respectively."}
+{"i":502,"result":"err","rem":0.968,"inc_val":" The","val":" The rays $PM$ and $QN$ meet at $X$, and the tangents to $\\omega_B$ and $\\omega_C$ at $B$ and $C$, respectively, meet at $Y$."}
+{"i":151,"result":"err","rem":0.96875,"inc_val":" The","val":" The vertices $X$, $Y$, $Z$ of an equilateral triangle $XYZ$ lie respectively on the sides $BC$, $CA$, $AB$ of a triangle $ABC$."}
+{"i":401,"result":"err","rem":0.9692307692307692,"inc_val":" The","val":" There are 2017 mutually external circles drawn on a blackboard, such that no two are tangent and no three share a common tangent."}
+{"i":358,"result":"err","rem":0.9703703703703703,"inc_val":" The","val":" The internal angle bisectors of $\\angle ABC$ and $\\angle ADC$ meet $AC$ at $E$ and $F$ respectively, and meet each other at point $P$."}
+{"i":368,"result":"err","rem":0.9705882352941176,"inc_val":" ","val":" Show that $\\angle XIY=120^\\circ$."}
+{"i":371,"result":"err","rem":0.9705882352941176,"inc_val":" ","val":" Show that $AH+BH+CH\\geq AI+BI+C$."}
+{"i":154,"result":"err","rem":0.9710144927536232,"inc_val":" The","val":" These arcs lie in the same half-plane defined by line $AC$ in such a way that $\\gamma_2$ lies between the arcs $\\gamma_1$ and $\\gamma_3$."}
+{"i":505,"result":"err","rem":0.9716312056737588,"inc_val":" The","val":" Then there is a line $\\ell$ separating $\\mathcal S$ such that the distance from any point of $\\mathcal S$ to $\\ell$ is at least $cn^{-1/3}$."}
+{"i":149,"result":"err","rem":0.971830985915493,"inc_val":" The","val":" The vertices $X$, $Y$, $Z$ of an equilateral triangle $XYZ$ lie respectively on the sides $BC$, $CA$, $AB$ of an acute-angled triangle $ABC$."}
+{"i":545,"result":"err","rem":0.9748427672955975,"inc_val":" The","val":" The tangent line at $P$ to the circumcircle of the triangle $APX$ intersects the tangent line at $Q$ to the circumcircle of the triangle $AQY$ at a point $R$."}
+{"i":379,"result":"err","rem":0.975,"inc_val":" ","val":" Show that $JR'$ is tangent to $\\Gamma$."}
+{"i":105,"result":"err","rem":0.9761904761904762,"inc_val":" ","val":" Find all possible values of $\\angle BAC$."}
+{"i":348,"result":"err","rem":0.9769585253456221,"inc_val":" and ","val":" and (ii) for any triangle $P_1P_2P_3$, there exists a unique point $A$ in $S$ and a permutation $\\sigma$ of the indices $\\{1,2,3\\}$ for which triangles $ABC$ and $P_{\\sigma(1)}P_{\\sigma(2)}P_{\\sigma(3)}$ are similar."}
+{"i":484,"result":"err","rem":0.9777777777777777,"inc_val":" ","val":" (A disk is assumed to contain its boundary.)"}
+{"i":85,"result":"err","rem":0.9782608695652174,"inc_val":" ","val":" Show that the quadrilateral $ABCD$ is cyclic."}
+{"i":315,"result":"err","rem":0.9782608695652174,"inc_val":" ","val":" Determine all the possible values of $BT/BM$."}
+{"i":339,"result":"err","rem":0.9787234042553191,"inc_val":" ","val":" Show that $BD$, $EM$, and $FX$ are concurrent."}
+{"i":190,"result":"err","rem":0.9795918367346939,"inc_val":" ","val":" Show that $I$ is the incenter of triangle $KAB$."}
+{"i":535,"result":"err","rem":0.9807692307692307,"inc_val":" ","val":" (Every polygon is assumed to contain its boundary.)"}
+{"i":144,"result":"err","rem":0.9814814814814815,"inc_val":" ","val":" Finally, let $G$ be the midpoint of the segment $IF$."}
+{"i":17,"result":"err","rem":0.9821428571428571,"inc_val":" ","val":" Determine the angles $\\angle BEA_1$ and $\\angle AEB_1$."}
+{"i":272,"result":"err","rem":0.9824561403508771,"inc_val":" ","val":" (Here we always assume that an angle bisector is a ray.)"}
+{"i":246,"result":"err","rem":0.9829059829059829,"inc_val":" A","val":" A rhombus is inscribed into the quadrilateral $AEDB$ (all vertices of the rhombus lie on different sides of $AEDB$)."}
+{"i":416,"result":"err","rem":0.9836065573770492,"inc_val":" ","val":" (ii) no two triangles from $T$ have a common interior point."}
+{"i":447,"result":"err","rem":0.9838709677419355,"inc_val":" ","val":" Show that the points $P$, $Q$, $P_1$, an $Q_1$ are concyclic."}
+{"i":129,"result":"err","rem":0.9841269841269842,"inc_val":" ","val":" Show that the orthocenter of triangle $I_1I_2I_3$ lies on $g$."}
+{"i":404,"result":"err","rem":0.9850746268656716,"inc_val":" ","val":" Luciano keeps drawing tangent segments until no more can be drawn."}
+{"i":481,"result":"err","rem":0.9850746268656716,"inc_val":" ","val":" For every $i=1,2,\\ldots,n$, a point $P_i$ is chosen in disk $D_i$."}
+{"i":405,"result":"err","rem":0.9855072463768116,"inc_val":" ","val":" Find all possible numbers of tangent segments when he stops drawing."}
+{"i":415,"result":"err","rem":0.9857142857142858,"inc_val":" A","val":" A collection $T$ of triangles is called \\emph{good}, if the following conditions hold: (i) each triangle from $T$ is inscribed in $\\omega$;"}
+{"i":402,"result":"err","rem":0.986013986013986,"inc_val":" A","val":" A \\emph{tangent segment} is a line segment that is a common tangent to two circles, starting at one tangent point and ending at the other one."}
+{"i":300,"result":"err","rem":0.9863013698630136,"inc_val":" ","val":" Moreover, let $F$ and $G$ be the common points of $\\Gamma$ and $\\Omega$."}
+{"i":426,"result":"err","rem":0.9868421052631579,"inc_val":" ","val":" Show that the circumcircle of the triangle $\\Theta$ is tangent to $\\omega$."}
+{"i":23,"result":"err","rem":0.987012987012987,"inc_val":" ","val":" For $i\\in\\{a,b,c\\}$, let $\\omega_i$ be the circle with $M_iT_i$ as diameter."}
+{"i":56,"result":"err","rem":0.987012987012987,"inc_val":" ","val":" Determine the smallest possible real number $k$ with the following property."}
+{"i":521,"result":"err","rem":0.987012987012987,"inc_val":" ","val":" Determine the largest possible sum of areas of all polygons in $\\mathcal F$."}
+{"i":77,"result":"err","rem":0.9873417721518988,"inc_val":" ","val":" Show that the points $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$ lie on a circle."}
+{"i":497,"result":"err","rem":0.9875,"inc_val":" ","val":" Show that $\\omega_A$, $\\omega_B$, $\\omega_C$, and $\\omega$ have a common point."}
+{"i":285,"result":"err","rem":0.9879518072289156,"inc_val":" ","val":" We call the pair $(E,F)$ \\emph{interesting} if the quadrilateral $KSAT$ is cyclic."}
+{"i":65,"result":"err","rem":0.9880952380952381,"inc_val":" ","val":" Finally, lines $DI$ and $KI$ meet sides $AC$ and $BC$ at $E$ and $F$, respectively."}
+{"i":331,"result":"err","rem":0.9880952380952381,"inc_val":" A","val":" A \\emph{triangulation} of a convex polygon $\\Pi$ is a partitioning of $\\Pi$ into triangles by diagonals having no common points other than the vertices of the polygon."}
+{"i":567,"result":"err","rem":0.9880952380952381,"inc_val":" ","val":" Show that the circumcircles of $\\Delta_1$ and $\\Delta_2$ are tangent to each other."}
+{"i":2,"result":"err","rem":0.9882352941176471,"inc_val":" ","val":" Show that $AP\\geq AI$ and that equality holds if and only if $P$ coincides with $I$."}
+{"i":116,"result":"err","rem":0.9882352941176471,"inc_val":" ","val":" Show that $EF$ is tangent at $E$ to the circle through the points $E$, $G$, and $H$."}
+{"i":366,"result":"err","rem":0.9883720930232558,"inc_val":" ","val":" (a) Prove that $P$ lies on line $OI$ where $O$ is the circumcentre of triangle $ABC$."}
+{"i":157,"result":"err","rem":0.9885057471264368,"inc_val":" ","val":" For $i,j=1,2,3$, denote by $V_{ij}$ the point of intersection of $h_i$ and $\\gamma_j$."}
+{"i":518,"result":"err","rem":0.9887640449438202,"inc_val":" ","val":" Determine the largest possible sum of areas of all $n^2$ quadrilaterals in $\\mathcal F$."}
+{"i":153,"result":"err","rem":0.989010989010989,"inc_val":" ","val":" Three circular arcs $\\gamma_1$, $\\gamma_2$, and $\\gamma_3$ connect the points $A$ and $C$."}
+{"i":347,"result":"err","rem":0.989010989010989,"inc_val":" A","val":" A nonempty, bounded subset $S$ of the plane is said to be \\emph{nice} if (i) there is a point $T$ in $S$ such that for every point $Q$ in $S$, the segment $TQ$ lies entirely in $S$;"}
+{"i":332,"result":"err","rem":0.9897959183673469,"inc_val":" ","val":" We say that a triangulation is a \\emph{Thaiangulation} if all triangles in it have the same area."}
+{"i":565,"result":"err","rem":0.9903846153846154,"inc_val":" ","val":" For $i=1,2$, let $\\ell_1$ meet the lines $BC$, $CA$, and $AB$ at $X_i$, $Y_i$, and $Z_i$, respectively."}
+{"i":202,"result":"err","rem":0.990909090909091,"inc_val":" ","val":" This excircle is tangent to the side $BC$ at $M$, and to the lines $AB$ and $AC$ at $K$ and $L$ respectively."}
+{"i":35,"result":"err","rem":0.9913793103448276,"inc_val":" ","val":" Show that the sum of the areas assigned to all sides of the polygon is not less than twice the area of the polygon."}
+{"i":367,"result":"err","rem":0.9913793103448276,"inc_val":" ","val":" (b) Let one of the tangents from $P$ to the incircle of triangle $ABC$ meet the circumcircle at points $X$ and $Y$."}
+{"i":159,"result":"err","rem":0.9918032786885246,"inc_val":" ","val":" We say that this quadrilateral is \\emph{circumscribed} if there exists a circle touching these two segments and two arcs."}
+{"i":506,"result":"err","rem":0.992,"inc_val":" ","val":" (A line $\\ell$ \\emph{separates} a point set $\\mathcal S$ if some segment joining two points in $\\mathcal S$ crosses $\\ell$.)"}
+{"i":200,"result":"err","rem":0.9920634920634921,"inc_val":" ","val":" Show that the circumcircle of the triangle determined by the lines $t_a$, $t_b$, and $t_c$ is tangent to the circle $\\omega$."}
+{"i":275,"result":"err","rem":0.9920634920634921,"inc_val":" ","val":" For a variable point $P\\notin\\{A,B,C\\}$ on $\\Gamma$, let $M$ be the point on the segment $CP$ such that $CM=\\lambda\\cdot CP$."}
+{"i":301,"result":"err","rem":0.9924812030075187,"inc_val":" ","val":" We assume that $F$ lies on the arc $AB$ of $\\Omega$ not containing $C$, and $G$ lies on the arc $AC$ of $\\Omega$ not containing $B$."}
+{"i":34,"result":"err","rem":0.9928057553956835,"inc_val":" ","val":" To each side $a$ of a convex polygon we assign the maximum area of a triangle contained in the polygon and having $a$ as one of its sides."}
+{"i":220,"result":"err","rem":0.9935064935064936,"inc_val":" ","val":" Choose a point $X$ in the interior of the segment $CC_0$, and let $K,L$ be the points on the segments $AX,BX$ for which $BK=BC$ and $AL=AC$ respectively."}
+{"i":403,"result":"err","rem":0.9939024390243902,"inc_val":" ","val":" Luciano is drawing tangent segments on the blackboard, one at a time, so that no tangent segment intersects any other circles or previously drawn tangent segments."}
+{"i":417,"result":"err","rem":0.9940119760479041,"inc_val":" ","val":" Determine all positive real numbers $t$ such that, for each positive integer $n$, there exists a good collection of $n$ triangles, each of perimeter greater than $t$."}
+{"i":396,"result":"err","rem":0.9942196531791907,"inc_val":" ","val":" (That is, prove that there exists a line separating those vertices of $\\mathcal A$ that lie inside $\\mathcal B$ or on its boundary from the other vertices of $\\mathcal A$.)"}
+{"i":534,"result":"err","rem":0.9942196531791907,"inc_val":" ","val":" Determine all integers $n\\ge 3$ satisfying the following property: every convex $n$-gon whose sides all have length $1$ contains an equilateral triangle of side length $1$."}
+{"i":334,"result":"err","rem":0.994535519125683,"inc_val":" ","val":" (In other words, prove that it is possible to replace one pair of triangles in the first Thaiangulation with a different pair of triangles so as to obtain the second Thaiangulation.)"}

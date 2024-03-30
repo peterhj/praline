@@ -1,0 +1,578 @@
+{"key":"imo/2006/g1","slice":0,"val":" Let $ABC$ be a triangle with incentre $I$."}
+{"key":"imo/2006/g1","slice":1,"val":" A point $P$ in the interior of the triangle satisfies $\\angle PBA+\\angle PCA=\\angle PBC+\\angle PC$."}
+{"key":"imo/2006/g1","slice":2,"val":" Show that $AP\\geq AI$ and that equality holds if and only if $P$ coincides with $I$."}
+{"key":"imo/2006/g2","slice":0,"val":" Let $ABCD$ be a trapezoid with parallel sides $AB>CD$."}
+{"key":"imo/2006/g2","slice":1,"val":" Points $K$ and $L$ lie on the line segments $AB$ and $CD$ respectively, so that $AK/KB=KL/LC$."}
+{"key":"imo/2006/g2","slice":2,"val":" Suppose that there are points $P$ and $Q$ on the line segment $KL$ satisfying $\\angle APB=\\angle BC$ and $\\angle CQD=\\angle AB$."}
+{"key":"imo/2006/g2","slice":3,"val":" Prove that the points $P$, $Q$, $B$, and $C$ are concyclic."}
+{"key":"imo/2006/g3","slice":0,"val":" Let $ABCDE$ be a convex pentagon such that $\\angle BAC=\\angle CAD=\\angle DA$ and $\\angle ABC=\\angle ACD=\\angle AD$."}
+{"key":"imo/2006/g3","slice":1,"val":" The diagonals $BD$ and $CE$ meet at $P$."}
+{"key":"imo/2006/g3","slice":2,"val":" Prove that the line $AP$ bisects the side $CD$."}
+{"key":"imo/2006/g4","slice":0,"val":" A point $D$ is chosen on the side $AC$ of a triangle $ABC$ with $\\angle C<\\angle A<90^\\circ$ in such a way that $BD=BA$."}
+{"key":"imo/2006/g4","slice":1,"val":" The incircle of $ABC$ is tangent to $AB$ and $AC$ at points $K$ and $L$ respectively."}
+{"key":"imo/2006/g4","slice":2,"val":" Let $J$ be the incentre of triangle $BCD$."}
+{"key":"imo/2006/g4","slice":3,"val":" Prove that the line $KL$ intersects the line segment $AJ$ at its midpoint."}
+{"key":"imo/2006/g5","slice":0,"val":" In triangle $ABC$, let $J$ be the centre of the excircle tangent to side $BC$ at $A_1$ and to the extensions of sides $AC$ and $AB$ at $B_1$ and $C_1$ respectively."}
+{"key":"imo/2006/g5","slice":1,"val":" Suppose that the lines $A_1B_1$ and $AB$ are perpendicular and intersect at $D$."}
+{"key":"imo/2006/g5","slice":2,"val":" Let $E$ be the foot of the perpendicular from $C_1$ to line $DJ$."}
+{"key":"imo/2006/g5","slice":3,"val":" Determine the angles $\\angle BEA_1$ and $\\angle AEB_1$."}
+{"key":"imo/2006/g6","slice":0,"val":" Circles $\\omega_1$ and $\\omega_2$ with centres $O_1$ and $O_2$ are externally tangent at point $D$ and internally tangent to a circle $\\omega$ at points $E$ and $F$ respectively."}
+{"key":"imo/2006/g6","slice":1,"val":" Line $t$ is the common tangent of $\\omega_1$ and $\\omega_2$ at $D$."}
+{"key":"imo/2006/g6","slice":2,"val":" Let $AB$ be the diameter of $\\omega$ perpendicular to $t$, so that $A$, $E$, and $O_1$ are on the same side of $t$."}
+{"key":"imo/2006/g6","slice":3,"val":" Prove that lines $AO_1$, $BO_2$, $EF$, and $t$ are concurrent."}
+{"key":"imo/2006/g7","slice":0,"val":" In a triangle $ABC$, let $M_a,M_b,M_c$ be respectively the midpoints of the sides $BC,CA,AB$ and $T_a,T_b,T_c$ be the midpoints of the arcs $BC,CA,AB$ of the circumcircle of $ABC$, not containing the opposite vertices."}
+{"key":"imo/2006/g7","slice":1,"val":" For $i\\in\\{a,b,c\\}$, let $\\omega_i$ be the circle with $M_iT_i$ as diameter."}
+{"key":"imo/2006/g7","slice":2,"val":" Let $p_i$ be the common external tangent to $\\omega_j,\\omega_k$ ($\\{i,j,k\\}=\\{a,b,c\\}$) such that $\\omega_i$ lies on the opposite side of $p_i$ than $\\omega_j,\\omega_k$ do."}
+{"key":"imo/2006/g7","slice":3,"val":" Prove that the lines $p_a,p_b,p_c$ form a triangle similar to $ABC$ and find the ratio of similitude."}
+{"key":"imo/2006/g8","slice":0,"val":" Let $ABCD$ be a convex quadrilateral."}
+{"key":"imo/2006/g8","slice":1,"val":" A circle passing through the points $A$ and $D$ and a circle passing through the points $B$ and $C$ are externally tangent at a point $P$ inside the quadrilateral."}
+{"key":"imo/2006/g8","slice":2,"val":" Suppose that $\\angle PAB+\\angle PDC\\leq 90^\\circ$ and $\\angle PBA+\\angle PCD\\leq 90^\\circ$."}
+{"key":"imo/2006/g8","slice":3,"val":" Prove that $AB+CD\\geq BC+AD$."}
+{"key":"imo/2006/g9","slice":0,"val":" Points $A_1,B_1,C_1$ are chosen on the sides $BC,CA,AB$ of a triangle $ABC$, respectively."}
+{"key":"imo/2006/g9","slice":1,"val":" The circumcircles of triangles $AB_1C_1$, $BC_1A_1$, $CA_1B_1$ intersect the circumcircle of triangle $ABC$ again at points $A_2$, $B_2$, $C_2$ respectively ($A_2\\neq A$, $B_2\\neq B$, $C_2\\neq C$)."}
+{"key":"imo/2006/g9","slice":2,"val":" Points $A_3,B_3,C_3$ are symmetric to $A_1,B_1,C_1$ with respect to the midpoints of the sides $BC,CA,AB$ respectively."}
+{"key":"imo/2006/g9","slice":3,"val":" Prove that the triangles $A_2B_2C_2$ and $A_3B_3C_3$ are similar."}
+{"key":"imo/2006/g10","slice":0,"val":" To each side $a$ of a convex polygon we assign the maximum area of a triangle contained in the polygon and having $a$ as one of its sides."}
+{"key":"imo/2006/g10","slice":1,"val":" Show that the sum of the areas assigned to all sides of the polygon is not less than twice the area of the polygon."}
+{"key":"imo/2007/g1","slice":0,"val":" In triangle $ABC$, the angle bisector at vertex $C$ intersects the circumcircle and the perpendicular bisectors of sides $BC$ and $CA$ at points $R$, $P$, and $Q$, respectively."}
+{"key":"imo/2007/g1","slice":1,"val":" The midpoints of $BC$ and $CA$ are $S$ and $T$, respectively."}
+{"key":"imo/2007/g1","slice":2,"val":" Prove that triangles $RQT$ and $RPS$ have the same area."}
+{"key":"imo/2007/g2","slice":0,"val":" Given an isosceles triangle $ABC$ with $AB=AC$."}
+{"key":"imo/2007/g2","slice":1,"val":" The midpoint of side $BC$ is denoted by $M$."}
+{"key":"imo/2007/g2","slice":2,"val":" Let $X$ be a variable point on the shorter arc $MA$ of the circumcircle of triangle $ABM$."}
+{"key":"imo/2007/g2","slice":3,"val":" Let $T$ be the point in the angle domain $BMA$, for which $\\angle TMX=90^\\circ$ and $TX=BX$."}
+{"key":"imo/2007/g2","slice":4,"val":" Prove that $\\angle MTB-\\angle CTM$ does not depend on $X$."}
+{"key":"imo/2007/g3","slice":0,"val":" The diagonals of a trapezoid $ABCD$ intersect at point $P$."}
+{"key":"imo/2007/g3","slice":1,"val":" Point $Q$ lies between the parallel lines $BC$ and $AD$ such that $\\angle AQD=\\angle CQB$, and line $CD$ separates points $P$ and $Q$."}
+{"key":"imo/2007/g3","slice":2,"val":" Prove that $\\angle BQP=\\angle DAQ$."}
+{"key":"imo/2007/g4","slice":0,"val":" Consider five points $A$, $B$, $C$, $D$, $E$ such that $ABCD$ is a parallelogram and $BCED$ is a cyclic quadrilateral."}
+{"key":"imo/2007/g4","slice":1,"val":" Let $\\ell$ be a line passing through $A$, and let $\\ell$ intersect segment $DC$ and line $BC$ at points $F$ and $G$, respectively."}
+{"key":"imo/2007/g4","slice":2,"val":" Suppose that $EF=EG=EC$."}
+{"key":"imo/2007/g4","slice":3,"val":" Prove that $\\ell$ is the bisector of angle $DAB$."}
+{"key":"imo/2007/g5","slice":0,"val":" Let $ABC$ be a fixed triangle, and let $A_1$, $B_1$, $C_1$ be the midpoints of sides $BC$, $CA$, $AB$, respectively."}
+{"key":"imo/2007/g5","slice":1,"val":" Let $P$ be a variable point on the circumcircle."}
+{"key":"imo/2007/g5","slice":2,"val":" Let lines $PA_1$, $PB_1$, $PC_1$ meet the circumcircle again at $A'$, $B'$, $C'$ respectively."}
+{"key":"imo/2007/g5","slice":3,"val":" Assume that the points $A$, $B$, $C$, $A'$, $B'$, $C'$ are distinct, and lines $AA'$, $BB'$, $CC'$ form a triangle."}
+{"key":"imo/2007/g5","slice":4,"val":" Prove that the area of this triangle does not depend on $P$."}
+{"key":"imo/2007/g6","slice":0,"val":" Determine the smallest possible real number $k$ with the following property."}
+{"key":"imo/2007/g6","slice":1,"val":" Let $ABCD$ be a convex quadrilateral, and let points $A_1$, $B_1$, $C_1$, and $D_1$ lie on sides $AB$, $BC$, $CD$, and $DA$, respectively."}
+{"key":"imo/2007/g6","slice":2,"val":" Consider the areas of triangles $AA_1D_1$, $BB_1A_1$, $CC_1B_1$, and $DD_1C_1$;"}
+{"key":"imo/2007/g6","slice":3,"val":" let $S$ be the sum of the two smallest ones, and let $S_1$ be the area of quadrilateral $A_1B_1C_1D_1$."}
+{"key":"imo/2007/g6","slice":4,"val":" Then we always have $kS_1\\geq S$."}
+{"key":"imo/2007/g7","slice":0,"val":" Given an acute triangle $ABC$ with angles $\\alpha$, $\\beta$, and $\\gamma$ at vertices $A$, $B$, and $C$, respectively, such that $\\beta>\\gamma$."}
+{"key":"imo/2007/g7","slice":1,"val":" Point $I$ is the incenter, and $R$ is the circumradius."}
+{"key":"imo/2007/g7","slice":2,"val":" Point $D$ is the foot of the altitude from vertex $A$."}
+{"key":"imo/2007/g7","slice":3,"val":" Point $K$ lies on line $AD$ such that $AK=2R$, and $D$ separates $A$ and $K$."}
+{"key":"imo/2007/g7","slice":4,"val":" Finally, lines $DI$ and $KI$ meet sides $AC$ and $BC$ at $E$ and $F$, respectively."}
+{"key":"imo/2007/g7","slice":5,"val":" Prove that if $IE=IF$ then $\\beta\\leq 3\\gamma$."}
+{"key":"imo/2007/g8","slice":0,"val":" Point $P$ lies on side $AB$ of a convex quadrilateral $ABCD$."}
+{"key":"imo/2007/g8","slice":1,"val":" Let $\\omega$ be the incircle of triangle $CPD$, and let $I$ be its incenter."}
+{"key":"imo/2007/g8","slice":2,"val":" Suppose that $\\omega$ is tangent to the incircles of triangles $APD$ and $BPC$ at points $K$ and $L$, respectively."}
+{"key":"imo/2007/g8","slice":3,"val":" Let lines $AC$ and $BD$ meet at $E$, and let lines $AK$ and $BL$ meet at $F$."}
+{"key":"imo/2007/g8","slice":4,"val":" Prove that points $E$, $I$, and $F$ are collinear."}
+{"key":"imo/2008/g1","slice":0,"val":" In an acute-angled triangle $ABC$, point $H$ is the orthocentre and $A_0$, $B_0$, $C_0$ are the midpoints of the sides $BC$, $CA$, $AB$, respectively."}
+{"key":"imo/2008/g1","slice":1,"val":" Consider three circles passing through $H$: $\\omega_a$ around $A_0$, $\\omega_b$ around $B_0$, and $\\omega_c$ around $C_0$."}
+{"key":"imo/2008/g1","slice":2,"val":" The circle $\\omega_a$ intersects the line $BC$ at $A_1$ and $A_2$;"}
+{"key":"imo/2008/g1","slice":3,"val":" $\\omega_b$ intersects $CA$ at $B_1$ and $B_2$;"}
+{"key":"imo/2008/g1","slice":4,"val":" $\\omega_c$ intersects $AB$ at $C_1$ and $C_2$."}
+{"key":"imo/2008/g1","slice":5,"val":" Show that the points $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$ lie on a circle."}
+{"key":"imo/2008/g2","slice":0,"val":" Given trapezoid $ABCD$ with parallel sides $AB$ and $CD$, assume that there exist points $E$ on line $BC$ outside segment $BC$, and $F$ inside segment $AD$, such that $\\angle DAE=\\angle CBF$."}
+{"key":"imo/2008/g2","slice":1,"val":" Denote by $I$ the point of intersection of $CD$ and $EF$, and by $J$ the point of intersection of $AB$ and $EF$."}
+{"key":"imo/2008/g2","slice":2,"val":" Let $K$ be the midpoint of segment $EF$;"}
+{"key":"imo/2008/g2","slice":3,"val":" assume it does not lie on line $AB$."}
+{"key":"imo/2008/g2","slice":4,"val":" Prove that $I$ belongs to the circumcircle of $ABK$ if and only if $K$ belongs to the circumcircle of $CDJ$."}
+{"key":"imo/2008/g3","slice":0,"val":" Let $ABCD$ be a convex quadrilateral and let $P$ and $Q$ be points in $ABCD$ such that $PQDA$ and $QPBC$ are cyclic quadrilaterals."}
+{"key":"imo/2008/g3","slice":1,"val":" Suppose that there exists a point $E$ on the line segment $PQ$ such that $\\angle PAE=\\angle QDE$ and $\\angle PBE=\\angle QCE$."}
+{"key":"imo/2008/g3","slice":2,"val":" Show that the quadrilateral $ABCD$ is cyclic."}
+{"key":"imo/2008/g4","slice":0,"val":" In an acute triangle $ABC$ segments $BE$ and $CF$ are altitudes."}
+{"key":"imo/2008/g4","slice":1,"val":" Two circles passing through the points $A$ and $F$ are tangent to the line $BC$ at the points $P$ and $Q$ so that $B$ lies between $C$ and $Q$."}
+{"key":"imo/2008/g4","slice":2,"val":" Prove that the lines $PE$ and $QF$ intersect on the circumcircle of triangle $AEF$."}
+{"key":"imo/2008/g5","slice":0,"val":" Let $k$ and $n$ be integers with $0\\leq k\\leq n-2$."}
+{"key":"imo/2008/g5","slice":1,"val":" Consider a set $L$ of $n$ lines in the plane such that no two of them are parallel and no three have a common point."}
+{"key":"imo/2008/g5","slice":2,"val":" Denote by $I$ the set of intersection points of lines in $L$."}
+{"key":"imo/2008/g5","slice":3,"val":" Let $O$ be a point in the plane not lying on any line of $L$."}
+{"key":"imo/2008/g5","slice":4,"val":" A point $X\\in I$ is colored red if the open line segment $OX$ intersects at most $k$ lines in $L$."}
+{"key":"imo/2008/g5","slice":5,"val":" Prove that $I$ contains at least $\\frac{1}{2}(k+1)(k+2)$ red points."}
+{"key":"imo/2008/g6","slice":0,"val":" There is given a convex quadrilateral $ABCD$."}
+{"key":"imo/2008/g6","slice":1,"val":" Prove that there exists a point $P$ inside the quadrilateral such that $\\angle PAB+\\angle PDC=\\angle PBC+\\angle PAD=\\angle PCD+\\angle PBA=\\angle PDA+\\angle PCB=90^\\circ$ if and only if the diagonals $AC$ and $BD$ are perpendicular."}
+{"key":"imo/2008/g7","slice":0,"val":" Let $ABCD$ be a convex quadrilateral with $AB\\neq BC$."}
+{"key":"imo/2008/g7","slice":1,"val":" Denote by $\\omega_1$ and $\\omega_2$ the incircles of triangles $ABC$ and $ADC$."}
+{"key":"imo/2008/g7","slice":2,"val":" Suppose that there exists a circle $\\omega$ inscribed in angle $ABC$, tangent to the extensions of line segments $AD$ and $CD$."}
+{"key":"imo/2008/g7","slice":3,"val":" Prove that the common external tangents of $\\omega_1$ and $\\omega_2$ intersect on $\\omega$."}
+{"key":"imo/2009/g1","slice":0,"val":" Let $ABC$ be a triangle with $AB=AC$."}
+{"key":"imo/2009/g1","slice":1,"val":" The angle bisectors of $A$ and $B$ meet the sides $BC$ and $AC$ in $D$ and $E$, respectively."}
+{"key":"imo/2009/g1","slice":2,"val":" Let $K$ be the incenter of triangle $ADC$."}
+{"key":"imo/2009/g1","slice":3,"val":" Suppose that $\\angle BEK=45^\\circ$."}
+{"key":"imo/2009/g1","slice":4,"val":" Find all possible values of $\\angle BAC$."}
+{"key":"imo/2009/g2","slice":0,"val":" Let $ABC$ be a triangle with circumcenter $O$."}
+{"key":"imo/2009/g2","slice":1,"val":" The points $P$ and $Q$ are interior points of the sides $CA$ and $AB$, respectively."}
+{"key":"imo/2009/g2","slice":2,"val":" The circle $k$ passes through the midpoints of the segments $BP$, $CQ$, and $PQ$."}
+{"key":"imo/2009/g2","slice":3,"val":" Prove that if the line $PQ$ is tangent to circle $k$ then $OP=OQ$."}
+{"key":"imo/2009/g3","slice":0,"val":" Let $ABC$ be a triangle."}
+{"key":"imo/2009/g3","slice":1,"val":" The incircle of $ABC$ touches the sides $AB$ and $AC$ at the points $Z$ and $Y$, respectively."}
+{"key":"imo/2009/g3","slice":2,"val":" Let $G$ be the point where the lines $BY$ and $CZ$ meet, and let $R$ and $S$ be points such that the two quadrilaterals $BCYR$ and $BCSZ$ are parallelograms."}
+{"key":"imo/2009/g3","slice":3,"val":" Prove that $GR=GS$."}
+{"key":"imo/2009/g4","slice":0,"val":" Given a cyclic quadrilateral $ABCD$, let the diagonals $AC$ and $BD$ meet at $E$ and the lines $AD$ and $BC$ meet at $F$."}
+{"key":"imo/2009/g4","slice":1,"val":" The midpoints of $AB$ and $CD$ are $G$ and $H$, respectively."}
+{"key":"imo/2009/g4","slice":2,"val":" Show that $EF$ is tangent at $E$ to the circle through the points $E$, $G$, and $H$."}
+{"key":"imo/2009/g5","slice":0,"val":" Let $P$ be a polygon that is convex and symmetric to some point $O$."}
+{"key":"imo/2009/g5","slice":1,"val":" Prove that for some parallelogram $R$ satisfying $P\\subset R$ we have $\\frac{|R|}{|P|}\\leq\\sqrt{2}$ where $|R|$ and $|P|$ denote the area of the sets $R$ and $P$, respectively."}
+{"key":"imo/2009/g6","slice":0,"val":" Let the sides $AD$ and $BC$ of the quadrilateral $ABCD$ (such that $AB$ is not parallel to $CD$) intersect at point $P$."}
+{"key":"imo/2009/g6","slice":1,"val":" Points $O_1$ and $O_2$ are the circumcenters and points $H_1$ and $H_2$ are the orthocenters of triangles $ABP$ and $DCP$, respectively."}
+{"key":"imo/2009/g6","slice":2,"val":" Denote the midpoints of segments $O_1H_1$ and $O_2H_2$ by $E_1$ and $E_2$, respectively."}
+{"key":"imo/2009/g6","slice":3,"val":" Prove that the perpendicular from $E_1$ on $CD$, the perpendicular from $E_2$ on $AB$, and the line $H_1H_2$ are concurrent."}
+{"key":"imo/2009/g7","slice":0,"val":" Let $ABC$ be a triangle with incenter $I$ and let $X$, $Y$, and $Z$ be the incenters of the triangles $BIC$, $CIA$, and $AIB$, respectively."}
+{"key":"imo/2009/g7","slice":1,"val":" Let the triangle $XYZ$ be equilateral."}
+{"key":"imo/2009/g7","slice":2,"val":" Prove that $ABC$ is equilateral too."}
+{"key":"imo/2009/g8","slice":0,"val":" Let $ABCD$ be a circumscribed quadrilateral."}
+{"key":"imo/2009/g8","slice":1,"val":" Let $g$ be a line through $A$ which meets the segment $BC$ in $M$ and the line $CD$ in $N$."}
+{"key":"imo/2009/g8","slice":2,"val":" Denote by $I_1$, $I_2$, and $I_3$ the incenters of triangles $ABM$, $MNC$, and $NDA$, respectively."}
+{"key":"imo/2009/g8","slice":3,"val":" Show that the orthocenter of triangle $I_1I_2I_3$ lies on $g$."}
+{"key":"imo/2010/g1","slice":0,"val":" Let $ABC$ be an acute triangle with $D$, $E$, $F$ the feet of the altitudes lying on $BC$, $CA$, $AB$ respectively."}
+{"key":"imo/2010/g1","slice":1,"val":" One of the intersection points of the line $EF$ and the circumcircle is $P$."}
+{"key":"imo/2010/g1","slice":2,"val":" The lines $BP$ and $DF$ meet at point $Q$."}
+{"key":"imo/2010/g1","slice":3,"val":" Prove that $AP=AQ$."}
+{"key":"imo/2010/g2","slice":0,"val":" Point $P$ lies inside triangle $ABC$."}
+{"key":"imo/2010/g2","slice":1,"val":" Lines $AP$, $BP$, $CP$, meet the circumcircle of $ABC$ again at points $K$, $L$, $M$, respectively."}
+{"key":"imo/2010/g2","slice":2,"val":" The tangent to the circumcircle at $C$ meets line $AB$ at $S$."}
+{"key":"imo/2010/g2","slice":3,"val":" Prove that $SC=SP$ if and only if $MK=ML$."}
+{"key":"imo/2010/g3","slice":0,"val":" Let $A_1A_2\\ldots A_n$ be a convex polygon."}
+{"key":"imo/2010/g3","slice":1,"val":" Point $P$ inside this polygon is chosen so that its projections $P_1$, \\ldots, $P_n$ onto lines $A_1A_2$, \\ldots, $A_nA_1$ respectively lie on the sides of the polygon."}
+{"key":"imo/2010/g3","slice":2,"val":" Prove that for arbitrary points $X_1$, \\ldots, $X_n$ on sides $A_1A_2$, \\ldots, $A_nA_1$ respectively, $\\max\\{\\frac{X_1X_2}{P_1P_2},\\ldots,\\frac{X_nX_1}{P_nP_1}\\}\\geq 1$."}
+{"key":"imo/2010/g4","slice":0,"val":" Let $I$ be the incentre of a triangle $ABC$ and $\\Gamma$ be its circumcircle."}
+{"key":"imo/2010/g4","slice":1,"val":" Let the line $AI$ intersect $\\Gamma$ at a point $D\\neq A$."}
+{"key":"imo/2010/g4","slice":2,"val":" Let $F$ and $E$ be points on side $BC$ and arc $BDC$ respectively such that $\\angle BAF=\\angle CAE<\\frac{1}{2}\\angle BAC$."}
+{"key":"imo/2010/g4","slice":3,"val":" Finally, let $G$ be the midpoint of the segment $IF$."}
+{"key":"imo/2010/g4","slice":4,"val":" Prove that the lines $DG$ and $EI$ intersect on $\\Gamma$."}
+{"key":"imo/2010/g5","slice":0,"val":" Let $ABCDE$ be a convex pentagon such that $BC|AE$, $AB=BC+AE$, and $\\angle ABC=\\angle CDE$."}
+{"key":"imo/2010/g5","slice":1,"val":" Let $M$ be the midpoint of $CE$, and let $O$ be the circumcenter of triangle $BCD$."}
+{"key":"imo/2010/g5","slice":2,"val":" Given that $\\angle DMO=90^\\circ$, prove that $2\\angle BDA=\\angle CDE$."}
+{"key":"imo/2010/g6","slice":0,"val":" The vertices $X$, $Y$, $Z$ of an equilateral triangle $XYZ$ lie respectively on the sides $BC$, $CA$, $AB$ of an acute-angled triangle $ABC$."}
+{"key":"imo/2010/g6","slice":1,"val":" Prove that the incenter of triangle $ABC$ lies inside triangle $XYZ$."}
+{"key":"imo/2010/g6a","slice":0,"val":" The vertices $X$, $Y$, $Z$ of an equilateral triangle $XYZ$ lie respectively on the sides $BC$, $CA$, $AB$ of a triangle $ABC$."}
+{"key":"imo/2010/g6a","slice":1,"val":" Prove that if the incenter of triangle $ABC$ lies outside triangle $XYZ$, then one of the angles of triangle $ABC$ is greater than $120^\\circ$."}
+{"key":"imo/2010/g7","slice":0,"val":" Three circular arcs $\\gamma_1$, $\\gamma_2$, and $\\gamma_3$ connect the points $A$ and $C$."}
+{"key":"imo/2010/g7","slice":1,"val":" These arcs lie in the same half-plane defined by line $AC$ in such a way that $\\gamma_2$ lies between the arcs $\\gamma_1$ and $\\gamma_3$."}
+{"key":"imo/2010/g7","slice":2,"val":" Point $B$ lies on the segment $AC$."}
+{"key":"imo/2010/g7","slice":3,"val":" Let $h_1$, $h_2$, and $h_3$ be three rays starting at $B$, lying in the same half-plane, $h_2$ being between $h_1$ and $h_3$."}
+{"key":"imo/2010/g7","slice":4,"val":" For $i,j=1,2,3$, denote by $V_{ij}$ the point of intersection of $h_i$ and $\\gamma_j$."}
+{"key":"imo/2010/g7","slice":5,"val":" Denote by $V_{ij}V_{kj}V_{k\\ell}V_{i\\ell}$ the \\emph{curved quadrilateral}, whose sides are the segments $V_{ij}V_{i\\ell}$, $V_{kj}V_{k\\ell}$ and arcs $V_{ij}V_{kj}$ and $V_{i\\ell}V_{k\\ell}$."}
+{"key":"imo/2010/g7","slice":6,"val":" We say that this quadrilateral is \\emph{circumscribed} if there exists a circle touching these two segments and two arcs."}
+{"key":"imo/2010/g7","slice":7,"val":" Prove that if the curved quadrilaterals $V_{11}V_{21}V_{22}V_{12}$, $V_{12}V_{22}V_{23}V_{13}$, $V_{21}V_{31}V_{32}V_{22}$ are circumscribed, then the curved quadrilateral $V_{22}V_{32}V_{33}V_{23}$ is circumscribed, too."}
+{"key":"imo/2011/g1","slice":0,"val":" Let $ABC$ be an acute triangle."}
+{"key":"imo/2011/g1","slice":1,"val":" Let $\\omega$ be a circle whose center $L$ lies on the side $BC$."}
+{"key":"imo/2011/g1","slice":2,"val":" Suppose that $\\omega$ is tangent to $AB$ at $B'$ and to $AC$ at $C'$."}
+{"key":"imo/2011/g1","slice":3,"val":" Suppose also that the circumcenter $O$ of the triangle $ABC$ lies on the shorter arc $B'C'$ of $\\omega$."}
+{"key":"imo/2011/g1","slice":4,"val":" Prove that the circumcircle of $ABC$ and $\\omega$ meet at two points."}
+{"key":"imo/2011/g2","slice":0,"val":" Let $A_1A_2A_3A_4$ be a non-cyclic quadrilateral."}
+{"key":"imo/2011/g2","slice":1,"val":" Let $O_1$ and $r_1$ be the circumcenter and the circumradius of the triangle $A_2A_3A_4$."}
+{"key":"imo/2011/g2","slice":2,"val":" Define $O_2$, $O_3$, $O_4$ and $r_2$, $r_3$, $r_4$ in a similar way."}
+{"key":"imo/2011/g2","slice":3,"val":" Prove that $\\frac{1}{O_1A_1^2-r_1^2}+\\frac{1}{O_2A_2^2-r_2^2}+\\frac{1}{O_3A_3^2-r_3^2}+\\frac{1}{O_4A_4^2-r_4^2}=0$."}
+{"key":"imo/2011/g3","slice":0,"val":" Let $ABCD$ be a convex quadrilateral whose sides $AD$ and $BC$ are not parallel."}
+{"key":"imo/2011/g3","slice":1,"val":" Suppose that the circles with diameters $AB$ and $CD$ meet at points $E$ and $F$ inside the quadrilateral."}
+{"key":"imo/2011/g3","slice":2,"val":" Let $\\omega_E$ be the circle through the feet of the perpendiculars from $E$ to the lines $AB$, $BC$, and $CD$."}
+{"key":"imo/2011/g3","slice":3,"val":" Let $\\omega_F$ be the circle through the feet of the perpendiculars from $F$ to the lines $CD$, $DA$, and $AB$."}
+{"key":"imo/2011/g3","slice":4,"val":" Prove that the midpoint of the segment $EF$ lies on the line through the two intersection points of $\\omega_E$ and $\\omega_F$."}
+{"key":"imo/2011/g4","slice":0,"val":" Let $ABC$ be an acute triangle with circumcircle $\\Omega$."}
+{"key":"imo/2011/g4","slice":1,"val":" Let $B_0$ be the midpoint of $AC$ and let $C_0$ be the midpoint of $AB$."}
+{"key":"imo/2011/g4","slice":2,"val":" Let $D$ be the foot of the altitude from $A$, and let $G$ be the centroid of the triangle $ABC$."}
+{"key":"imo/2011/g4","slice":3,"val":" Let $\\omega$ be a circle through $B_0$ and $C_0$ that is tangent to the circle $\\Omega$ at a point $X\\neq A$."}
+{"key":"imo/2011/g4","slice":4,"val":" Prove that the points $D$, $G$, and $X$ are collinear."}
+{"key":"imo/2011/g5","slice":0,"val":" Let $ABC$ be a triangle with incenter $I$ and circumcircle $\\omega$."}
+{"key":"imo/2011/g5","slice":1,"val":" Let $D$ and $E$ be the second intersection points of $\\omega$ with the lines $AI$ and $BI$, respectively."}
+{"key":"imo/2011/g5","slice":2,"val":" The chord $DE$ meets $AC$ at a point $F$, and $BC$ at a point $G$."}
+{"key":"imo/2011/g5","slice":3,"val":" Let $P$ be the intersection point of the line through $F$ parallel to $AD$ and the line through $G$ parallel to $BE$."}
+{"key":"imo/2011/g5","slice":4,"val":" Suppose that the tangents to $\\omega$ at $A$ and at $B$ meet at a point $K$."}
+{"key":"imo/2011/g5","slice":5,"val":" Prove that the three lines $AE$, $BD$, and $KP$ are either parallel or concurrent."}
+{"key":"imo/2011/g6","slice":0,"val":" Let $ABC$ be a triangle with $AB=AC$, and let $D$ be the midpoint of $AC$."}
+{"key":"imo/2011/g6","slice":1,"val":" The angle bisector of $\\angle BAC$ intersects the circle through $D$, $B$, and $C$ in a point $E$ inside the triangle $ABC$."}
+{"key":"imo/2011/g6","slice":2,"val":" The line $BD$ intersects the circle through $A$, $E$, and $B$ in two points $B$ and $F$."}
+{"key":"imo/2011/g6","slice":3,"val":" The lines $AF$ and $BE$ meet at a point $I$, and the lines $CI$ and $BD$ meet at a point $K$."}
+{"key":"imo/2011/g6","slice":4,"val":" Show that $I$ is the incenter of triangle $KAB$."}
+{"key":"imo/2011/g7","slice":0,"val":" Let $ABCDEF$ be a convex hexagon all of whose sides are tangent to a circle $\\omega$ with center $O$."}
+{"key":"imo/2011/g7","slice":1,"val":" Suppose that the circumcircle of triangle $ACE$ is concentric with $\\omega$."}
+{"key":"imo/2011/g7","slice":2,"val":" Let $J$ be the foot of the perpendicular from $B$ to $CD$."}
+{"key":"imo/2011/g7","slice":3,"val":" Suppose that the perpendicular from $B$ to $DF$ intersects the line $EO$ at a point $K$."}
+{"key":"imo/2011/g7","slice":4,"val":" Let $L$ be the foot of the perpendicular from $K$ to $DE$."}
+{"key":"imo/2011/g7","slice":5,"val":" Prove that $DJ=DL$."}
+{"key":"imo/2011/g8","slice":0,"val":" Let $ABC$ be an acute triangle with circumcircle $\\omega$."}
+{"key":"imo/2011/g8","slice":1,"val":" Let $t$ be a tangent line to $\\omega$."}
+{"key":"imo/2011/g8","slice":2,"val":" Let $t_a$, $t_b$, and $t_c$ be the lines obtained by reflecting $t$ in the lines $BC$, $CA$, and $AB$, respectively."}
+{"key":"imo/2011/g8","slice":3,"val":" Show that the circumcircle of the triangle determined by the lines $t_a$, $t_b$, and $t_c$ is tangent to the circle $\\omega$."}
+{"key":"imo/2012/g1","slice":0,"val":" In the triangle $ABC$ the point $J$ is the center of the excircle opposite to $A$."}
+{"key":"imo/2012/g1","slice":1,"val":" This excircle is tangent to the side $BC$ at $M$, and to the lines $AB$ and $AC$ at $K$ and $L$ respectively."}
+{"key":"imo/2012/g1","slice":2,"val":" The lines $LM$ and $BJ$ meet at $F$, and the lines $KM$ and $CJ$ meet at $G$."}
+{"key":"imo/2012/g1","slice":3,"val":" Let $S$ be the point of intersection of the lines $AF$ and $BC$, and let $T$ be the point of intersection of the lines $AG$ and $BC$."}
+{"key":"imo/2012/g1","slice":4,"val":" Prove that $M$ is the midpoint of $ST$."}
+{"key":"imo/2012/g2","slice":0,"val":" Let $ABCD$ be a cyclic quadrilateral whose diagonals $AC$ and $BD$ meet at $E$."}
+{"key":"imo/2012/g2","slice":1,"val":" The extensions of the sides $AD$ and $BC$ beyond $A$ and $B$ meet at $F$."}
+{"key":"imo/2012/g2","slice":2,"val":" Let $G$ be the point such that $ECGD$ is a parallelogram, and let $H$ be the image of $E$ under reflection in $AD$."}
+{"key":"imo/2012/g2","slice":3,"val":" Prove that $D$, $H$, $F$, and $G$ are concyclic."}
+{"key":"imo/2012/g3","slice":0,"val":" In an acute triangle $ABC$ the points $D$, $E$, and $F$ are the feet of the altitudes through $A$, $B$, and $C$ respectively."}
+{"key":"imo/2012/g3","slice":1,"val":" The incenters of the triangles $AEF$ and $BDF$ are $I_1$ and $I_2$ respectively;"}
+{"key":"imo/2012/g3","slice":2,"val":" the circumcenters of the triangles $ACI_1$ and $BCI_2$ are $O_1$ and $O_2$ respectively."}
+{"key":"imo/2012/g3","slice":3,"val":" Prove that $I_1I_2$ and $O_1O_2$ are parallel."}
+{"key":"imo/2012/g4","slice":0,"val":" Let $ABC$ be a triangle with $AB\\neq AC$ and circumcenter $O$."}
+{"key":"imo/2012/g4","slice":1,"val":" The bisector of $\\angle BAC$ intersects $BC$ at $D$."}
+{"key":"imo/2012/g4","slice":2,"val":" Let $E$ be the reflection of $D$ with respect to the midpoint of $BC$."}
+{"key":"imo/2012/g4","slice":3,"val":" The lines through $D$ and $E$ perpendicular to $BC$ intersect the lines $AO$ and $AD$ at $X$ and $Y$ respectively."}
+{"key":"imo/2012/g4","slice":4,"val":" Prove that the quadrilateral $BXCY$ is cyclic."}
+{"key":"imo/2012/g5","slice":0,"val":" Let $ABC$ be a triangle with $\\angle BCA=90^\\circ$, and let $C_0$ be the foot of the altitude from $C$."}
+{"key":"imo/2012/g5","slice":1,"val":" Choose a point $X$ in the interior of the segment $CC_0$, and let $K,L$ be the points on the segments $AX,BX$ for which $BK=BC$ and $AL=AC$ respectively."}
+{"key":"imo/2012/g5","slice":2,"val":" Denote by $M$ the intersection of $AL$ and $BK$."}
+{"key":"imo/2012/g5","slice":3,"val":" Show that $MK=ML$."}
+{"key":"imo/2012/g6","slice":0,"val":" Let $ABC$ be a triangle with circumcenter $O$ and incenter $I$."}
+{"key":"imo/2012/g6","slice":1,"val":" The points $D$, $E$, and $F$ on the sides $BC$, $CA$, and $AB$ respectively are such that $BD+BF=CA$ and $CD+CE=AB$."}
+{"key":"imo/2012/g6","slice":2,"val":" The circumcircles of the triangles $BFD$ and $CDE$ intersect at $P\\neq D$."}
+{"key":"imo/2012/g6","slice":3,"val":" Prove that $OP=OI$."}
+{"key":"imo/2012/g7","slice":0,"val":" Let $ABCD$ be a convex quadrilateral with non-parallel sides $BC$ and $AD$."}
+{"key":"imo/2012/g7","slice":1,"val":" Assume that there is a point $E$ on the side $BC$ such that the quadrilaterals $ABED$ and $AECD$ are circumscribed."}
+{"key":"imo/2012/g7","slice":2,"val":" Prove that there is a point $F$ on the side $AD$ such that the quadrilaterals $ABCF$ and $BCDF$ are circumscribed if and only if $AB$ is parallel to $CD$."}
+{"key":"imo/2012/g8","slice":0,"val":" Let $ABC$ be a triangle with circumcircle $\\omega$ and $\\ell$ a line without common points with $\\omega$."}
+{"key":"imo/2012/g8","slice":1,"val":" Denote by $P$ the foot of the perpendicular from the center of $\\omega$ to $\\ell$."}
+{"key":"imo/2012/g8","slice":2,"val":" The side-lines $BC,CA,AB$ intersect $\\ell$ at the points $X,Y,Z$ different from $P$."}
+{"key":"imo/2012/g8","slice":3,"val":" Prove that the circumcircles of the triangles $AXP$, $BYP$, and $CZP$ have a common point different from $P$ or are mutually tangent at $P$."}
+{"key":"imo/2013/g1","slice":0,"val":" Let $ABC$ be an acute-angled triangle with orthocenter $H$, and let $W$ be a point on side $BC$."}
+{"key":"imo/2013/g1","slice":1,"val":" Denote by $M$ and $N$ the feet of the altitudes from $B$ and $C$ respectively."}
+{"key":"imo/2013/g1","slice":2,"val":" Denote by $\\omega_1$ the circumcircle of $BWN$, and let $X$ be the point on $\\omega_1$ which is diametrically opposite to $W$."}
+{"key":"imo/2013/g1","slice":3,"val":" Analogously, denote by $\\omega_2$ the circumcircle of $CWM$, and let $Y$ be the point on $\\omega_2$ which is diametrically opposite to $W$."}
+{"key":"imo/2013/g1","slice":4,"val":" Prove that $X$, $Y$, and $H$ are collinear."}
+{"key":"imo/2013/g2","slice":0,"val":" Let $\\omega$ be the circumcircle of a triangle $ABC$."}
+{"key":"imo/2013/g2","slice":1,"val":" Denote by $M$ and $N$ the midpoints of the sides $AB$ and $AC$ respectively, and denote by $T$ the midpoint of the arc $BC$ of $\\omega$ not containing $A$."}
+{"key":"imo/2013/g2","slice":2,"val":" The circumcircles of the triangles $AMT$ and $ANT$ intersect the perpendicular bisectors of $AC$ and $AB$ at points $X$ and $Y$ respectively;"}
+{"key":"imo/2013/g2","slice":3,"val":" assume that $X$ and $Y$ lie inside the triangle $ABC$."}
+{"key":"imo/2013/g2","slice":4,"val":" The lines $MN$ and $XY$ intersect at $K$."}
+{"key":"imo/2013/g2","slice":5,"val":" Prove that $KA=KT$."}
+{"key":"imo/2013/g3","slice":0,"val":" In a triangle $ABC$, let $D$ and $E$ be the feet of the angle bisectors of angles $A$ and $B$ respectively."}
+{"key":"imo/2013/g3","slice":1,"val":" A rhombus is inscribed into the quadrilateral $AEDB$ (all vertices of the rhombus lie on different sides of $AEDB$)."}
+{"key":"imo/2013/g3","slice":2,"val":" Let $\\varphi$ be the non-obtuse angle of the rhombus."}
+{"key":"imo/2013/g3","slice":3,"val":" Prove that $\\varphi\\leq\\max\\{\\angle BAC,\\angle ABC\\}$."}
+{"key":"imo/2013/g4","slice":0,"val":" Let $ABC$ be a triangle with $\\angle B>\\angle C$."}
+{"key":"imo/2013/g4","slice":1,"val":" Let $P$ and $Q$ be two different points on line $AC$ such that $\\angle PBA=\\angle QBA=\\angle ACB$ and $A$ is located between $P$ and $C$."}
+{"key":"imo/2013/g4","slice":2,"val":" Suppose that there exists an interior point $D$ of segment $BQ$ for which $PD=PB$."}
+{"key":"imo/2013/g4","slice":3,"val":" Let the ray $AD$ intersect the circle $ABC$ at $R\\neq A$."}
+{"key":"imo/2013/g4","slice":4,"val":" Prove that $QB=QR$."}
+{"key":"imo/2013/g5","slice":0,"val":" Let $ABCDEF$ be a convex hexagon with $AB=DE$, $BC=EF$, $CD=FA$, and $\\angle A-\\angle D=\\angle C-\\angle F=\\angle E-\\angle B$."}
+{"key":"imo/2013/g5","slice":1,"val":" Prove that the diagonals $AD$, $BE$, and $CF$ are concurrent."}
+{"key":"imo/2013/g6","slice":0,"val":" Let the excircle of the triangle $ABC$ lying opposite to $A$ touch its side $BC$ at the point $A_1$."}
+{"key":"imo/2013/g6","slice":1,"val":" Define the points $B_1$ and $C_1$ analogously."}
+{"key":"imo/2013/g6","slice":2,"val":" Suppose that the circumcentre of the triangle $A_1B_1C_1$ lies on the circumcircle of the triangle $ABC$."}
+{"key":"imo/2013/g6","slice":3,"val":" Prove that triangle $ABC$ is right-angled."}
+{"key":"imo/2014/g1","slice":0,"val":" The points $P$ and $Q$ are chosen on the side $BC$ of an acute-angled triangle $ABC$ so that $\\angle PAB=\\angle ACB$ and $\\angle QAC=\\angle CBA$."}
+{"key":"imo/2014/g1","slice":1,"val":" The points $M$ and $N$ are taken on the rays $AP$ and $AQ$ respectively, so that $AP=PM$ and $AQ=QN$."}
+{"key":"imo/2014/g1","slice":2,"val":" Prove that the lines $BM$ and $CN$ intersect on the circumcircle of the triangle $ABC$."}
+{"key":"imo/2014/g2","slice":0,"val":" Let $ABC$ be a triangle."}
+{"key":"imo/2014/g2","slice":1,"val":" The points $K$, $L$, and $M$ lie on the segments $BC$, $CA$, and $AB$ respectively, such that the lines $AK$, $BL$, and $CM$ intersect in a common point."}
+{"key":"imo/2014/g2","slice":2,"val":" Prove that it is possible to choose two of the triangles $ALM$, $BMK$, and $CKL$ whose inradii sum up to at least the inradius of the triangle $ABC$."}
+{"key":"imo/2014/g3","slice":0,"val":" Let $\\Omega$ and $O$ be the circumcircle and the circumcentre of an acute-angled triangle $ABC$ with $AB>BC$."}
+{"key":"imo/2014/g3","slice":1,"val":" The angle bisector of $\\angle ABC$ intersects $\\Omega$ at $M\\neq B$."}
+{"key":"imo/2014/g3","slice":2,"val":" Let $\\Gamma$ be the circle with diameter $BM$."}
+{"key":"imo/2014/g3","slice":3,"val":" The angle bisectors of $\\angle AOB$ and $\\angle BOC$ intersect $\\Gamma$ at points $P$ and $Q$, respectively."}
+{"key":"imo/2014/g3","slice":4,"val":" The point $R$ is chosen on the line $PQ$ so that $BR=MR$."}
+{"key":"imo/2014/g3","slice":5,"val":" Prove that $BR|AC$."}
+{"key":"imo/2014/g3","slice":6,"val":" (Here we always assume that an angle bisector is a ray.)"}
+{"key":"imo/2014/g4","slice":0,"val":" Consider a fixed circle $\\Gamma$ with three fixed points $A$, $B$, and $C$ on it."}
+{"key":"imo/2014/g4","slice":1,"val":" Also, let us fix a real number $\\lambda\\in(0,1)$."}
+{"key":"imo/2014/g4","slice":2,"val":" For a variable point $P\\notin\\{A,B,C\\}$ on $\\Gamma$, let $M$ be the point on the segment $CP$ such that $CM=\\lambda\\cdot CP$."}
+{"key":"imo/2014/g4","slice":3,"val":" Let $Q$ be the second point of intersection of the circumcircles of the triangles $AMP$ and $BMC$."}
+{"key":"imo/2014/g4","slice":4,"val":" Prove that as $P$ varies, the point $Q$ lies on a fixed circle."}
+{"key":"imo/2014/g5","slice":0,"val":" Let $ABCD$ be a convex quadrilateral with $\\angle B=\\angle D=90^\\circ$."}
+{"key":"imo/2014/g5","slice":1,"val":" Point $H$ is the foot of the perpendicular from $A$ to $BD$."}
+{"key":"imo/2014/g5","slice":2,"val":" The points $S$ and $T$ are chosen on the sides $AB$ and $AD$, respectively, in such a way that $H$ lies inside triangle $SCT$ and $\\angle SHC-\\angle BSC=90^\\circ$, $\\angle THC-\\angle DTC=90^\\circ$."}
+{"key":"imo/2014/g5","slice":3,"val":" Prove that the circumcircle of triangle $SHT$ is tangent to the line $BD$."}
+{"key":"imo/2014/g6","slice":0,"val":" Let $ABC$ be a fixed acute-angled triangle."}
+{"key":"imo/2014/g6","slice":1,"val":" Consider some points $E$ and $F$ lying on the sides $AC$ and $AB$, respectively, and let $M$ be the midpoint of $EF$."}
+{"key":"imo/2014/g6","slice":2,"val":" Let the perpendicular bisector of $EF$ intersect the line $BC$ at $K$, and let the perpendicular bisector of $MK$ intersect the lines $AC$ and $AB$ at $S$ and $T$, respectively."}
+{"key":"imo/2014/g6","slice":3,"val":" We call the pair $(E,F)$ \\emph{interesting} if the quadrilateral $KSAT$ is cyclic."}
+{"key":"imo/2014/g6","slice":4,"val":" Suppose that the pairs $(E_1,F_1)$ and $(E_2,F_2)$ are interesting."}
+{"key":"imo/2014/g6","slice":5,"val":" Prove that $\\frac{E_1E_2}{AB}=\\frac{F_1F_2}{AC}$."}
+{"key":"imo/2014/g7","slice":0,"val":" Let $ABC$ be a triangle with circumcircle $\\Omega$ and incentre $I$."}
+{"key":"imo/2014/g7","slice":1,"val":" Let the line passing through $I$ and perpendicular to $CI$ intersect the segment $BC$ and the arc $BC$ (not containing $A$) of $\\Omega$ at points $U$ and $V$, respectively."}
+{"key":"imo/2014/g7","slice":2,"val":" Let the line passing through $U$ and parallel to $AI$ intersect $AV$ at $X$, and let the line passing through $V$ and parallel to $AI$ intersect $AB$ at $Y$."}
+{"key":"imo/2014/g7","slice":3,"val":" Let $W$ and $Z$ be the midpoints of $AX$ and $BC$, respectively."}
+{"key":"imo/2014/g7","slice":4,"val":" Prove that if the points $I$, $X$, and $Y$ are collinear, then the points $I$, $W$, and $Z$ are also collinear."}
+{"key":"imo/2015/g1","slice":0,"val":" Let $ABC$ be an acute triangle with orthocenter $H$."}
+{"key":"imo/2015/g1","slice":1,"val":" Let $G$ be the point such that the quadrilateral $ABGH$ is a parallelogram."}
+{"key":"imo/2015/g1","slice":2,"val":" Let $I$ be the point on the line $GH$ such that $AC$ bisects $HI$."}
+{"key":"imo/2015/g1","slice":3,"val":" Suppose that the line $AC$ intersects the circumcircle of the triangle $GCI$ at $C$ and $J$."}
+{"key":"imo/2015/g1","slice":4,"val":" Prove that $IJ=AH$."}
+{"key":"imo/2015/g2","slice":0,"val":" Let $ABC$ be a triangle inscribed into a circle $\\Omega$ with center $O$."}
+{"key":"imo/2015/g2","slice":1,"val":" A circle $\\Gamma$ with center $A$ meets the side $BC$ at points $D$ and $E$ such that $D$ lies between $B$ and $E$."}
+{"key":"imo/2015/g2","slice":2,"val":" Moreover, let $F$ and $G$ be the common points of $\\Gamma$ and $\\Omega$."}
+{"key":"imo/2015/g2","slice":3,"val":" We assume that $F$ lies on the arc $AB$ of $\\Omega$ not containing $C$, and $G$ lies on the arc $AC$ of $\\Omega$ not containing $B$."}
+{"key":"imo/2015/g2","slice":4,"val":" The circumcircles of the triangles $BDF$ and $CEG$ meet the sides $AB$ and $AC$ again at $K$ and $L$, respectively."}
+{"key":"imo/2015/g2","slice":5,"val":" Suppose that the lines $FK$ and $GL$ are distinct and intersect at $X$."}
+{"key":"imo/2015/g2","slice":6,"val":" Prove that the points $A$, $X$, and $O$ are collinear."}
+{"key":"imo/2015/g3","slice":0,"val":" Let $ABC$ be a triangle with $\\angle C=90^\\circ$, and let $H$ be the foot of the altitude from $C$."}
+{"key":"imo/2015/g3","slice":1,"val":" A point $D$ is chosen inside the triangle $CBH$ so that $CH$ bisects $AD$."}
+{"key":"imo/2015/g3","slice":2,"val":" Let $P$ be the intersection point of lines $BD$ and $CH$."}
+{"key":"imo/2015/g3","slice":3,"val":" Let $\\omega$ be the semicircle with diameter $BD$ that meets the segment $CB$ at an interior point."}
+{"key":"imo/2015/g3","slice":4,"val":" A line through $P$ is tangent to $\\omega$ at $Q$."}
+{"key":"imo/2015/g3","slice":5,"val":" Prove that the lines $CQ$ and $AD$ meet on $\\omega$."}
+{"key":"imo/2015/g4","slice":0,"val":" Let $ABC$ be an acute triangle, and let $M$ be the midpoint of $AC$."}
+{"key":"imo/2015/g4","slice":1,"val":" A circle $\\omega$ passing through $B$ and $M$ meets the sides $AB$ and $BC$ again at $P$ and $Q$, respectively."}
+{"key":"imo/2015/g4","slice":2,"val":" Let $T$ be the point such that the quadrilateral $BPTQ$ is a parallelogram."}
+{"key":"imo/2015/g4","slice":3,"val":" Suppose that $T$ lies on the circumcircle of the triangle $ABC$."}
+{"key":"imo/2015/g4","slice":4,"val":" Determine all the possible values of $BT/BM$."}
+{"key":"imo/2015/g5","slice":0,"val":" Let $ABC$ be a triangle with $CA\\neq CB$."}
+{"key":"imo/2015/g5","slice":1,"val":" Let $D$, $F$, and $G$ be the midpoints of the sides $AB$, $AC$, and $BC$, respectively."}
+{"key":"imo/2015/g5","slice":2,"val":" A circle $\\Gamma$ passing through $C$ and tangent to $AB$ at $D$ meets the segments $AF$ and $BG$ at $H$ and $I$, respectively."}
+{"key":"imo/2015/g5","slice":3,"val":" The points $H'$ and $I'$ are symmetric to $H$ and $I$ about $F$ and $G$, respectively."}
+{"key":"imo/2015/g5","slice":4,"val":" The line $H'I'$ meets $CD$ and $FG$ at $Q$ and $M$, respectively."}
+{"key":"imo/2015/g5","slice":5,"val":" The line $CM$ meets $\\Gamma$ again at $P$."}
+{"key":"imo/2015/g5","slice":6,"val":" Prove that $CQ=CP$."}
+{"key":"imo/2015/g6","slice":0,"val":" Let $ABC$ be an acute triangle $AB>AC$, and let $\\Gamma$ be its circumcircle."}
+{"key":"imo/2015/g6","slice":1,"val":" Let $H$, $M$, and $F$ be the orthocenter of the triangle, the midpoint of $BC$, and the foot of the altitude from $A$, respectively."}
+{"key":"imo/2015/g6","slice":2,"val":" Let $Q$ and $K$ be the two points on $\\Gamma$ that satisfy $\\angle AQH=90^\\circ$ and $\\angle QKH=90^\\circ$."}
+{"key":"imo/2015/g6","slice":3,"val":" Prove that the circumcircles of the triangles $KQH$ and $KFM$ are tangent to each other."}
+{"key":"imo/2015/g7","slice":0,"val":" Let $ABC$ be a convex quadrilateral, and let $P$, $Q$, $R$, and $S$ be points on the sides $AB$, $BC$, $CD$, and $DA$, respectively."}
+{"key":"imo/2015/g7","slice":1,"val":" Let the line segments $PR$ and $QS$ meet at $O$."}
+{"key":"imo/2015/g7","slice":2,"val":" Suppose that each of the quadrilaterals $APOS$, $BQOP$, $CROQ$, and $DSOR$ has an incircle."}
+{"key":"imo/2015/g7","slice":3,"val":" Prove that the lines $AC$, $PQ$, and $RS$ are either concurrent or parallel to each other."}
+{"key":"imo/2015/g8","slice":0,"val":" A \\emph{triangulation} of a convex polygon $\\Pi$ is a partitioning of $\\Pi$ into triangles by diagonals having no common points other than the vertices of the polygon."}
+{"key":"imo/2015/g8","slice":1,"val":" We say that a triangulation is a \\emph{Thaiangulation} if all triangles in it have the same area."}
+{"key":"imo/2015/g8","slice":2,"val":" Prove that any two different Thaiangulations of a convex polygon $\\Pi$ differ by exactly two triangles."}
+{"key":"imo/2015/g8","slice":3,"val":" (In other words, prove that it is possible to replace one pair of triangles in the first Thaiangulation with a different pair of triangles so as to obtain the second Thaiangulation.)"}
+{"key":"imo/2016/g1","slice":0,"val":" In a convex pentagon $ABCDE$, let $F$ be a point on $AC$ such that $\\angle FBC=90^\\circ$."}
+{"key":"imo/2016/g1","slice":1,"val":" Suppose triangles $ABF$, $ACD$, and $ADE$ are similar isosceles triangles with $\\angle FAB=\\angle FBA=\\angle DAC=\\angle DCA=\\angle EAD=\\angle EDA$."}
+{"key":"imo/2016/g1","slice":2,"val":" Let $M$ be the midpoint of $CF$."}
+{"key":"imo/2016/g1","slice":3,"val":" Point $X$ is chosen such that $AMXE$ is a parallelogram."}
+{"key":"imo/2016/g1","slice":4,"val":" Show that $BD$, $EM$, and $FX$ are concurrent."}
+{"key":"imo/2016/g2","slice":0,"val":" Let $ABC$ be a triangle with circumcircle $\\Gamma$ and incentre $I$."}
+{"key":"imo/2016/g2","slice":1,"val":" Let $M$ be the midpoint of side $BC$."}
+{"key":"imo/2016/g2","slice":2,"val":" Denote by $D$ the foot of the perpendicular from $I$ to side $BC$."}
+{"key":"imo/2016/g2","slice":3,"val":" The line through $I$ perpendicular to $AI$ meets sides $AB$ and $AC$ at $F$ and $E$ respectively."}
+{"key":"imo/2016/g2","slice":4,"val":" Suppose the circumcircle of triangle $AEF$ intersects $\\Gamma$ at a point $X$ other than $A$."}
+{"key":"imo/2016/g2","slice":5,"val":" Prove that lines $XD$ and $AM$ meet on $\\Gamma$."}
+{"key":"imo/2016/g3","slice":0,"val":" Let $B=(-1,0)$ and $C=(1,0)$ be fixed points on the coordinate plane."}
+{"key":"imo/2016/g3","slice":1,"val":" A nonempty, bounded subset $S$ of the plane is said to be \\emph{nice} if (i) there is a point $T$ in $S$ such that for every point $Q$ in $S$, the segment $TQ$ lies entirely in $S$;"}
+{"key":"imo/2016/g3","slice":2,"val":" and (ii) for any triangle $P_1P_2P_3$, there exists a unique point $A$ in $S$ and a permutation $\\sigma$ of the indices $\\{1,2,3\\}$ for which triangles $ABC$ and $P_{\\sigma(1)}P_{\\sigma(2)}P_{\\sigma(3)}$ are similar."}
+{"key":"imo/2016/g3","slice":3,"val":" Prove that there exist two distinct nice subsets $S$ and $S'$ of the set $\\{(x,y):x\\geq 0,y\\geq 0\\}$ such that if $A\\in S$ and $A'\\in S'$ are the unique choices of points in (ii), then the product $BA\\cdot BA'$ is constant independent of the triangle $P_1P_2P_3$."}
+{"key":"imo/2016/g4","slice":0,"val":" Let $ABC$ be a triangle with $AB=AC\\neq BC$ and let $I$ be its incentre."}
+{"key":"imo/2016/g4","slice":1,"val":" The line $BI$ meets $AC$ at $D$, and the line through $D$ perpendicular to $AC$ meets $AI$ at $E$."}
+{"key":"imo/2016/g4","slice":2,"val":" Prove that the reflection of $I$ in $AC$ lies on the circumcircle of triangle $BDE$."}
+{"key":"imo/2016/g5","slice":0,"val":" Let $D$ be the foot of the perpendicular from $A$ to the Euler line (the line passing through the circumcentre and the orthocentre) of an acute scalene triangle $ABC$."}
+{"key":"imo/2016/g5","slice":1,"val":" A circle $\\omega$ with centre $S$ passes through $A$ and $D$, and it intersects sides $AB$ and $AC$ at $X$ and $Y$ respectively."}
+{"key":"imo/2016/g5","slice":2,"val":" Let $P$ be the foot of the altitude from $A$ to $BC$, and let $M$ be the midpoint of $BC$."}
+{"key":"imo/2016/g5","slice":3,"val":" Prove that the circumcentre of triangle $XSY$ is equidistant from $P$ and $M$."}
+{"key":"imo/2016/g6","slice":0,"val":" Let $ABCD$ be a convex quadrilateral with $\\angle ABC=\\angle ADC<90^\\circ$."}
+{"key":"imo/2016/g6","slice":1,"val":" The internal angle bisectors of $\\angle ABC$ and $\\angle ADC$ meet $AC$ at $E$ and $F$ respectively, and meet each other at point $P$."}
+{"key":"imo/2016/g6","slice":2,"val":" Let $M$ be the midpoint of $AC$ and let $\\omega$ be the circumcircle of triangle $BPD$."}
+{"key":"imo/2016/g6","slice":3,"val":" Segments $BM$ and $DM$ intersect $\\omega$ again at $X$ and $Y$ respectively."}
+{"key":"imo/2016/g6","slice":4,"val":" Denote by $Q$ the intersection points of lines $XE$ and $YF$."}
+{"key":"imo/2016/g6","slice":5,"val":" Prove that $PQ\\perp AC$."}
+{"key":"imo/2016/g7","slice":0,"val":" Let $I$ be the incentre of a non-equilateral triangle $ABC$, $I_A$ be the $A$-excentre, $I'_A$ be the reflection of $I_A$ in $BC$, and $l_A$ be the reflection of line $AI'_A$ in $AI$."}
+{"key":"imo/2016/g7","slice":1,"val":" Define points $I_B,I'_B$ and line $l_B$ analogously."}
+{"key":"imo/2016/g7","slice":2,"val":" Let $P$ be the intersection point of $l_A$ and $l_B$."}
+{"key":"imo/2016/g7","slice":3,"val":" (a) Prove that $P$ lies on line $OI$ where $O$ is the circumcentre of triangle $ABC$."}
+{"key":"imo/2016/g7","slice":4,"val":" (b) Let one of the tangents from $P$ to the incircle of triangle $ABC$ meet the circumcircle at points $X$ and $Y$."}
+{"key":"imo/2016/g7","slice":5,"val":" Show that $\\angle XIY=120^\\circ$."}
+{"key":"imo/2016/g8","slice":0,"val":" Let $A_1$, $B_1$, and $C_1$ be points on sides $BC$, $CA$, and $AB$ of an acute triangle $ABC$, respectively, such that $AA_1$, $BB_1$, and $CC_1$ are the internal angle bisectors of triangle $ABC$."}
+{"key":"imo/2016/g8","slice":1,"val":" Let $I$ be the incentre of triangle $ABC$, and $H$ be the orthocentre of triangle $A_1B_1C_1$."}
+{"key":"imo/2016/g8","slice":2,"val":" Show that $AH+BH+CH\\geq AI+BI+C$."}
+{"key":"imo/2017/g1","slice":0,"val":" Let $ABCDE$ be a convex pentagon such that $AB=BC=CD$, $\\angle EAB=\\angle BCD$, and $\\angle EDC=\\angle CBA$."}
+{"key":"imo/2017/g1","slice":1,"val":" Prove that the perpendicular line from $E$ to $BC$ and the line segments $AC$ and $BD$ are concurrent."}
+{"key":"imo/2017/g2","slice":0,"val":" Let $R$ and $S$ be distinct points on circle $\\Omega$, and let $t$ denote the tangent line to $\\Omega$ at $R$."}
+{"key":"imo/2017/g2","slice":1,"val":" Point $R'$ is the reflection of $R$ with respect to $S$."}
+{"key":"imo/2017/g2","slice":2,"val":" A point $I$ is chosen on the smaller arc $RS$ of $\\Omega$ so that the circumcircle $\\Gamma$ of triangle $ISR'$ intersects $t$ at two different points."}
+{"key":"imo/2017/g2","slice":3,"val":" Denote by $A$ the common point of $\\Gamma$ and $t$ that is closest to $R$."}
+{"key":"imo/2017/g2","slice":4,"val":" Line $AI$ meets $\\Omega$ again at $J$."}
+{"key":"imo/2017/g2","slice":5,"val":" Show that $JR'$ is tangent to $\\Gamma$."}
+{"key":"imo/2017/g3","slice":0,"val":" Let $O$ be the circumcenter of an acute scalene triangle $ABC$."}
+{"key":"imo/2017/g3","slice":1,"val":" Line $OA$ intersects the altitudes of $ABC$ through $B$ and $C$ at $P$ and $Q$, respectively."}
+{"key":"imo/2017/g3","slice":2,"val":" The altitudes meet at $H$."}
+{"key":"imo/2017/g3","slice":3,"val":" Prove that the circumcenter of triangle $PQH$ lies on a median of triangle $ABC$."}
+{"key":"imo/2017/g4","slice":0,"val":" In triangle $ABC$, let $\\omega$ be the excircle opposite $A$."}
+{"key":"imo/2017/g4","slice":1,"val":" Let $D$, $E$, and $F$ be the points where $\\omega$ is tangent to lines $BC$, $CA$, and $AB$, respectively."}
+{"key":"imo/2017/g4","slice":2,"val":" The circle $AEF$ intersects line $BC$ at $P$ and $Q$."}
+{"key":"imo/2017/g4","slice":3,"val":" Let $M$ be the midpoint of $AD$."}
+{"key":"imo/2017/g4","slice":4,"val":" Prove that the circle $MPQ$ is tangent to $\\omega$."}
+{"key":"imo/2017/g5","slice":0,"val":" Let $ABCC_1B_1A_1$ be a convex hexagon such that $AB=BC$, and suppose that the line segments $AA_1$, $BB_1$, and $CC_1$ have the same perpendicular bisector."}
+{"key":"imo/2017/g5","slice":1,"val":" Let the diagonals $AC_1$ and $A_1C$ meet at $D$, and denote by $\\omega$ the circle $ABC$."}
+{"key":"imo/2017/g5","slice":2,"val":" Let $\\omega$ intersect the circle $A_1BC_1$ again at $E\\neq B$."}
+{"key":"imo/2017/g5","slice":3,"val":" Prove that the lines $BB_1$ and $DE$ intersect on $\\omega$."}
+{"key":"imo/2017/g6","slice":0,"val":" Let $n\\geq 3$ be an integer."}
+{"key":"imo/2017/g6","slice":1,"val":" Two regular $n$-gons $\\mathcal A$ and $\\mathcal B$ are given in the plane."}
+{"key":"imo/2017/g6","slice":2,"val":" Prove that the vertices of $\\mathcal A$ that lie inside $\\mathcal B$ or on its boundary are consecutive."}
+{"key":"imo/2017/g6","slice":3,"val":" (That is, prove that there exists a line separating those vertices of $\\mathcal A$ that lie inside $\\mathcal B$ or on its boundary from the other vertices of $\\mathcal A$.)"}
+{"key":"imo/2017/g7","slice":0,"val":" A convex quadrilateral $ABCD$ has an inscribed circle with center $I$."}
+{"key":"imo/2017/g7","slice":1,"val":" Let $I_a$, $I_b$, $I_c$, and $I_d$ be the incenters of the triangles $DAB$, $ABC$, $BCD$, and $CDA$, respectively."}
+{"key":"imo/2017/g7","slice":2,"val":" Suppose that the common external tangents of the circles $AI_bI_d$ and $CI_bI_d$ meet at $X$, and the common external tangents of the circles $BI_aI_c$ and $DI_aI_c$ meet at $Y$."}
+{"key":"imo/2017/g7","slice":3,"val":" Prove that $\\angle XIY=90^\\circ$."}
+{"key":"imo/2017/g8","slice":0,"val":" There are 2017 mutually external circles drawn on a blackboard, such that no two are tangent and no three share a common tangent."}
+{"key":"imo/2017/g8","slice":1,"val":" A \\emph{tangent segment} is a line segment that is a common tangent to two circles, starting at one tangent point and ending at the other one."}
+{"key":"imo/2017/g8","slice":2,"val":" Luciano is drawing tangent segments on the blackboard, one at a time, so that no tangent segment intersects any other circles or previously drawn tangent segments."}
+{"key":"imo/2017/g8","slice":3,"val":" Luciano keeps drawing tangent segments until no more can be drawn."}
+{"key":"imo/2017/g8","slice":4,"val":" Find all possible numbers of tangent segments when he stops drawing."}
+{"key":"imo/2018/g1","slice":0,"val":" Let $ABC$ be an acute-angled triangle with circumcircle $\\Gamma$."}
+{"key":"imo/2018/g1","slice":1,"val":" Let $D$ and $E$ be points on the segments $AB$ and $AC$, respectively, such that $AD=AE$."}
+{"key":"imo/2018/g1","slice":2,"val":" The perpendicular bisectors of the segments $BD$ and $CE$ intersect the small arcs $AB$ and $AC$ at points $F$ and $G$ respectively."}
+{"key":"imo/2018/g1","slice":3,"val":" Prove that $DE|FG$."}
+{"key":"imo/2018/g2","slice":0,"val":" Let $ABC$ be a triangle with $AB=AC$, and let $M$ be the midpoint of $BC$."}
+{"key":"imo/2018/g2","slice":1,"val":" Let $P$ be a point such that $PB<PC$ and $PA$ is parallel to $BC$."}
+{"key":"imo/2018/g2","slice":2,"val":" Let $X$ and $Y$ be points on the lines $PB$ and $PC$, respectively, so that $B$ lies on the segment $PX$, $C$ lies on the segment $PY$, and $\\angle PXM=\\angle PYM$."}
+{"key":"imo/2018/g2","slice":3,"val":" Prove that the quadrilateral $APXY$ is cyclic."}
+{"key":"imo/2018/g3","slice":0,"val":" A circle $\\omega$ of radius $1$ is given."}
+{"key":"imo/2018/g3","slice":1,"val":" A collection $T$ of triangles is called \\emph{good}, if the following conditions hold: (i) each triangle from $T$ is inscribed in $\\omega$;"}
+{"key":"imo/2018/g3","slice":2,"val":" (ii) no two triangles from $T$ have a common interior point."}
+{"key":"imo/2018/g3","slice":3,"val":" Determine all positive real numbers $t$ such that, for each positive integer $n$, there exists a good collection of $n$ triangles, each of perimeter greater than $t$."}
+{"key":"imo/2018/g4","slice":0,"val":" A point $T$ is chosen inside a triangle $ABC$."}
+{"key":"imo/2018/g4","slice":1,"val":" Let $A_1$, $B_1$, and $C_1$ be the reflections of $T$ in $BC$, $CA$, and $AB$, respectively."}
+{"key":"imo/2018/g4","slice":2,"val":" Let $\\Omega$ be the circumcircle of the triangle $A_1B_1C_1$."}
+{"key":"imo/2018/g4","slice":3,"val":" The lines $A_1T$, $B_1T$, and $C_1T$ meet $\\Omega$ again at $A_2$, $B_2$, and $C_2$, respectively."}
+{"key":"imo/2018/g4","slice":4,"val":" Prove that the lines $AA_2$, $BB_2$, and $CC_2$ are concurrent on $\\Omega$."}
+{"key":"imo/2018/g5","slice":0,"val":" Let $ABC$ be a triangle with circumcircle $\\omega$ and incentre $I$."}
+{"key":"imo/2018/g5","slice":1,"val":" A line $\\ell$ intersects the lines $AI$, $BI$, and $CI$ at points $D$, $E$, and $F$, respectively, distinct from the points $A$, $B$, $C$, and $I$."}
+{"key":"imo/2018/g5","slice":2,"val":" The perpendicular bisectors $x$, $y$, and $z$ of the segments $AD$, $BE$, and $CF$, respectively determine a triangle $\\Theta$."}
+{"key":"imo/2018/g5","slice":3,"val":" Show that the circumcircle of the triangle $\\Theta$ is tangent to $\\omega$."}
+{"key":"imo/2018/g6","slice":0,"val":" A convex quadrilateral $ABCD$ satisfies $AB\\cdot CD=BC\\cdot DA$."}
+{"key":"imo/2018/g6","slice":1,"val":" A point $X$ is chosen inside the quadrilateral so that $\\angle XAB=\\angle XCD$ and $\\angle XBC=\\angle XDA$."}
+{"key":"imo/2018/g6","slice":2,"val":" Prove that $\\angle AXB+\\angle CXD=180^\\circ$."}
+{"key":"imo/2018/g7","slice":0,"val":" Let $O$ be the circumcentre, and $\\Omega$ be the circumcircle of an acute-angled triangle $ABC$."}
+{"key":"imo/2018/g7","slice":1,"val":" Let $P$ be an arbitrary point on $\\Omega$, distinct from $A$, $B$, $C$, and their antipodes in $\\Omega$."}
+{"key":"imo/2018/g7","slice":2,"val":" Denote the circumcentres of the triangles $AOP$, $BOP$, and $COP$ by $O_A$, $O_B$, and $O_C$, respectively."}
+{"key":"imo/2018/g7","slice":3,"val":" The lines $\\ell_A$, $\\ell_B$, and $\\ell_C$ perpendicular to $BC$, $CA$, and $AB$ pass through $O_A$, $O_B$, and $O_C$, respectively."}
+{"key":"imo/2018/g7","slice":4,"val":" Prove that the circumcircle of the triangle formed by $\\ell_A$, $\\ell_B$, and $\\ell_C$ is tangent to the line $OP$."}
+{"key":"imo/2019/g1","slice":0,"val":" Let $ABC$ be a triangle."}
+{"key":"imo/2019/g1","slice":1,"val":" Circle $\\Gamma$ passes through $A$, meets segments $AB$ and $AC$ again at points $D$ and $E$ respectively, and intersects segment $BC$ at $F$ and $G$ such that $F$ lies between $B$ and $G$."}
+{"key":"imo/2019/g1","slice":2,"val":" The tangent to circle $BDF$ at $F$ and the tangent to circle $CEG$ at $G$ meet at point $T$."}
+{"key":"imo/2019/g1","slice":3,"val":" Suppose that the points $A$ and $T$ are distinct."}
+{"key":"imo/2019/g1","slice":4,"val":" Prove that line $AT$ is parallel to $BC$."}
+{"key":"imo/2019/g2","slice":0,"val":" Let $ABC$ be an acute-angled triangle and let $D$, $E$, and $F$ be the feet of altitudes from $A$, $B$, and $C$ to sides $BC$, $CA$, and $AB$, respectively."}
+{"key":"imo/2019/g2","slice":1,"val":" Denote by $\\omega_B$ and $\\omega_C$ the incircles of triangles $BDF$ and $CDE$, and let these circles be tangent to segments $DF$ and $DE$ at $M$ and $N$, respectively."}
+{"key":"imo/2019/g2","slice":2,"val":" Let line $MN$ meet circles $\\omega_B$ and $\\omega_C$ again at $P\\neq M$ and $Q\\neq N$, respectively."}
+{"key":"imo/2019/g2","slice":3,"val":" Prove that $MP=NQ$."}
+{"key":"imo/2019/g3","slice":0,"val":" In triangle $ABC$, let $A_1$ and $B_1$ be two points on sides $BC$ and $AC$, and let $P$ and $Q$ be two points on segments $AA_1$ and $BB_1$, respectively, so that line $PQ$ is parallel to $AB$."}
+{"key":"imo/2019/g3","slice":1,"val":" On ray $PB_1$, beyond $B_1$, let $P_1$ be a point so that $\\angle PP_1C=\\angle BAC$."}
+{"key":"imo/2019/g3","slice":2,"val":" Similarly, on ray $QA_1$, beyond $A_1$, let $Q_1$ be a point so that $\\angle CQ_1Q=\\angle CBA$."}
+{"key":"imo/2019/g3","slice":3,"val":" Show that the points $P$, $Q$, $P_1$, an $Q_1$ are concyclic."}
+{"key":"imo/2019/g4","slice":0,"val":" Let $P$ be a point inside triangle $ABC$."}
+{"key":"imo/2019/g4","slice":1,"val":" Let $AP$ meet $BC$ at $A_1$, let $BP$ meet $CA$ at $B_1$, and let $CP$ meet $AB$ at $C_1$."}
+{"key":"imo/2019/g4","slice":2,"val":" Let $A_2$ be the point such that $A_1$ is the midpoint of $PA_2$, let $B_2$ be the point such that $B_1$ is the midpoint of $PB_2$, and let $C_2$ be the point such that $C_1$ is the midpoint of $PC_2$."}
+{"key":"imo/2019/g4","slice":3,"val":" Prove that the points $A_2$, $B_2$, and $C_2$ cannot all lie strictly inside the circumcircle of triangle $ABC$."}
+{"key":"imo/2019/g5","slice":0,"val":" Let $ABCDE$ be a convex pentagon with $CD=DE$ and $\\angle EDC\\neq 2\\cdot\\angle ADB$."}
+{"key":"imo/2019/g5","slice":1,"val":" Suppose that a point $P$ is located in the interior of the pentagon such that $AP=AE$ and $BP=BC$."}
+{"key":"imo/2019/g5","slice":2,"val":" Prove that $P$ lies on the diagonal $CE$ if and only if $\\text{area}(BCD)+\\text{area}(ADE)=\\text{area}(ABD)+\\text{area}(ABP)$."}
+{"key":"imo/2019/g6","slice":0,"val":" Let $I$ be the incentre of acute-angled triangle $ABC$."}
+{"key":"imo/2019/g6","slice":1,"val":" Let the incircle meet $BC$, $CA$, and $AB$ at $D$, $E$, and $F$, respectively."}
+{"key":"imo/2019/g6","slice":2,"val":" Let line $EF$ intersect the circumcircle of the triangle at $P$ and $Q$, such that $F$ lies between $E$ and $P$."}
+{"key":"imo/2019/g6","slice":3,"val":" Prove that $\\angle DPA+\\angle AQD=\\angle QIP$."}
+{"key":"imo/2019/g7","slice":0,"val":" The incircle $\\omega$ of acute-angled scalene triangle $ABC$ has centre $I$ and meets sides $BC$, $CA$, and $AB$ at $D$, $E$, and $F$, respectively."}
+{"key":"imo/2019/g7","slice":1,"val":" The line through $D$ perpendicular to $EF$ meets $\\omega$ again at $R$."}
+{"key":"imo/2019/g7","slice":2,"val":" Line $AR$ meets $\\omega$ again at $P$."}
+{"key":"imo/2019/g7","slice":3,"val":" The circumcircles of triangles $PCE$ and $PBF$ meet again at $Q\\neq P$."}
+{"key":"imo/2019/g7","slice":4,"val":" Prove that lines $DI$ and $PQ$ meet on the external bisector of angle $BAC$."}
+{"key":"imo/2019/g8","slice":0,"val":" Let $\\mathcal L$ be the set of all lines in the plane and let $f$ be a function that assigns to each line $\\ell\\in\\mathcal L$ a point $f(\\ell)$ on $\\ell$."}
+{"key":"imo/2019/g8","slice":1,"val":" Suppose that for any point $X$, and for any three lines $\\ell_1$, $\\ell_2$, $\\ell_3$ passing through $X$, the points $f(\\ell_1)$, $f(\\ell_2)$, $f(\\ell_3)$ and $X$ lie on a circle."}
+{"key":"imo/2019/g8","slice":2,"val":" Prove that there is a unique point $P$ such that $f(\\ell)=P$ for any line $\\ell$ passing through $P$."}
+{"key":"imo/2020/g1","slice":0,"val":" Let $ABC$ be an isosceles triangle with $BC=CA$, and let $D$ be a point inside side $AB$ such that $AD<DB$."}
+{"key":"imo/2020/g1","slice":1,"val":" Let $P$ and $Q$ be two points inside sides $BC$ and $CA$, respectively, such that $\\angle DPB=\\angle DQA=90^\\circ$."}
+{"key":"imo/2020/g1","slice":2,"val":" Let the perpendicular bisector of $PQ$ meet line segment $CQ$ at $E$, and let the circumcircles of triangles $ABC$ and $CPQ$ meet again at point $F$, different from $C$."}
+{"key":"imo/2020/g1","slice":3,"val":" Suppose that $P,E,F$ are collinear."}
+{"key":"imo/2020/g1","slice":4,"val":" Prove that $\\angle ACB=90^\\circ$."}
+{"key":"imo/2020/g2","slice":0,"val":" Let $ABCD$ be a convex quadrilateral."}
+{"key":"imo/2020/g2","slice":1,"val":" Suppose that $P$ is a point in the interior of $ABCD$ such that $\\angle PAD:\\angle PBA:\\angle DPA=1:2:3=\\angle CBP:\\angle BAP:\\angle BPC$."}
+{"key":"imo/2020/g2","slice":2,"val":" The internal bisectors of angles $ADP$ and $PCB$ meet at a point $Q$ inside the triangle $ABP$."}
+{"key":"imo/2020/g2","slice":3,"val":" Prove that $AQ=BQ$."}
+{"key":"imo/2020/g3","slice":0,"val":" Let $ABCD$ be a convex quadrilateral with $\\angle ABC>90^\\circ$, $\\angle CDA>90^\\circ$, and $\\angle DBA=\\angle BCD$."}
+{"key":"imo/2020/g3","slice":1,"val":" Denote by $E$ and $F$ the reflections of $A$ in lines $BC$ and $CD$, respectively."}
+{"key":"imo/2020/g3","slice":2,"val":" Suppose that the segments $AE$ and $AF$ meet the line $BD$ at $K$ and $L$, respectively."}
+{"key":"imo/2020/g3","slice":3,"val":" Prove that the circumcircles of triangles $BEK$ and $DFL$ are tangent to each other."}
+{"key":"imo/2020/g4","slice":0,"val":" In the plane, there are $n\\ge 6$ pairwise disjoint disks $D_1,D_2,\\ldots,D_n$ with radii $R_1\\ge R_2\\ge\\ldots\\ge R_n$."}
+{"key":"imo/2020/g4","slice":1,"val":" For every $i=1,2,\\ldots,n$, a point $P_i$ is chosen in disk $D_i$."}
+{"key":"imo/2020/g4","slice":2,"val":" Let $O$ be an arbitrary point in the plane."}
+{"key":"imo/2020/g4","slice":3,"val":" Prove that $OP_1+OP_2+\\ldots+OP_n\\ge R_6+R_7+\\ldots+R_n$."}
+{"key":"imo/2020/g4","slice":4,"val":" (A disk is assumed to contain its boundary.)"}
+{"key":"imo/2020/g5","slice":0,"val":" Let $ABCD$ be a cyclic quadrilateral with no two sides parallel."}
+{"key":"imo/2020/g5","slice":1,"val":" Let $K$, $L$, $M$, and $N$ be points lying on sides $AB$, $BC$, $CD$, and $DA$, respectively, such that $KLMN$ is a rhombus with $KL|AC$ and $LM|BD$."}
+{"key":"imo/2020/g5","slice":2,"val":" Let $\\omega_1$, $\\omega_2$, $\\omega_3$, and $\\omega_4$ be the incircles of triangles $ANK$, $BKL$, $CLM$, and $DMN$, respectively."}
+{"key":"imo/2020/g5","slice":3,"val":" Prove that the internal common tangents to $\\omega_1$ and $\\omega_3$ and the internal common tangents to $\\omega_2$ and $\\omega_4$ are concurrent."}
+{"key":"imo/2020/g6","slice":0,"val":" Let $I$ and $I_A$ be the incenter and the $A$-excenter of an acute-angled triangle $ABC$ with $AB<AC$."}
+{"key":"imo/2020/g6","slice":1,"val":" Let the incircle meet $BC$ at $D$."}
+{"key":"imo/2020/g6","slice":2,"val":" The line $AD$ meets $BI_A$ and $CI_A$ at $E$ and $F$, respectively."}
+{"key":"imo/2020/g6","slice":3,"val":" Prove that the circumcircles of triangles $AID$ and $I_AEF$ are tangent to each other."}
+{"key":"imo/2020/g7","slice":0,"val":" Let $P$ be a point on the circumcircle of an acute-angled triangle $ABC$."}
+{"key":"imo/2020/g7","slice":1,"val":" Let $D$, $E$, and $F$ be the reflections of $P$ in the midlines of triangle $ABC$ parallel to $BC$, $CA$, and $AB$, respectively."}
+{"key":"imo/2020/g7","slice":2,"val":" Denote by $\\omega_A$, $\\omega_B$, and $\\omega_C$ the circumcircles of triangles $ADP$, $BEP$, and $CFP$, respectively."}
+{"key":"imo/2020/g7","slice":3,"val":" Denote by $\\omega$ the circumcircle of the triangle formed by the perpendicular bisectors of segments $AD$, $BE$, and $CF$."}
+{"key":"imo/2020/g7","slice":4,"val":" Show that $\\omega_A$, $\\omega_B$, $\\omega_C$, and $\\omega$ have a common point."}
+{"key":"imo/2020/g8","slice":0,"val":" Let $\\Gamma$ and $I$ be the circumcircle and the incenter of an acute-angled triangle $ABC$."}
+{"key":"imo/2020/g8","slice":1,"val":" Two circles $\\omega_B$ and $\\omega_C$ passing through $B$ and $C$, respectively, are tangent at $I$."}
+{"key":"imo/2020/g8","slice":2,"val":" Let $\\omega_B$ meet the shorter arc $AB$ of $\\Gamma$ and segment $AB$ again at $P$ and $M$, respectively."}
+{"key":"imo/2020/g8","slice":3,"val":" Similarly, let $\\omega_C$ meet the shorter arc $AC$ of $\\Gamma$ and segment $AC$ again at $Q$ and $N$, respectively."}
+{"key":"imo/2020/g8","slice":4,"val":" The rays $PM$ and $QN$ meet at $X$, and the tangents to $\\omega_B$ and $\\omega_C$ at $B$ and $C$, respectively, meet at $Y$."}
+{"key":"imo/2020/g8","slice":5,"val":" Prove that the points $A$, $X$, and $Y$ are collinear."}
+{"key":"imo/2020/g9","slice":0,"val":" Prove that there exists a positive constant $c$ such that the following statement is true: Assume that $n$ is an integer with $n\\ge 2$, and let $\\mathcal S$ be a set of $n$ points in the plane such that the distance between any two distinct points in $\\mathcal S$ is at least $1$."}
+{"key":"imo/2020/g9","slice":1,"val":" Then there is a line $\\ell$ separating $\\mathcal S$ such that the distance from any point of $\\mathcal S$ to $\\ell$ is at least $cn^{-1/3}$."}
+{"key":"imo/2020/g9","slice":2,"val":" (A line $\\ell$ \\emph{separates} a point set $\\mathcal S$ if some segment joining two points in $\\mathcal S$ crosses $\\ell$.)"}
+{"key":"imo/2021/g1","slice":0,"val":" Let $ABCD$ be a parallelogram such that $AC=BC$."}
+{"key":"imo/2021/g1","slice":1,"val":" A point $P$ is chosen on the extension of the segment $AB$ beyond $B$."}
+{"key":"imo/2021/g1","slice":2,"val":" The circumcircle of the triangle $ACD$ meets the segment $PD$ again at $Q$, and the circumcircle of the triangle $APQ$ meets the segment $PC$ again at $R$."}
+{"key":"imo/2021/g1","slice":3,"val":" Prove that the lines $CD$, $AQ$, and $BR$ are concurrent."}
+{"key":"imo/2021/g2","slice":0,"val":" Let $ABCD$ be a convex quadrilateral circumscribed around a circle with centre $I$."}
+{"key":"imo/2021/g2","slice":1,"val":" Let $\\omega$ be the circumcircle of the triangle $ACI$."}
+{"key":"imo/2021/g2","slice":2,"val":" The extensions of $BA$ and $BC$ beyond $A$ and $C$ meet $\\omega$ at $X$ and $Z$, respectively."}
+{"key":"imo/2021/g2","slice":3,"val":" The extensions of $AD$ and $CD$ beyond $D$ meet $\\omega$ at $Y$ and $T$, respectively."}
+{"key":"imo/2021/g2","slice":4,"val":" Prove that the perimeters of the (possibly self-intersecting) quadrilaterals $ADTX$ and $CDYZ$ are equal."}
+{"key":"imo/2021/g3v1","slice":0,"val":" Let $n$ be a fixed positive integer, and let $\\mathcal S$ be the set of points $(x,y)$ on the Cartesian plane such that both coordinates $x$ and $y$ are nonnegative integers smaller than $2n$ (thus $|\\mathcal S|=4n^2$)."}
+{"key":"imo/2021/g3v1","slice":1,"val":" Assume that $\\mathcal F$ is a set consisting of $n^2$ quadrilaterals such that all their vertices lie in $\\mathcal S$, and each point in $\\mathcal S$ is a vertex of exactly one of the quadrilaterals in $\\mathcal F$."}
+{"key":"imo/2021/g3v1","slice":2,"val":" Determine the largest possible sum of areas of all $n^2$ quadrilaterals in $\\mathcal F$."}
+{"key":"imo/2021/g3v2","slice":0,"val":" Let $n$ be a fixed positive integer, and let $\\mathcal S$ be the set of points $(x,y)$ on the Cartesian plane such that both coordinates $x$ and $y$ are nonnegative integers smaller than $2n$ (thus $|\\mathcal S|=4n^2$)."}
+{"key":"imo/2021/g3v2","slice":1,"val":" Assume that $\\mathcal F$ is a set of polygons such that all vertices of polygons in $\\mathcal F$ lie in $\\mathcal S$, and each point in $\\mathcal S$ is a vertex of exactly one of the polygons in $\\mathcal F$."}
+{"key":"imo/2021/g3v2","slice":2,"val":" Determine the largest possible sum of areas of all polygons in $\\mathcal F$."}
+{"key":"imo/2021/g4","slice":0,"val":" Let $ABCD$ be a quadrilateral inscribed in a circle $\\Omega$."}
+{"key":"imo/2021/g4","slice":1,"val":" Let the tangent to $\\Omega$ at $D$ intersect the rays $BA$ and $BC$ at points $E$ and $F$, respectively."}
+{"key":"imo/2021/g4","slice":2,"val":" A point $T$ is chosen inside the triangle $ABC$ so that $TE|CD$ and $TF|AD$."}
+{"key":"imo/2021/g4","slice":3,"val":" Let $K\\neq D$ be a point on the segment $DF$ such that $TD=TK$."}
+{"key":"imo/2021/g4","slice":4,"val":" Prove that the lines $AC$, $DT$, and $BK$ intersect at one point."}
+{"key":"imo/2021/g5","slice":0,"val":" Let $ABCD$ be a cyclic quadrilateral whose sides have pairwise different lengths."}
+{"key":"imo/2021/g5","slice":1,"val":" Let $O$ be the circumcentre of $ABCD$."}
+{"key":"imo/2021/g5","slice":2,"val":" The internal angle bisectors of $\\angle ABC$ and $\\angle ADC$ meet $AC$ at $B_1$ and $D_1$, respectively."}
+{"key":"imo/2021/g5","slice":3,"val":" Let $O_B$ be the centre of the circle which passes through $B$ and is tangent to $AC$ at $D_1$."}
+{"key":"imo/2021/g5","slice":4,"val":" Similarly, let $O_D$ be the centre of the circle which passes through $D$ and is tangent to $AC$ at $B_1$."}
+{"key":"imo/2021/g5","slice":5,"val":" Assume that $BD_1|DB_1$."}
+{"key":"imo/2021/g5","slice":6,"val":" Prove that $O$ lies on the line $O_BO_D$."}
+{"key":"imo/2021/g6","slice":0,"val":" Determine all integers $n\\ge 3$ satisfying the following property: every convex $n$-gon whose sides all have length $1$ contains an equilateral triangle of side length $1$."}
+{"key":"imo/2021/g6","slice":1,"val":" (Every polygon is assumed to contain its boundary.)"}
+{"key":"imo/2021/g7","slice":0,"val":" A point $D$ is chosen inside an acute-angled triangle $ABC$ with $AB>AC$ so that $\\angle BAD=\\angle DAC$."}
+{"key":"imo/2021/g7","slice":1,"val":" A point $E$ is constructed on the segment $AC$ so that $\\angle ADE=\\angle DCB$."}
+{"key":"imo/2021/g7","slice":2,"val":" Similarly, a point $F$ is constructed on the segment $AB$ so that $\\angle ADF=\\angle DBC$."}
+{"key":"imo/2021/g7","slice":3,"val":" A point $X$ is chosen on the line $AC$ so that $CX=BX$."}
+{"key":"imo/2021/g7","slice":4,"val":" Let $O_1$ and $O_2$ be the circumcentres of the triangles $ADC$ and $DXE$."}
+{"key":"imo/2021/g7","slice":5,"val":" Prove that the lines $BC$, $EF$, and $O_1O_2$ are concurrent."}
+{"key":"imo/2021/g8","slice":0,"val":" Let $\\omega$ be the circumcircle of a triangle $ABC$, and let $\\Omega_A$ be its excircle which is tangent to the segment $BC$."}
+{"key":"imo/2021/g8","slice":1,"val":" Let $X$ and $Y$ be the intersection points of $\\omega$ and $\\Omega_A$."}
+{"key":"imo/2021/g8","slice":2,"val":" Let $P$ and $Q$ be the projections of $A$ onto the tangent lines to $\\Omega_A$ at $X$ and $Y$, respectively."}
+{"key":"imo/2021/g8","slice":3,"val":" The tangent line at $P$ to the circumcircle of the triangle $APX$ intersects the tangent line at $Q$ to the circumcircle of the triangle $AQY$ at a point $R$."}
+{"key":"imo/2021/g8","slice":4,"val":" Prove that $AR\\perp BC$."}
+{"key":"imo/2022/g1","slice":0,"val":" Let $ABCDE$ be a convex pentagon such that $BC=DE$."}
+{"key":"imo/2022/g1","slice":1,"val":" Assume there is a point $T$ inside $ABCDE$ with $TB=TD$, $TC=TE$, and $\\angle TBA=\\angle AET$."}
+{"key":"imo/2022/g1","slice":2,"val":" Let lines $CD$ and $CT$ intersect line $AB$ at points $P$ and $Q$, respectively, and let lines $CD$ and $DT$ intersect line $AE$ at points $R$ and $S$, respectively."}
+{"key":"imo/2022/g1","slice":3,"val":" Assume that points $P,B,A,Q$ and $R,E,A,S$ respectively, are collinear and occur on their lines in this order."}
+{"key":"imo/2022/g1","slice":4,"val":" Prove that the points $P,S,Q,R$ are concyclic."}
+{"key":"imo/2022/g2","slice":0,"val":" In the acute-angled triangle $ABC$, the point $F$ is the foot of the altitude from $A$, and $P$ is a point on the segment $AF$."}
+{"key":"imo/2022/g2","slice":1,"val":" The lines through $P$ parallel to $AC$ and $AB$ meet $BC$ at $D$ and $E$, respectively."}
+{"key":"imo/2022/g2","slice":2,"val":" Points $X\\neq A$ and $Y\\neq A$ lie on the circles $ABD$ and $ACE$, respectively, such that $DA=DX$ and $EA=EY$."}
+{"key":"imo/2022/g2","slice":3,"val":" Prove that $B$, $C$, $X$ and $Y$ are concyclic."}
+{"key":"imo/2022/g3","slice":0,"val":" Let $ABCD$ be a cyclic quadrilateral."}
+{"key":"imo/2022/g3","slice":1,"val":" Assume that the points $Q$, $A$, $B$, $P$ are collinear in this order, in such a way that the line $AC$ is tangent to the circle $ADQ$, and the line $BD$ is tangent to the circle $BCP$."}
+{"key":"imo/2022/g3","slice":2,"val":" Let $M$ and $N$ be the midpoints of $BC$ and $AD$, respectively."}
+{"key":"imo/2022/g3","slice":3,"val":" Prove that the following three lines are concurrent: line $CD$, the tangent of circle $ANQ$ at point $A$, and the tangent to circle $BMP$ at point $B$."}
+{"key":"imo/2022/g4","slice":0,"val":" Let $ABC$ be an acute-angled triangle with $AC>AB$, let $O$ be its circumcentre, and let $D$ be a point on the segment $BC$."}
+{"key":"imo/2022/g4","slice":1,"val":" The line through $D$ perpendicular to $BC$ intersects the lines $AO$, $AC$ and $AB$ at $W$, $X$ and $Y$, respectively."}
+{"key":"imo/2022/g4","slice":2,"val":" The circumcircles of triangles $AXY$ and $ABC$ intersect again at $Z\\neq A$."}
+{"key":"imo/2022/g4","slice":3,"val":" Prove that if $OW=OD$, then $DZ$ is tangent to the circle $AXY$."}
+{"key":"imo/2022/g5","slice":0,"val":" Let $ABC$ be a triangle, and let $\\ell_1$ and $\\ell_2$ be two parallel lines."}
+{"key":"imo/2022/g5","slice":1,"val":" For $i=1,2$, let $\\ell_1$ meet the lines $BC$, $CA$, and $AB$ at $X_i$, $Y_i$, and $Z_i$, respectively."}
+{"key":"imo/2022/g5","slice":2,"val":" Suppose that the line through $X_i$ perpendicular to $BC$, the line through $Y_i$ perpendicular to $CA$, and finally the line through $Z_i$ perpendicular to $AB$, determine a non-degenerate triangle $\\Delta_i$."}
+{"key":"imo/2022/g5","slice":3,"val":" Show that the circumcircles of $\\Delta_1$ and $\\Delta_2$ are tangent to each other."}
+{"key":"imo/2022/g6","slice":0,"val":" In an acute-angled triangle $ABC$, point $H$ is the foot of the altitude from $A$."}
+{"key":"imo/2022/g6","slice":1,"val":" Let $P$ be a moving point such that the bisectors $k$ and $\\ell$ of angles $PBC$ and $PCB$, respectively, intersect each other on the line segment $AH$."}
+{"key":"imo/2022/g6","slice":2,"val":" Let $k$ and $AC$ meet at $E$, let $\\ell$ and $AB$ meet at $F$, and let $EF$ and $AH$ meet at $Q$."}
+{"key":"imo/2022/g6","slice":3,"val":" Prove that, as $P$ varies, the line $PQ$ passes through a fixed point."}
+{"key":"imo/2022/g7","slice":0,"val":" Let $ABC$ and $A'B'C'$ be two triangles having the same circumcircle $\\omega$, and the same orthocentre $H$."}
+{"key":"imo/2022/g7","slice":1,"val":" Let $\\Omega$ be the circumcircle of the triangle determined by the lines $AA'$, $BB'$ and $CC'$."}
+{"key":"imo/2022/g7","slice":2,"val":" Prove that $H$, the centre of $\\omega$, and the centre of $\\Omega$ are collinear."}
+{"key":"imo/2022/g8","slice":0,"val":" Let $AA'BCC'B'$ be a convex cyclic hexagon such that $AC$ is tangent to the incircle of the triangle $A'B'C'$, and $A'C'$ is tangent to the incircle of the triangle $ABC$."}
+{"key":"imo/2022/g8","slice":1,"val":" Let the lines $AB$ and $A'B'$ meet at $X$ and let the lines $BC$ and $B'C'$ meet at $Y$."}
+{"key":"imo/2022/g8","slice":2,"val":" Prove that if $XBYB'$ is a convex quadrilateral, then it has an incircle."}
