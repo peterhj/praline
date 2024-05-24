@@ -47,6 +47,7 @@ fn main() {
   let mut err_f = OpenOptions::new().create(true).write(true).truncate(true).open("tmp.err").unwrap();
   let mut geom = Geometry::default();
   let mut ok_list = Vec::new();
+  let mut ok_bt_list = Vec::new();
   let mut ok_ct = 0;
   let mut err_ct = 0;
   let mut ok_bt_sum = 0;
@@ -76,10 +77,12 @@ fn main() {
         let t1 = get_time();
         let dt = (t1 - t0).to_std().unwrap();
         let dt = dt.as_secs() as f64 + 1.0e-9 * dt.subsec_nanos() as f64;
+        let btct = geom._backtrace_count();
         ok_list.push(i);
+        ok_bt_list.push(btct);
         ok_ct += 1;
-        ok_bt_sum += geom._backtrace_count();
-        ok_bt_max = max(ok_bt_max, geom._backtrace_count());
+        ok_bt_sum += btct;
+        ok_bt_max = max(ok_bt_max, btct);
         ok_dt_sum += dt;
         dt_sum += dt;
         match key_comp.get_mut(key) {
@@ -181,6 +184,7 @@ fn main() {
     writeln!(&mut err_f, "{}", encode_to_string(&item).unwrap()).unwrap();
   }
   println!("INFO:   oklist={:?}", ok_list);
+  println!("INFO:   okbtct={:?}", ok_bt_list);
   println!("INFO:   ok  ct={}", ok_ct);
   println!("INFO:   err ct={}", err_ct);
   println!("INFO:   err zl={}", err_zlen_ct);
