@@ -1834,7 +1834,7 @@ impl Geometry {
           buf.push_str(": ");
           buf.push_str(&larg_s);*/
           buf.push_str(&larg_s);
-          buf.push_str(" -> ");
+          buf.push_str("() -> ");
           buf.push_str(&rarg_s);
         }
         &Node_::Apply(ref _apply_s, ref larg, ref rarg, ref _ctl_args) => {
@@ -1997,7 +1997,7 @@ impl Geometry {
               buf.push_str(": ");
               buf.push_str(&rarg_s);*/
               buf.push_str(&rarg_s);
-              buf.push_str(" -> ");
+              buf.push_str("() -> ");
               buf.push_str(&larg_s);
             }
             // FIXME FIXME: missing cases.
@@ -2030,7 +2030,7 @@ impl Geometry {
               let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
               let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
               buf.push_str(&larg_s);
-              buf.push_str(" -> ");
+              buf.push_str("() -> ");
               buf.push_str(&rarg_s);
               }
             }
@@ -2054,16 +2054,27 @@ impl Geometry {
               buf.push_str(" -> ");
               buf.push_str(&larg_s);
             }
-            (&Node_::Mult(ref l_rev_args), &Node_::Mult(..)) => {
+            (&Node_::Mult(ref l_rev_args), &Node_::Mult(ref r_rev_args)) => {
               if let Some(&(_, ref llarg)) = l_rev_args.iter().next() {
                 //if let Some(&(_, ref rrarg)) = r_rev_args.iter().next() {
                   match &**llarg {
                     &Node_::Name(..) => {
-                      let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
-                      let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
-                      buf.push_str(&rarg_s);
+                      for (k, &(_, ref rarg)) in r_rev_args.iter().rev().enumerate() {
+                        let rarg_s = self._node_render_praline(cfg, rarg)?;
+                        if k > 0 {
+                          buf.push_str(",");
+                        }
+                        buf.push_str(&rarg_s);
+                        buf.push_str("()");
+                      }
                       buf.push_str(" -> ");
-                      buf.push_str(&larg_s);
+                      for (k, &(_, ref larg)) in l_rev_args.iter().rev().enumerate() {
+                        let larg_s = self._node_render_praline(cfg, larg)?;
+                        if k > 0 {
+                          buf.push_str(",");
+                        }
+                        buf.push_str(&larg_s);
+                      }
                     }
                     _ => {
                       println!("DEBUG:  Geometry::_node_render_praline: Unify unimpl: non-Name Mult Mult");
