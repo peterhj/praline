@@ -1571,6 +1571,7 @@ pub enum NodeKind {
   Apply,
   Subst,
   Mult,
+  //FHead,
   PHead,
   Prefix,
   Pred,
@@ -1597,6 +1598,7 @@ pub enum Node_ {
   //Mult(Vec<(Option<AttrStr>, NodeRef)>),
   Mult(Vec<(Option<NodeRef>, NodeRef)>),
   //Quant(AttrStr),
+  //FHead(...),
   PHead(AttrStr, /*Vec<(NodeRef, NodeRef)>*/),
   //PApply(..),
   Prefix(Vec<NodeRef>, Option<NodeRef>),
@@ -1807,7 +1809,11 @@ impl Geometry {
     Ok(())
   }
 
-  pub fn _node_render_praline(&self, cfg: RenderConfig, node: &Node_, /*s: &mut String*/) -> Result<SmolStr, ()> {
+  pub fn _node_render_praline(&self, cfg: RenderConfig, node: &Node_) -> Result<SmolStr, ()> {
+    self._node_render_praline_(cfg, node, false)
+  }
+
+  pub fn _node_render_praline_(&self, cfg: RenderConfig, node: &Node_, hint_term: bool) -> Result<SmolStr, ()> {
     let mut buf = String::new();
     'outer: loop {
       match node {
@@ -1826,21 +1832,24 @@ impl Geometry {
           if cfg.attr {
           buf.push_str(&head_s.to_praline_attr());
           }
+          if hint_term {
+            buf.push_str("()");
+          }
         }
         &Node_::Pair(ref larg, ref rarg) => {
-          let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
+          let larg_s = self._node_render_praline_(cfg, &**larg.as_ref().ok_or(())?, true)?;
           let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
           /*buf.push_str(&rarg_s);
           buf.push_str(": ");
           buf.push_str(&larg_s);*/
           buf.push_str(&larg_s);
-          buf.push_str("() -> ");
+          buf.push_str(" -> ");
           buf.push_str(&rarg_s);
         }
         &Node_::Apply(ref _apply_s, ref larg, ref rarg, ref _ctl_args) => {
           // TODO TODO
           let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
-          let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
+          let rarg_s = self._node_render_praline_(cfg, &**rarg.as_ref().ok_or(())?, true)?;
           // FIXME: examples of lmult case?
           let lmult = match &**larg.as_ref().ok_or(())? {
             &Node_::Mult(..) => true,
@@ -1859,12 +1868,25 @@ impl Geometry {
         }
         &Node_::Subst(ref _subst_s, ref larg, ref rarg, /*ref ctl_args*/) => {
           // TODO TODO
-          let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
-          let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
+          let larg_s = self._node_render_praline_(cfg, &**larg.as_ref().ok_or(())?, true)?;
           buf.push_str(&larg_s);
           /*buf.push_str(" (where ");*/
           buf.push_str(" (with ");
-          buf.push_str(&rarg_s);
+          match &**rarg.as_ref().ok_or(())? {
+            &Node_::Mult(ref r_rev_args) => {
+              for (k, &(_, ref rarg)) in r_rev_args.iter().rev().enumerate() {
+                if k > 0 {
+                  buf.push_str(" , ");
+                }
+                let rarg_s = self._node_render_praline(cfg, &**rarg)?;
+                buf.push_str(&rarg_s);
+              }
+            }
+            _ => {
+              let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
+              buf.push_str(&rarg_s);
+            }
+          }
           buf.push_str(" )");
         }
         &Node_::Mult(ref rev_args) => {
@@ -1872,7 +1894,7 @@ impl Geometry {
             if k > 0 {
               buf.push_str(",");
             }
-            let arg_s = self._node_render_praline(cfg, &**arg)?;
+            let arg_s = self._node_render_praline_(cfg, &**arg, hint_term)?;
             buf.push_str(&arg_s);
           }
         }
@@ -1886,14 +1908,14 @@ impl Geometry {
         }
         &Node_::Prefix(ref largs, ref rarg) => {
           //println!("DEBUG:  Geometry::_node_render_praline: Prefix unimpl: {:?}", node);
-          let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
-          buf.push_str(&rarg_s);
           // TODO TODO
           let mut its = false;
           if largs.len() == 1 {
             match &*largs[0] {
               &Node_::PHead(ref phead_s) => {
                 if phead_s.as_raw_str() == "its" {
+                  let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
+                  buf.push_str(&rarg_s);
                   its = true;
                   buf.push_str("(_\"");
                   buf.push_str(&phead_s.to_praline_str());
@@ -1908,6 +1930,8 @@ impl Geometry {
             }
           }
           if !its {
+          let rarg_s = self._node_render_praline_(cfg, &**rarg.as_ref().ok_or(())?, true)?;
+          buf.push_str(&rarg_s);
           if largs.len() > 0 {
             buf.push_str(" (with ");
           }
@@ -1922,6 +1946,9 @@ impl Geometry {
             buf.push_str(" )");
           }
           }
+          /*if hint_term {
+            buf.push_str("()");
+          }*/
         }
         &Node_::Pred(ref pred_s, ref larg, ref rarg, ref ctl_args) => {
           /*if pred_s.as_raw_str() == "distinct" {
@@ -1929,7 +1956,7 @@ impl Geometry {
             break 'outer;
           }*/
           // FIXME: vectorization.
-          let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
+          let larg_s = self._node_render_praline_(cfg, &**larg.as_ref().ok_or(())?, true)?;
           buf.push_str("\"");
           buf.push_str(&pred_s.to_praline_str());
           buf.push_str("\"");
@@ -1940,7 +1967,7 @@ impl Geometry {
           buf.push_str(&larg_s);
           if let Some(rarg) = rarg.as_ref() {
             buf.push_str(", ");
-            let rarg_s = self._node_render_praline(cfg, &**rarg)?;
+            let rarg_s = self._node_render_praline_(cfg, &**rarg, true)?;
             buf.push_str(&rarg_s);
           }
           // FIXME: semantics of (pred, ctl) cases.
@@ -1992,12 +2019,12 @@ impl Geometry {
             (&Node_::Mult(..), &Node_::Subst(..)) |
             (&Node_::Mult(..), &Node_::Prefix(..)) => {
               let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
-              let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
+              let rarg_s = self._node_render_praline_(cfg, &**rarg.as_ref().ok_or(())?, true)?;
               /*buf.push_str(&larg_s);
               buf.push_str(": ");
               buf.push_str(&rarg_s);*/
               buf.push_str(&rarg_s);
-              buf.push_str("() -> ");
+              buf.push_str(" -> ");
               buf.push_str(&larg_s);
             }
             // FIXME FIXME: missing cases.
@@ -2027,17 +2054,17 @@ impl Geometry {
                 }
               }
               if !its {
-              let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
+              let larg_s = self._node_render_praline_(cfg, &**larg.as_ref().ok_or(())?, true)?;
               let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
               buf.push_str(&larg_s);
-              buf.push_str("() -> ");
+              buf.push_str(" -> ");
               buf.push_str(&rarg_s);
               }
             }
             (&Node_::Name(..), &Node_::PHead(..)) |
             (&Node_::Pair(..), &Node_::PHead(..)) |
             (&Node_::Mult(..), &Node_::PHead(..)) => {
-              let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
+              let larg_s = self._node_render_praline_(cfg, &**larg.as_ref().ok_or(())?, true)?;
               let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
               buf.push_str(&rarg_s);
               buf.push_str("(");
@@ -2049,32 +2076,21 @@ impl Geometry {
             // FIXME: vectorize Mult.
             (&Node_::Mult(..), &Node_::Apply(..)) => {
               let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
-              let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
+              let rarg_s = self._node_render_praline_(cfg, &**rarg.as_ref().ok_or(())?, true)?;
               buf.push_str(&rarg_s);
               buf.push_str(" -> ");
               buf.push_str(&larg_s);
             }
-            (&Node_::Mult(ref l_rev_args), &Node_::Mult(ref r_rev_args)) => {
+            (&Node_::Mult(ref l_rev_args), &Node_::Mult(ref _r_rev_args)) => {
               if let Some(&(_, ref llarg)) = l_rev_args.iter().next() {
                 //if let Some(&(_, ref rrarg)) = r_rev_args.iter().next() {
                   match &**llarg {
                     &Node_::Name(..) => {
-                      for (k, &(_, ref rarg)) in r_rev_args.iter().rev().enumerate() {
-                        let rarg_s = self._node_render_praline(cfg, rarg)?;
-                        if k > 0 {
-                          buf.push_str(",");
-                        }
-                        buf.push_str(&rarg_s);
-                        buf.push_str("()");
-                      }
+                      let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
+                      let rarg_s = self._node_render_praline_(cfg, &**rarg.as_ref().ok_or(())?, true)?;
+                      buf.push_str(&rarg_s);
                       buf.push_str(" -> ");
-                      for (k, &(_, ref larg)) in l_rev_args.iter().rev().enumerate() {
-                        let larg_s = self._node_render_praline(cfg, larg)?;
-                        if k > 0 {
-                          buf.push_str(",");
-                        }
-                        buf.push_str(&larg_s);
-                      }
+                      buf.push_str(&larg_s);
                     }
                     _ => {
                       println!("DEBUG:  Geometry::_node_render_praline: Unify unimpl: non-Name Mult Mult");
@@ -2087,7 +2103,7 @@ impl Geometry {
             (&Node_::Apply(..), &Node_::Pair(..)) |
             // FIXME: vectorize Mult.
             (&Node_::Apply(..), &Node_::Mult(..)) => {
-              let larg_s = self._node_render_praline(cfg, &**larg.as_ref().ok_or(())?)?;
+              let larg_s = self._node_render_praline_(cfg, &**larg.as_ref().ok_or(())?, true)?;
               let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
               buf.push_str(&larg_s);
               buf.push_str(" -> ");

@@ -65,11 +65,14 @@ fn main() {
     //geom.set_backtrace_limit(1000);
     geom.set_backtrace_limit(3000);
     //geom.set_backtrace_limit(10_000);
-    if false && i >= adhoc_start {
-      geom.set_trace(true);
-    } else {
-      geom.set_trace(false);
-    }
+    let mut trace = false;
+    let mut verbose = false;
+    // NB: uncomment for extra debug output.
+    /*if i == _ || i >= adhoc_start {
+      //trace = true;
+      verbose = true;
+    }*/
+    geom.set_trace(trace);
     let t0 = get_time();
     let res = geom.match_(val);
     match res {
@@ -114,8 +117,7 @@ fn main() {
         unmatch.push((TotalOrd(1.0 - geom.emit_longest_str().len() as f64 / val.len() as f64), i, geom.emit_longest_str().into()));
       }
     }
-    // NB: uncomment for extra debug output.
-    /*
+    if verbose {
     for (i, name) in geom._names().iter().enumerate() {
       println!("DEBUG:  name[{}]={:?}", i, name);
     }
@@ -128,7 +130,7 @@ fn main() {
     for i in geom._roots() {
       println!("DEBUG:  root[{:?}]={:?}", i, geom._node_lookup(i));
     }
-    */
+    }
     if let Ok(_) = res {
       if let Ok(s) = geom._render_praline() {
         println!("INFO:   P={:?}", s);
