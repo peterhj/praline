@@ -1878,12 +1878,12 @@ impl Geometry {
                 if k > 0 {
                   buf.push_str(" , ");
                 }
-                let rarg_s = self._node_render_praline(cfg, &**rarg)?;
+                let rarg_s = self._node_render_praline_(cfg, &**rarg, true)?;
                 buf.push_str(&rarg_s);
               }
             }
             _ => {
-              let rarg_s = self._node_render_praline(cfg, &**rarg.as_ref().ok_or(())?)?;
+              let rarg_s = self._node_render_praline_(cfg, &**rarg.as_ref().ok_or(())?, true)?;
               buf.push_str(&rarg_s);
             }
           }
@@ -1904,6 +1904,9 @@ impl Geometry {
           buf.push_str("\"");
           if cfg.attr {
           buf.push_str(&phead_s.to_praline_attr());
+          }
+          if hint_term {
+            buf.push_str("()");
           }
         }
         &Node_::Prefix(ref largs, ref rarg) => {
@@ -1939,16 +1942,13 @@ impl Geometry {
             if k > 0 {
               buf.push_str(" , ");
             }
-            let larg_s = self._node_render_praline(cfg, &**larg)?;
+            let larg_s = self._node_render_praline_(cfg, &**larg, true)?;
             buf.push_str(&larg_s);
           }
           if largs.len() > 0 {
             buf.push_str(" )");
           }
           }
-          /*if hint_term {
-            buf.push_str("()");
-          }*/
         }
         &Node_::Pred(ref pred_s, ref larg, ref rarg, ref ctl_args) => {
           /*if pred_s.as_raw_str() == "distinct" {
